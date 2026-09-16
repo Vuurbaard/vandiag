@@ -24,7 +24,7 @@ Before relying on a wiring-diagram page, confirm that its engine, production dat
 
 The van does not start after the starter batteries were changed. The ignition powers up and the vehicle beeps, but communication with the PCM fails in FORScan. The exact start behavior still needs to be recorded as either:
 
-- [ ] **No crank:** starter does not turn the engine
+- [x] **No crank:** starter does not turn the engine (confirmed T-001)
 - [ ] **Crank, no start:** starter turns the engine but it does not run
 - [ ] **Starts and stalls**
 
@@ -223,11 +223,14 @@ Rank hypotheses by how well they explain **all** observations, not by how expens
 
 | Hypothesis | Evidence for | Evidence against | Discriminating test | Status |
 | --- | --- | --- | --- | --- |
-| Open/missing CAN termination or network path | Previous DLC resistance around 118–120 Ω | Test conditions not recorded | Repeat resistance test correctly; map terminations in diagram | Open |
-| Missing PCM power, ground, relay output, or wake feed | PCM communication failure; relay/fuse observations | PCM reportedly powers up, but evidence is incomplete | Loaded feed tests and ground voltage-drop tests at PCM | Open |
+| Open/missing CAN termination or network path | DLC resistance ≈ 120 Ω measured twice now (historical H-06 and fresh T-006 reading) instead of the ~60 Ω expected with both terminators present — consistent with one terminator's branch missing/disconnected/unpowered | Exact measurement conditions (sleep state, timing) not yet confirmed for either reading; doesn't yet identify which module/branch | Full module scan to see which modules respond vs. don't, to localize the missing branch; then map terminator locations in the diagram | Open — leading hypothesis, alongside battery reinstall |
+| Missing PCM power, ground, relay output, or wake feed | T-007: full FORScan scan shows PCM alone fails to respond ("Error"/unreadable) while every other module (APIM, SASM, PAM, HCM, BCMii, FCDIM, ACM, IPC) responds normally with its own DTC list — isolating the fault to PCM's own circuit rather than the DLC/bus generally; matches T-006's 120 Ω reading if PCM houses one bus terminator | PCM reportedly powers up (per garage, H-04), but that claim is unverified; other modules' U0100/U0401 codes could theoretically stem from a shared cause rather than PCM alone (not yet fully excluded) | Voltage-drop test PCM grounds (pins 2/3/42/53 via G105, pin 7 via G104; PDF p.1, section 151-2, connector C175B) and PCM power/wake feeds at key-on | Open — leading hypothesis |
 | Connector, splice, fuse-box, or harness fault | Multiple communication/electrical symptoms | No fault location confirmed | Diagram-led point-to-point measurements and inspection | Open |
 | PCM internal fault | PCM does not communicate | External circuits have not yet been fully verified | Verify all external requirements and network integrity first | Unproven |
 | BCM fault | BCM/network involvement is possible | BCM was externally tested and declared OK | Obtain report; verify in-vehicle inputs/outputs only if evidence points here | Lower priority |
+| Pre-existing fault predating battery replacement (remote-entry failure came first) | T-002: key fob stopped unlocking the van *before* the battery swap; replacing batteries did not fix the no-start/no-comms fault | T-003: mechanical-key central locking still works normally, suggesting BCM output/power/ground is functional and the fob fault may be separate (weak fob battery, RF receiver, pairing) | Confirm exact timeline; try a spare fob or replace the reporting fob's battery once no-start is resolved, as a lower priority | Open, lower priority |
+| Error or damage introduced during battery reinstall (polarity, series/parallel mix-up, loose terminal, blown fuse) | T-005: the no-start/"Engine, Service Now"/no-PCM-comms fault has never occurred before; it first appeared on the very first key-turn immediately after both new batteries were fitted and the seat reattached | Not yet inspected — polarity, parallel wiring, terminal tightness, and the local fuse box have not been checked since | Inspect battery polarity/wiring and the under-seat fuse box for visible damage; voltage-drop test main feeds | Open — leading hypothesis |
+| Disturbed/incompletely reconnected driver's-seat harness connector(s) | T-003/T-004: driver's seat was removed (before the holiday, as an anti-theft measure) and reinstalled later; fob failure occurred while seat was still out | T-006: connectors were confirmed fully unplugged on both removals, and the no-start/no-comms result was unchanged either way — the seat harness itself is not driving the current fault | Low priority; revisit only if other leads are exhausted | Deprioritized |
 
 ## Definition of done
 
