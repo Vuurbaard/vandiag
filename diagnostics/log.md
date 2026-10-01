@@ -270,3 +270,57 @@ Sequential IDs: `T-001`, `T-002`, …
 - Interpretation: We now have diagram-confirmed pin data for grounds, power (VPWR/wake/relay-control), and CAN bus (pins 10/11, from T-011) — everything needed to fully test the PCM's external requirements per README rule 8, once physical back-probe access is available. The OCR approach (needed a 300dpi re-render; the first 120dpi pass was unusable) is a viable way to search this PDF in future if more pages are needed, without burning many manual visual-sampling calls.
 - Evidence files/photos: none (source is the repository's own PDF, already cited). OCR intermediate files were written to a local scratch directory outside the repo, not committed.
 - Next action: nothing further needed from the diagram for now. Still pending: physical identification of C175B on the van, and the actual voltage tests (grounds, VPWR, WAKE, CAN) once back-probe pins arrive. No urgency — reporter is between diagnostic sessions.
+
+## T-013 — First numeric battery voltage reading
+
+- Date/time: 2026-09-29 (exact time not recorded)
+- Performed by: Sander
+- Goal: Get the first numeric battery voltage reading, which T-002 asked for.
+- Source: N/A
+- Vehicle state: not yet specified. Unknown: key position, how long since the last charge, key-on or crank attempt, and whether any load (doors open, dome lights) was on.
+- Tool and mode: multimeter, DC volts (model not recorded)
+- Connector state: not specified. Unknown whether both batteries were still connected in parallel or were measured separately.
+- Reference/ground point: not specified. Assumed to be across the battery posts.
+- Probe points: not specified
+- Expected result: a fully charged, rested 12 V lead-acid/AGM battery reads about 12.6–12.8 V. Near 12.4 V means about 75% charge, near 12.2 V about 50–60%, and below about 12.0 V means discharged.
+- Actual result: **12.28 V**
+- Interpretation: If this is a rested, key-off reading across the posts, the batteries are only about half charged. That is lower than expected for batteries T-002 described as "freshly charged," so it suggests either a slow drain (a parasitic draw, possibly a module that stays awake) or an incomplete charge. It is not a reading taken while cranking, so it neither confirms nor rules out a supply problem as the cause of the no-crank. 12.28 V is well above the level where modules normally stop communicating, and every other module answered in T-007, so this voltage alone does **not** explain why the PCM is silent. The PCM circuit tests (grounds, VPWR, WAKE) from T-012 stay the leading next step. Conditions still need confirming before the number is used further.
+- Evidence files/photos: none.
+- Next action: confirm the measurement conditions (see conversation), then do the loaded/key-on voltage check as part of the C175B power tests.
+
+## T-014 — Measurement conditions for T-013 confirmed
+
+- Date/time: 2026-09-29 (exact time not recorded)
+- Performed by: Sander
+- Goal: Fill in the missing conditions for the T-013 battery voltage reading.
+- Source: N/A
+- Vehicle state: key off. Van idle for about 2 weeks (last recorded session was 2026-09-16, T-007 to T-012). Not yet known when the batteries were last charged, or whether anything was charging them during the idle period.
+- Tool and mode: multimeter, DC volts
+- Connector state: both batteries connected together (normal parallel setup)
+- Reference/ground point: battery − post
+- Probe points: directly on the battery posts (not the clamps)
+- Expected result: see T-013
+- Actual result: confirms T-013's **12.28 V** as a fully rested, key-off, open-circuit reading of the combined battery pack.
+- Interpretation: With the van this well rested, surface charge is not a factor. 12.28 V is a genuine state of charge of about 50–60%. Whether this is a problem depends on when the batteries were last fully charged:
+  - If they were charged fully around 2026-09-16 or later, losing this much in 2 weeks while idle points to an **abnormal parasitic drain**, meaning something is not going to sleep. That fits the original 2015-dated batteries going flat and the fob symptom (T-002) as well. Not confirmed.
+  - If they were last charged long before that, 12.28 V may just be normal self-discharge plus the key-on sessions on 2026-09-16.
+  None of this changes the T-013 conclusion that 12.28 V does not by itself explain the silent PCM.
+- Evidence files/photos: none.
+- Next action: find out the last full-charge date; take the key-on and (optionally) cranking readings requested in T-013. A parasitic-draw (current) test is a candidate for later, after the PCM power tests, depending on the charge history.
+
+## T-015 — Last full-charge date unknown
+
+- Date/time: 2026-09-29
+- Performed by: Sander
+- Goal: Establish when the batteries were last fully charged, to interpret T-013/T-014.
+- Source: N/A
+- Vehicle state: N/A
+- Tool and mode: N/A
+- Connector state: N/A
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result: unknown. The garage charged them last, possibly a month or more ago. No exact date.
+- Interpretation: The T-014 question cannot be answered from history. 12.28 V after an unknown period of a month or more fits normal self-discharge plus the key-on sessions just as well as a parasitic drain. The drain hypothesis stays **open but unsupported**. It can't be settled from this data; a controlled test is needed: charge fully, record the date, then recheck the rested voltage after a known number of days.
+- Evidence files/photos: none.
+- Next action: fully charge the batteries (record the date/time the charge finished), then take the T-013 key-off / key-on / crank readings on a known-good supply.

@@ -37,6 +37,24 @@ Do not treat old EGR/MAF drivability symptoms as the cause of the current no-sta
 
 Record both the **PDF page number** and the **printed diagram/page identifier** when citing it, because PDF numbering can differ from the document's printed numbering.
 
+## Body and Equipment Mounting Manual (BEMM)
+
+- Repository file: [`benl_montagehandleiding-Transit-Custom.pdf`](./benl_montagehandleiding-Transit-Custom.pdf)
+- Ford Transit Custom 2012.75 BEMM, publication 02/2015, 206 pages, English text despite the filename.
+
+Unlike the wiring-diagram PDF this one has a text layer, so `pdftotext` and search work. It is a converter's manual, not a workshop manual: use it as a secondary source for locations, routing, and system descriptions, and keep the wiring diagram as the primary source for pinouts. Most relevant chapters (printed page numbers from its table of contents):
+
+| Section | Topic | Page |
+|---|---|---|
+| 4.1 | Wiring installation and routing guides | 62 |
+| 4.2 | Communications network (CAN) | 76 |
+| 4.3 | Charging system | 82 |
+| 4.4 | Battery and cables | 94 |
+| 4.8 | Electronic engine controls | 111 |
+| 4.16 | Fuses and relays | 135 |
+| 4.18 | Electrical connectors and connections | 143 |
+| 4.19 | Grounding | 164 |
+
 ## Known diagnostic history
 
 The entries below are historical reports and must not silently be promoted to confirmed measurements. Repeat only when the result is important and the original test conditions are unknown.
@@ -203,6 +221,7 @@ Use sequential IDs (`T-001`, `T-002`, …). If a result is corrected later, add 
 vandiag/
 ├── README.md
 ├── Ford-Transit-Custom-1-2012-2020-–-Wiring-Diagrams.pdf
+├── benl_montagehandleiding-Transit-Custom.pdf   # Body and Equipment Mounting Manual (BEMM)
 ├── diagnostics/
 │   ├── log.md                 # Append-only test results
 │   ├── dtc-history.md         # DTCs with date, module, status, and freeze-frame data
