@@ -451,3 +451,30 @@ Sequential IDs: `T-001`, `T-002`, …
   - With the PCM apparently awake but absent from the bus, and 120 Ω instead of 60 Ω at the DLC (T-006), the CAN wiring between the PCM (C175B pins 10/11) and the rest of the network becomes the leading suspect, ahead of an internal PCM fault. Whether one of the two terminators is inside the PCM is still unconfirmed.
 - Evidence files/photos: none.
 - Next action: check F7 (7.5A, engine compartment fuse box, the remaining PCM fuse) key off and key on. After that the tests move to the PCM connector C175B.
+
+## T-022 — Voltage at F7, and relay R17 emits a high-pitched tone at key-on
+
+- Date/time: 2026-10-02 (exact time not recorded)
+- Performed by: Sander
+- Goal: Check the remaining PCM fuse (F7) and observe what the PCM relay R17 does at key-on (asked for in T-020/T-021).
+- Source: owner's manual fuse chart and figure E148826 (T-020) for F7 and R17; PDF page 238, printed "2.2L", section 151-2 for the relay circuit. F7's own circuit has not been traced in the wiring diagram.
+- Vehicle state: key OFF, then key ON; engine off. Battery about 12.3–12.4 V at key-on (T-018, T-021).
+- Tool and mode: multimeter, DC volts; relay behavior by ear
+- Connector state: F7 left in place. **Relay R17 was pulled out with the ignition on** as part of the observation; assumed refitted afterwards (not stated).
+- Reference/ground point: assumed battery − as instructed
+- Probe points: both test points on top of F7 (7.5A), engine compartment fuse box
+- Expected result: both test points equal; battery voltage at least with the key on. Relay: a single click at key-on, then silent.
+- Actual result:
+  - F7, key off: **0 V** on both test points.
+  - F7, key on: **12.28 V** on both test points.
+  - With the ignition on, **R17 buzzes heavily: a steady high-pitched tone, not a rattle.**
+  - Pulling R17 with the ignition on makes the tone stop.
+- Interpretation:
+  - F7 is intact and is an ignition-switched feed (dead with the key off). Together with T-021, every fuse listed for the PCM in the owner's manual now has voltage at key-on, except F14, whose function is shown indirectly by the relay closing.
+  - This reproduces historical entry H-11 ("R17 produced a whining sound") as a fresh observation and settles which R17 it was.
+  - A relay coil on steady DC is silent after its click. A continuous tone means the coil current is being switched on and off rapidly. The contacts still pass a steady 12.38 V (T-021), so the switching is too fast for the contacts to follow.
+  - Per p.238 the only thing that switches this coil is the PCM, on pin 48 (PCMRC). So either (a) the PCM's relay command is pulsing, or (b) the relay itself is faulty. For (a), one explanation that would also account for the missing CAN communication is a PCM that keeps restarting, for example because a supply pin or ground at C175B drops out under load. That is a hypothesis, not a finding. Whether a pulsed relay command is normal on this van is not known either.
+  - The tone stopping when R17 is pulled shows R17 is involved, but pulling it also cuts power to everything it feeds (wire CE612 to other engine-control loads), so it does not prove the sound comes from the relay body itself.
+  - Key-on sessions today have used some charge; the T-017 drain baseline of 12.75 V no longer applies cleanly.
+- Evidence files/photos: none. A short phone video with sound of the tone would be useful evidence.
+- Next action: with the key off, swap R17 with an identical relay from the same box (same part number and pin layout printed on the case) and check whether the tone follows the relay or stays at the R17 position.
