@@ -426,3 +426,28 @@ Sequential IDs: `T-001`, `T-002`, …
   - The page gives no model year. Compare the layout image with the real box before measuring.
 - Evidence files/photos: `references/fuse-boxes/E148826-engine-compartment-fuse-box.jpg`, `references/fuse-boxes/E148827-passenger-compartment-fuse-box.jpg`
 - Next action: the F35 test from T-019, in the engine compartment fuse box. While the key is on, also listen and feel for whether R17 clicks once, buzzes, or does nothing.
+
+## T-021 — Voltage at F35 (PCM relay output), key off and key on
+
+- Date/time: 2026-10-02 (exact time not recorded)
+- Performed by: Sander
+- Goal: Find out whether the PCM relay closes at key-on and delivers power towards the PCM (test proposed in T-019).
+- Source: `Ford-Transit-Custom-1-2012-2020-–-Wiring-Diagrams.pdf`, PDF page 238, printed "2.2L", PCM section 151-2; fuse position from owner's manual figure E148826 (T-020)
+- Vehicle state: battery 12.75 V rested (T-017), about 12.35 V at key-on (T-018); key OFF, then key ON; engine off
+- Tool and mode: multimeter, DC volts
+- Connector state: fuse F35 left in place, nothing disconnected
+- Reference/ground point: assumed battery − as instructed (not explicitly restated)
+- Probe points: both test points on top of F35 (15A), engine compartment fuse box
+- Expected result: key off about 0 V on both points; key on about battery voltage on both points if the relay closes.
+- Actual result:
+  - Key off: **0 V** on both test points.
+  - Key on: **12.38 V** on both test points.
+  - Not reported: what relay R17 does at key-on (single click, buzz/whine, nothing), and whether the real box matches the layout picture. Finding F35 where the picture shows it suggests it does.
+- Interpretation:
+  - F35 is intact, and at key-on full battery voltage leaves the fuse box for the PCM. F15 (40A) and the relay contacts are therefore working. This also clears the doubt raised in T-020 about H-08's check of F14/F15.
+  - Per p.238 the relay coil is fed from F14 (hot at all times) and its other side goes only to PCM pin 48 (PCMRC). The relay is open with the key off and closed with the key on, so something is switching pin 48 with the key. A wire shorted to ground would hold the relay closed with the key off too, and that is not what was measured. The simplest reading is that **the PCM wakes up and commands its own relay**. That needs the PCM to have its wake signal, at least one ground, and working logic. It matches the garage's report H-04 ("PCM powers up but has no output").
+  - A meter cannot tell a steadily closed relay from one that chatters quickly; a stable 12.38 V reading makes heavy chatter unlikely but does not rule it out (see H-11).
+  - This weakens "missing PCM power/wake" as the cause. Not yet shown: that the 12.38 V actually arrives at C175B pins 29/17/5 (wire CBB35, splice S103), and that all five grounds hold under load.
+  - With the PCM apparently awake but absent from the bus, and 120 Ω instead of 60 Ω at the DLC (T-006), the CAN wiring between the PCM (C175B pins 10/11) and the rest of the network becomes the leading suspect, ahead of an internal PCM fault. Whether one of the two terminators is inside the PCM is still unconfirmed.
+- Evidence files/photos: none.
+- Next action: check F7 (7.5A, engine compartment fuse box, the remaining PCM fuse) key off and key on. After that the tests move to the PCM connector C175B.
