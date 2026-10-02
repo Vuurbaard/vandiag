@@ -478,3 +478,27 @@ Sequential IDs: `T-001`, `T-002`, …
   - Key-on sessions today have used some charge; the T-017 drain baseline of 12.75 V no longer applies cleanly.
 - Evidence files/photos: none. A short phone video with sound of the tone would be useful evidence.
 - Next action: with the key off, swap R17 with an identical relay from the same box (same part number and pin layout printed on the case) and check whether the tone follows the relay or stays at the R17 position.
+
+## T-023 — Relay swap R17/R9: tone stays at the R17 position; tone continues about a minute after key-off
+
+- Date/time: 2026-10-02 (exact time not recorded)
+- Performed by: Sander
+- Goal: Find out whether the high-pitched tone (T-022) comes from a faulty relay or from the signal driving it.
+- Source: owner's manual figure E148826 (T-020) for relay positions; PDF page 238, printed "2.2L", section 151-2 for the relay circuit
+- Vehicle state: key OFF for the swap, then key ON; engine off
+- Tool and mode: none (by ear)
+- Connector state: relays R17 (PCM) and R9 (starter motor) exchanged; reported as the same relay type. Markings on the case not recorded. Whether they have been swapped back is not stated.
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: tone stays at the R17 position if the drive signal causes it; tone moves to R9 or disappears if the original relay is faulty.
+- Actual result:
+  - With the former R9 relay in the R17 position: **same high-pitched tone** at key-on.
+  - New observation: **the tone continues for about a minute after the key is removed**, then stops.
+- Interpretation:
+  - The relay is not the fault. The tone comes from how the coil at the R17 position is driven, which per p.238 is the PCM on pin 48 (PCMRC).
+  - The minute of run-on after key-off is the self-latch described on p.238: the PCM holds its own relay closed for a while after the key is off, then releases it. So the PCM is powered, awake, and running at least enough of its program to manage its own shutdown. It is still absent from the CAN bus (T-007).
+  - The T-021 "key off = 0 V" reading at F35 must have been taken with the relay released (before key-on, or more than about a minute after key-off). Unconfirmed, but it fits.
+  - It is still not known whether a pulsed relay command is normal on this PCM or a sign of trouble (unstable supply or ground at the PCM, or an internal fault). The orderly one-minute shutdown fits a PCM that is running steadily better than one that keeps restarting, but does not settle it.
+  - Everything that can be checked from the fuse box has now been checked. The open questions are all at connector C175B: supply on pins 29/17/5, the five grounds under load, and the CAN wires on pins 10/11.
+- Evidence files/photos: none.
+- Next action: physically locate the PCM and connector C175B on the van (still outstanding from T-010/T-012) and photograph the connector and its label, without unplugging anything yet. Confirm the two relays are back in their original positions.
