@@ -341,3 +341,20 @@ Sequential IDs: `T-001`, `T-002`, …
 - Interpretation: The pack took a charge and now reads in the fully-charged range. If the reading was taken soon after the charger came off, some of it is surface charge and the rested value will be a little lower; that still leaves the supply good enough for the PCM circuit tests. This gives the known starting point T-015 asked for: a rested key-off reading after a known number of days will show whether there is an abnormal drain. It does not change the T-013 conclusion that battery voltage alone does not explain the silent PCM.
 - Evidence files/photos: none.
 - Next action: confirm when the charge finished and how long the charger was off before the reading; then take the key-on reading at the battery posts that T-013 asked for.
+
+## T-017 — Measurement conditions for T-016 confirmed
+
+- Date/time: 2026-10-02 (exact time not recorded)
+- Performed by: Sander
+- Goal: Fill in the missing conditions for the T-016 battery voltage reading.
+- Source: N/A
+- Vehicle state: key off. Charge finished about 6 hours before the reading.
+- Tool and mode: multimeter, DC volts
+- Connector state: assumed both batteries connected in parallel and the charger disconnected (not explicitly stated)
+- Reference/ground point: at the batteries themselves
+- Probe points: at the batteries themselves (posts vs. clamps not explicitly stated)
+- Expected result: see T-016
+- Actual result: confirms T-016's **12.75 V** as a key-off reading taken about 6 hours after charging.
+- Interpretation: After 6 hours most surface charge has gone, so 12.75 V is a genuine near-full state of charge. The supply is now a known-good starting point for the key-on reading and the PCM circuit tests. It is also the baseline for the drain check from T-015: charge finished on 2026-10-02, about 6 hours before a 12.75 V reading. A rested key-off reading after a known number of days, with no key-on sessions in between or with those noted, can be compared against it.
+- Evidence files/photos: none.
+- Next action: key-on reading at the battery posts (outstanding since T-013), and optionally the lowest voltage during a crank attempt.
