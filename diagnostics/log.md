@@ -399,3 +399,30 @@ Sequential IDs: `T-001`, `T-002`, …
   - The physical locations of the AJB and BJB are not confirmed from the diagram. H-08 places "F14 5 A and F15 40 A" in the engine bay, which is reported history only.
 - Evidence files/photos: none (source is the repository's own PDF).
 - Next action: measure voltage on both test points of F35 (15A) at key-off and key-on, reference battery −.
+
+## T-020 — F35 and the PCM relay located via the owner's manual fuse chart
+
+- Date/time: 2026-10-02
+- Performed by: Claude (lookup at reporter's request, from a link in the reporter's own notes)
+- Goal: Find where F35 physically is, so the T-019 test can be done.
+- Source: Ford online owner's manual, "Fuse Specification Chart - 2.2L Diesel" (fordservicecontent.com, variantid 6946, moidRef G539642), layout figures E148826 (engine compartment fuse box) and E148827 (passenger compartment fuse box). Model year is not stated on the page.
+- Vehicle state: N/A
+- Tool and mode: N/A
+- Connector state: N/A
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result:
+  - **F35 (15A, "Powertrain control module") is in the engine compartment fuse box**: right-hand column of small fuses (F33–F39), third from the top, next to relays R16/R17.
+  - **R17 in the engine compartment fuse box is the Powertrain control module relay.**
+  - F14 (5A) and F15 (40A), both "Powertrain control module", are listed in the **passenger compartment fuse box**.
+  - F7 (7.5A, engine compartment fuse box) is listed as "Powertrain control module. Telematics control unit module." This feed is not on PDF p.238.
+  - The passenger compartment fuse box has its own, unrelated F35.
+  - Layout images saved to `references/fuse-boxes/`; details in `references/diagram-notes.md`.
+- Interpretation:
+  - Fuse numbers, ratings and the PCM relay match PDF p.238, so the diagram's "Battery Junction Box" is the engine compartment fuse box and its "Auxiliary Junction Box" is the passenger compartment fuse box. This mapping is inferred, not stated by either source.
+  - Historical entry H-11 ("R17 produced a whining sound") may be about the PCM relay, if H-11's R17 was in the engine compartment box. A relay that whines or buzzes is usually being switched rapidly or held weakly. That would fit a PCM that starts to power up and drops out again. Unconfirmed: H-11 never recorded which box.
+  - Historical entry H-08 places "F14 5 A and F15 40 A" in the engine bay, while the owner's manual puts the PCM's F14/F15 in the passenger compartment box. Those earlier checks may have been done on the wrong fuses. Unconfirmed.
+  - The page gives no model year. Compare the layout image with the real box before measuring.
+- Evidence files/photos: `references/fuse-boxes/E148826-engine-compartment-fuse-box.jpg`, `references/fuse-boxes/E148827-passenger-compartment-fuse-box.jpg`
+- Next action: the F35 test from T-019, in the engine compartment fuse box. While the key is on, also listen and feel for whether R17 clicks once, buzzes, or does nothing.

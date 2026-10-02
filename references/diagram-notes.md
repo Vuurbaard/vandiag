@@ -78,3 +78,31 @@ is **2.2L**.
 does not appear to have a "connector end views" appendix (checked the final
 pages, p.633–637, none found). Identify it in the van directly: Ford
 connectors are normally labeled on the housing itself near the latch/lever.
+
+## Fuse box layouts (Ford owner's manual, "Fuse Specification Chart - 2.2L Diesel")
+
+Source: Ford online owner's manual page linked from Sander's own notes
+(fordservicecontent.com, variantid 6946, moidRef G539642). The page does not
+state a model year, so check the layout against the real box before trusting a
+position. Layout images saved in `references/fuse-boxes/`. See
+diagnostics/log.md T-020.
+
+| Owner's manual name | Wiring-diagram name (p.238) | PCM-related items | Layout image |
+| --- | --- | --- | --- |
+| Engine compartment fuse box | Battery Junction Box (BJB) | **F35 15A** PCM; **R17** PCM relay; F7 7.5A PCM + telematics module | `E148826-engine-compartment-fuse-box.jpg` |
+| Passenger compartment fuse box | Auxiliary Junction Box (AJB) | **F14 5A** PCM; **F15 40A** PCM | `E148827-passenger-compartment-fuse-box.jpg` |
+
+The name mapping is inferred from matching fuse numbers, ratings and the PCM
+relay; neither document states it outright.
+
+- **F35 position (engine compartment box):** right-hand column of small fuses
+  (F33–F39, top to bottom), third from the top, directly left of the large
+  relays R16/R17. R17 (PCM relay) is the third large relay down on the right
+  edge.
+- **The passenger compartment box also has a fuse numbered F35.** That is a
+  different circuit. The PCM fuse is the one in the engine compartment box.
+- F7 (7.5A, engine compartment box, bottom of the left-hand column of small
+  fuses) is a PCM feed that does not appear on p.238. Its circuit has not been
+  traced in the wiring diagram.
+- Other engine compartment relays from the same page: R9 starter motor, R12
+  fuel pump, R1 ignition relay 3, R2 not used.
