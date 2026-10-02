@@ -41,16 +41,33 @@ is **2.2L**.
 
 ### PCM power-feed circuit (found — PDF p.238, "2.2L")
 
-- **AUXILIARY JUNCTION BOX (AJB)**, fuses **F15 (40A)** and **F14 (3A)**, both
-  "Hot at all times" (section 13-7).
+- **AUXILIARY JUNCTION BOX (AJB, section 11-1)**, fuses **F15 (40A)** and
+  **F14 (5A)**, both "Hot at all times" (section 13-7). An earlier version of
+  this note said F14 was 3A; a 300dpi re-read of p.238 shows **5A** (see
+  diagnostics/log.md T-019).
 - These feed a dedicated **PCM relay**, physically inside the **BATTERY
-  JUNCTION BOX (BJB)** (section 11-3).
-- The relay's switched output feeds PCM connector C175B pins **29, 17, 5
-  (VPWR)** via splice S103.
-- The PCM itself commands/holds that relay via pin **48 (PCMRC)** — this is
-  the self-power-latch circuit that lets the PCM stay powered briefly after
-  key-off. A separate wake signal from the BCM arrives on pin **28 (PCM
-  WAKE)**, wire CE436, through connector C2280C at the BCM.
+  JUNCTION BOX (BJB)** (section 11-3), through connector C139:
+  - F15 → C139 pin 6 → wire SB115 (WH-RD) → relay pin **3** (switch contact
+    feed).
+  - F14 → C139 pin 24 → wire SB114 (BN-RD) → relay pin **1** (coil feed).
+- The relay's switched output (pin **5**) feeds two things:
+  - **BJB fuse F35 (15A, section 13-7)** → wire CBB35 (YE-GY) → splice S103 →
+    PCM connector C175B pins **29, 17, 5 (VPWR)**.
+  - wire CE612 (GY-VT) → splice S112 → other engine-control loads (references
+    A/B/C to sections 23-3 and 23-5; not traced).
+- Relay coil pin **2** → wire CE302 (YE-BU) → C175B pin **48 (PCMRC)**. The
+  coil is fed from F14 and the PCM completes the circuit on pin 48, so the
+  relay only closes when the PCM itself commands it. This is the
+  self-power-latch circuit that lets the PCM stay powered briefly after
+  key-off.
+- A separate wake signal from the BCM arrives on pin **28 (PCM WAKE)**, wire
+  CE436 (VT-OG), from BCM connector C2280C pin 70 through C139 pin 23.
+- Ground wires: pin 7 → GD121 (BK-YE) → S118 → G104; pins 2, 3, 42, 53 →
+  GD120 (BK-GN) → S101 → G105 (section 10-1).
+- **F35 is the easiest test point on this circuit**: voltage on it at key-on
+  shows whether the PCM relay has closed, without needing access to C175B.
+- Physical locations of the AJB and BJB on the van are not yet confirmed from
+  the diagram (sections 11-1 / 11-3 not yet located in the PDF).
 - Grounds shown on this same page (pins 2, 3, 7, 42, 53) match the p.1
   grounds-index page exactly — good cross-check that both sources are
   reliable.

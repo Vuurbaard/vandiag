@@ -358,3 +358,44 @@ Sequential IDs: `T-001`, `T-002`, …
 - Interpretation: After 6 hours most surface charge has gone, so 12.75 V is a genuine near-full state of charge. The supply is now a known-good starting point for the key-on reading and the PCM circuit tests. It is also the baseline for the drain check from T-015: charge finished on 2026-10-02, about 6 hours before a 12.75 V reading. A rested key-off reading after a known number of days, with no key-on sessions in between or with those noted, can be compared against it.
 - Evidence files/photos: none.
 - Next action: key-on reading at the battery posts (outstanding since T-013), and optionally the lowest voltage during a crank attempt.
+
+## T-018 — Battery voltage at key-on
+
+- Date/time: 2026-10-02 (exact time not recorded)
+- Performed by: Sander
+- Goal: See how far the battery voltage drops under the key-on load (outstanding since T-013).
+- Source: N/A
+- Vehicle state: key ON, held about 10 seconds; no crank attempt made; engine off. Rested key-off voltage beforehand 12.75 V (T-016/T-017).
+- Tool and mode: multimeter, DC volts
+- Connector state: assumed both batteries connected in parallel, charger disconnected
+- Reference/ground point: same spot on the battery as T-016/T-017
+- Probe points: same spot on the battery as T-016/T-017
+- Expected result: a drop of a few tenths of a volt, staying above about 12.2 V. Below about 12 V at key-on alone would point to a weak pack or a poor main connection.
+- Actual result: **about 12.35 V** (a drop of about 0.40 V from 12.75 V). No reading during cranking.
+- Interpretation: Within the expected range. The pack holds up under the key-on load, so the battery supply is not what keeps the PCM silent. This reading does not test the heavy starter cables, because no crank current was drawn. Whether the voltage was steady or still falling at 10 seconds was not recorded.
+- Evidence files/photos: none.
+- Next action: move on to the PCM power circuit. See T-019.
+
+## T-019 — PDF p.238 re-read: F14 rating corrected, F35 found in the VPWR path
+
+- Date/time: 2026-10-02
+- Performed by: Claude (diagram re-read at 300dpi)
+- Goal: Pick the least invasive first test on the PCM power circuit now that the battery supply is confirmed good.
+- Source: `Ford-Transit-Custom-1-2012-2020-–-Wiring-Diagrams.pdf`, PDF page 238, printed "2.2L", PCM section 151-2
+- Vehicle state: N/A
+- Tool and mode: N/A
+- Connector state: N/A
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result:
+  - **Correction to T-012 / `references/diagram-notes.md`:** AJB fuse F14 is **5A**, not 3A. This matches the "F14 5 A" in historical entry H-08.
+  - **Not noted before:** the PCM relay output (relay pin 5) reaches the PCM through **BJB fuse F35 (15A)**, then wire CBB35 (YE-GY) and splice S103 to C175B pins 29/17/5 (VPWR).
+  - The relay coil is fed from F14 on relay pin 1. Relay pin 2 goes on wire CE302 (YE-BU) to C175B pin 48 (PCMRC). The relay therefore only closes when the PCM itself completes the coil circuit.
+  - F15 (40A) feeds the relay switch contact on relay pin 3.
+- Interpretation:
+  - Historical entry H-12 ("pin 2 no feed", "F35 about 0.04 V without a relay") now has a likely reading: if it refers to this relay and this fuse, both results are what the diagram predicts with the relay removed, and are not evidence of a fault. H-12's connector and conditions were never documented, so this is unconfirmed.
+  - F35 is a test point for the whole chain without access to C175B. Voltage on F35 at key-on means F15, the relay contacts, and the PCM's own relay command all work. No voltage on F35 means the relay is not closing, and the cause is upstream: F14/F15 feed, the relay, the wake signal, or the PCM not commanding it.
+  - The physical locations of the AJB and BJB are not confirmed from the diagram. H-08 places "F14 5 A and F15 40 A" in the engine bay, which is reported history only.
+- Evidence files/photos: none (source is the repository's own PDF).
+- Next action: measure voltage on both test points of F35 (15A) at key-off and key-on, reference battery −.
