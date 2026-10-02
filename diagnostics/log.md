@@ -324,3 +324,20 @@ Sequential IDs: `T-001`, `T-002`, …
 - Interpretation: The T-014 question cannot be answered from history. 12.28 V after an unknown period of a month or more fits normal self-discharge plus the key-on sessions just as well as a parasitic drain. The drain hypothesis stays **open but unsupported**. It can't be settled from this data; a controlled test is needed: charge fully, record the date, then recheck the rested voltage after a known number of days.
 - Evidence files/photos: none.
 - Next action: fully charge the batteries (record the date/time the charge finished), then take the T-013 key-off / key-on / crank readings on a known-good supply.
+
+## T-016 — Battery voltage after charging
+
+- Date/time: 2026-10-02 (exact time not recorded)
+- Performed by: Sander
+- Goal: Recharge the batteries and record the voltage, as asked for in T-015.
+- Source: N/A
+- Vehicle state: not yet specified. Unknown: key position, when the charge finished, and how long the charger had been off before the reading.
+- Tool and mode: multimeter, DC volts (assumed, as in T-013)
+- Connector state: not specified. Assumed both batteries connected in parallel, as in T-014. Unknown whether the charger was still connected.
+- Reference/ground point: not specified. Assumed battery − post, as in T-014.
+- Probe points: not specified. Assumed directly on the battery posts, as in T-014.
+- Expected result: about 12.6–12.8 V for a fully charged, rested pack (see T-013). A reading taken soon after charging can sit higher than the true rested value because of surface charge.
+- Actual result: **12.75 V** (up from 12.28 V in T-013/T-014)
+- Interpretation: The pack took a charge and now reads in the fully-charged range. If the reading was taken soon after the charger came off, some of it is surface charge and the rested value will be a little lower; that still leaves the supply good enough for the PCM circuit tests. This gives the known starting point T-015 asked for: a rested key-off reading after a known number of days will show whether there is an abnormal drain. It does not change the T-013 conclusion that battery voltage alone does not explain the silent PCM.
+- Evidence files/photos: none.
+- Next action: confirm when the charge finished and how long the charger was off before the reading; then take the key-on reading at the battery posts that T-013 asked for.
