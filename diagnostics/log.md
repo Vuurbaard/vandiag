@@ -574,3 +574,23 @@ Sequential IDs: `T-001`, `T-002`, …
   - **Open discrepancy:** p.238 puts VPWR on pin 5 and grounds on pins 2 and 3, with nothing on pin 4. The photo suggests terminals in 2, 3 and 4 and none in 5. Either the photo misleads (terminal hidden or recessed), or this van's connector is populated differently from the diagram. This must be settled from the wire side before any reading is taken on "pin 5". Do not assume.
 - Evidence files/photos: `evidence/photos/2026-10-05-pcm-middle-connector-face.png`, `evidence/photos/2026-10-05-pcm-middle-connector-side.png`
 - Next action: on this connector, establish which of the five large cavities have a wire and each wire's colour (expected per p.238: black-green in 2 and 3, yellow-grey in 5), plus the colours at cavities 7, 17, 29, 42 and 53. Then reconnect, close the lever, and confirm the dash lights up as before.
+
+## T-027 — C175B large cavities: 2, 3 and 4 populated, 1 and 5 empty (visual)
+
+- Date/time: 2026-10-05 (exact time not recorded)
+- Performed by: Sander
+- Goal: Settle the discrepancy raised in T-026 between the connector photo and p.238.
+- Source: PDF page 238, printed "2.2L", section 151-2
+- Vehicle state: key state not stated
+- Tool and mode: visual, looking into the cavities from the mating face. The wire side cannot be seen; the connector's plastic cover is in the way.
+- Connector state: C175B (middle PCM connector) unplugged
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: per p.238, terminals in 2 and 3 (GND) and 5 (VPWR), none in 4.
+- Actual result: **no metal in cavities 1 and 5. Cavities 2, 3 and 4 have a terminal.** Wire colours not determined.
+- Interpretation:
+  - The T-026 photo reading was right: this connector does not match p.238 at the large cavities. p.238 shows a wire on pin 5 and none on pin 4; the van has the opposite. Reading the moulded numbers in the other direction does not help, because the two outer cavities are the empty ones either way.
+  - Not known: whether the diagram has pin 4 mislabelled as 5, whether this van is a different build from the one the diagram covers (README rule 4), or whether the cavity numbering in the diagram follows a different scheme from the numbers moulded on the housing. Until this is settled, **every C175B pin number taken from the diagram is unverified for this van**, including CAN on 10/11.
+  - The function of cavities 2, 3 and 4 can be established by meter without the diagram.
+- Evidence files/photos: `evidence/photos/2026-10-05-pcm-middle-connector-face.png` (T-026)
+- Next action: with C175B unplugged and the key out, measure DC volts and then resistance to ground on large cavities 2, 3 and 4.

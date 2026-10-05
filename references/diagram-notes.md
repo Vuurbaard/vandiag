@@ -85,7 +85,9 @@ brown/orange housing, TE 1563196-1) has 53 cavities and is C175B** (T-026):
 five large cavities 1–5 in one row, then rows 6–17, 18–29, 30–41, 42–53 with
 medium-size cavities at the row ends. Open point: in the T-026 photo large
 cavity 5 looks empty and 4 looks populated, while p.238 has VPWR on 5 and
-nothing on 4. Not yet resolved.
+nothing on 4. Confirmed by eye in T-027: 1 and 5 empty, 2, 3, 4 populated.
+**Treat every C175B pin number below as unverified for this van until the
+cause of this mismatch is known.**
 
 | Connector | Circuits seen so far | Source |
 | --- | --- | --- |
