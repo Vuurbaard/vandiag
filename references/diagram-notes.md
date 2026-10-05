@@ -89,6 +89,13 @@ nothing on 4. Confirmed by eye in T-027: 1 and 5 empty, 2, 3, 4 populated.
 **Treat every C175B pin number below as unverified for this van until the
 cause of this mismatch is known.**
 
+Cavities holding a terminal, by eye from the mating face (T-030; the reporter
+says this was hard to see and may contain mistakes): large 2, 3, 4; 6, 8, 9,
+11, 13–17; 18–24, 26–28; 30, 33, 34, 37, 38, 39; 44–47, 52. By this list the
+diagram's pins 5, 7, 10, 29, 42, 48 and 53 are empty on the van, so the
+moulded numbers do not line up with the diagram's pin numbers. Identify pins
+by measurement from known ends, not from the table below.
+
 | Connector | Circuits seen so far | Source |
 | --- | --- | --- |
 | C175B | Power, grounds, wake, relay control (p.238); HS CAN (p.298); exhaust gas temperature sensor 3, pin 8 (p.245) | sections 151-2, 23-17 |

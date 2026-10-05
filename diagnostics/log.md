@@ -636,3 +636,35 @@ Sequential IDs: `T-001`, `T-002`, …
   - The reference was a body ground, not battery negative, so this says nothing about the path from the body back to the battery.
 - Evidence files/photos: none.
 - Next action: unchanged from T-028: resistance between the F35 test point and cavities 4, 17 and 29.
+
+## T-030 — C175B cavity population by eye; cavity 4 reads 0 Ω to a fuse, cavity 2 reads about 4 Ω
+
+- Date/time: 2026-10-05 (exact time not recorded)
+- Performed by: Sander
+- Goal: Find which C175B cavities are fed by fuse F35 (next action from T-028/T-029), and record which cavities hold a terminal.
+- Source: PDF page 238, printed "2.2L", section 151-2; p.298 section 23-17 for CAN pins; F35 position from owner's manual figure E148826 (T-020)
+- Vehicle state: key out (as instructed; not restated), battery connected
+- Tool and mode: visual with a light; AstroAI AM33D, DC volts, then ohms (range not restated, 200 Ω instructed)
+- Connector state: C175B unplugged
+- Reference/ground point: engine-bay ground used before (T-029) for the voltage reading
+- Probe points: test point on top of the fuse; harness-side terminals in large cavities 4 and 2
+- Expected result: 0 V on F35; under 1 Ω between F35 and any cavity that is a supply pin.
+- Actual result:
+  - Cavities with a terminal, as seen from the mating face. **The reporter says this was hard to see and may contain mistakes.**
+    - Row 6–17: 6, 8, 9, 11, 13, 14, 15, 16, 17
+    - Row 18–29: 18, 19, 20, 21, 22, 23, 24, 26, 27, 28
+    - Row 30–41: 30, 33, 34, 37, 38, 39
+    - Row 42–53: 44, 45, 46, 47, 52
+    - Large row (T-027): 2, 3, 4
+  - F35: **0 V**.
+  - Fuse to cavity 4: **0 Ω**. Fuse to cavity 2: **3.9 to 4 Ω**.
+  - The message says "f15" for the resistance readings and "f35" for the voltage reading. Taken as F35 for both, **unconfirmed**. The medium cavities were not measured.
+- Interpretation:
+  - If the fuse was F35: cavity 4 is directly connected to the PCM supply fuse, so **cavity 4 is a supply pin**, and the supply line shows about 4 Ω to ground (seen via ground cavity 2). That is where p.238 draws "pin 5".
+  - This conflicts with T-028, where cavity 4 was reported as about 0 Ω to ground. Cavity 4 cannot be both 0 Ω to ground and 0 Ω to F35 while F35 is 4 Ω from ground cavity 2. One of the readings was mis-taken or reported loosely. Not resolved.
+  - If the fuse really was an F15, the reading must be discarded: the passenger-compartment F15 is hot at all times, and resistance cannot be measured on a live circuit.
+  - Whether about 4 Ω from the supply line to ground with the key off is normal is not known. Other engine-control loads hang on the same relay output (wire CE612, not traced).
+  - By this list, several cavities the diagram uses are empty on the van: 5 (VPWR), 29 (VPWR), 7, 42 and 53 (GND), 10 (HS CAN+), 48 (PCMRC). The numbers moulded on this housing therefore do not line up with the pin numbers on p.238/p.298, by more than one pin. Possible causes: the diagram's numbering scheme differs from the housing's, or the diagram is for a different build. The list itself is uncertain, so no mapping is drawn from it.
+  - Consequence: C175B pins must be identified on the van by measurement from known ends (F35 for supply, ground for grounds, relay R17 socket for the relay control wire, DLC for CAN), not read off the diagram.
+- Evidence files/photos: none new. Marked image for the follow-up: `evidence/photos/marked-C175B-face-2-3-4.jpg`
+- Next action: repeat as one set, 200 Ω range, exact display digits: leads together; ground to cavities 2, 3, 4; F35 to cavities 2, 3, 4; F35 to ground. Confirm which fuse was used.
