@@ -668,3 +668,29 @@ Sequential IDs: `T-001`, `T-002`, …
   - Consequence: C175B pins must be identified on the van by measurement from known ends (F35 for supply, ground for grounds, relay R17 socket for the relay control wire, DLC for CAN), not read off the diagram.
 - Evidence files/photos: none new. Marked image for the follow-up: `evidence/photos/marked-C175B-face-2-3-4.jpg`
 - Next action: repeat as one set, 200 Ω range, exact display digits: leads together; ground to cavities 2, 3, 4; F35 to cavities 2, 3, 4; F35 to ground. Confirm which fuse was used.
+
+## T-031 — Repeat readings on C175B cavities 2, 3, 4 contradict each other; meter setup in doubt
+
+- Date/time: 2026-10-05 (exact time not recorded)
+- Performed by: Sander
+- Goal: Resolve the conflict between T-028 and T-030 with one consistent set of readings.
+- Source: N/A
+- Vehicle state: key out (as instructed; not restated), battery connected
+- Tool and mode: AstroAI AM33D, ohms (200 Ω range as instructed, not restated), then continuity/beep mode for step 3
+- Connector state: C175B unplugged
+- Reference/ground point: engine-bay ground used before (T-029)
+- Probe points: harness-side terminals in large cavities 2, 3, 4; test point on top of F35, engine compartment fuse box
+- Expected result: if cavity 4 is the supply pin: ground to 2 and 3 about 0 Ω, ground to 4 about 4 Ω; F35 to 4 about 0 Ω; F35 to ground about 4 Ω.
+- Actual result:
+  - **T-030 fuse confirmed: F35 in the engine compartment fuse box**, for both the voltage and the resistance readings.
+  - Leads together: "0.02".
+  - Ground to cavities 2, 3, 4: "0" on all three.
+  - F35 to cavities 2, 3, 4 on ohms: no usable reading; the reporter says the meter "reads weird" with the tips together and "measures nothing". In beep mode: **beeps only between F35 and cavity 2**; no beep to 3 or 4.
+  - F35 to engine-bay ground: "0".
+- Interpretation:
+  - These readings cannot all be true, and they also contradict T-030 (F35 to cavity 4 was 0 Ω and F35 to cavity 2 was about 4 Ω; now the beep is on cavity 2 and not on 4). If F35 is 0 Ω to ground and cavities 2, 3 and 4 are 0 Ω to ground, F35 should beep to all three.
+  - A true dead short from the F35 line to ground is ruled out by T-021: F35 held 12.38 V at key-on and the 15 A fuse did not blow.
+  - The likely cause is in the measuring, not the van: meter range or mode, lead or battery condition, or poor contact when touching the terminals lightly from the front. A leads-together value of "0.02" has two decimals, which the 200 Ω range would not normally show; that suggests a higher range, on which a few ohms and zero look the same. Unconfirmed.
+  - **No pin identification is drawn from T-028, T-030 or T-031 until the meter setup is verified.** What stands: cavities 1 and 5 are empty, 2, 3 and 4 hold terminals (T-027), and F35 is the engine compartment fuse.
+- Evidence files/photos: none.
+- Next action: verify the meter: photo of the dial, lead jacks and display with the tips held together on the ohms setting used.
