@@ -759,3 +759,30 @@ Sequential IDs: `T-001`, `T-002`, …
   - What cavities 3 and 4 are remains open.
 - Evidence files/photos: none.
 - Next action: verify the engine-bay ground point in beep mode against two other bare-metal points, then repeat cavities 3 and 4 to ground.
+
+## T-035 — Correction: earlier "0 Ω" readings were "0L." (over range); ground point not confirmed
+
+- Date/time: 2026-10-05 (exact time not recorded)
+- Performed by: Sander
+- Goal: Verify the engine-bay ground point (next action from T-034); the reporter also corrects earlier readings.
+- Source: N/A
+- Vehicle state: key out (as instructed; not restated), battery connected
+- Tool and mode: AstroAI AM33D, continuity/beep mode
+- Connector state: C175B unplugged; F35 assumed still pulled
+- Reference/ground point: engine-bay ground used before; location still not recorded
+- Probe points: ground point to two other bare-metal points; ground point to cavities 3 and 4
+- Expected result: beep between ground point and other bare metal.
+- Actual result:
+  - **No beep on any of them**, including ground point to other bare metal.
+  - **Correction from the reporter:** the "0 ohms" readings earlier today were probably the display showing **"0L."** (over range, no connection), misread as zero.
+- Interpretation:
+  - This corrects T-028, T-030 and T-031. Wherever those entries record "0" or "0 Ω" on the ohms range, read **over range (more than 200 Ω)**:
+    - T-028/T-031: cavities 2, 3 and 4 showed **no** connection to the ground point. The T-029 conclusion that all three are grounds is **withdrawn**.
+    - T-030: F35 to cavity 4 was **no** connection, not 0 Ω. The conclusion there that cavity 4 is a supply pin is **withdrawn**.
+    - T-031: F35 to ground was over range, so there is no sign of a short on the supply line.
+  - The one numeric reading stands as reported: **F35 test point to cavity 2 = 3.9 to 4 Ω** (T-030, fuse in place). Together with the beeps in T-031/T-033 this confirms cavity 2 is fed from F35.
+  - With that correction all of today's readings agree with each other. The contradictions noted in T-030 to T-034 are resolved.
+  - **New question:** about 4 Ω is high for a short length of supply wire; a sound wire and fuse would read well under 1 Ω. It may just be contact resistance of a fine probe tip touched lightly on the terminal. If it is real, it matters: at 1 A it would drop about 4 V on the PCM supply, which could make the PCM unstable. Not concluded; needs a careful repeat.
+  - The ground point did not beep to other bare metal, so it is not confirmed as a good reference for resistance work today. Earlier voltage readings taken against a ground (T-021, T-022) are not affected: they showed full battery voltage, which a bad reference cannot produce. What cavities 3 and 4 are is still open.
+- Evidence files/photos: marked image for the follow-up: `evidence/photos/marked-C175B-face-2-supply.jpg`
+- Next action: with F35 out, measure resistance on the 200 Ω range between F35 socket slot B and cavity 2, with firm steady contact.

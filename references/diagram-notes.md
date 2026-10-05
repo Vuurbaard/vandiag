@@ -96,6 +96,14 @@ diagram's pins 5, 7, 10, 29, 42, 48 and 53 are empty on the van, so the
 moulded numbers do not line up with the diagram's pin numbers. Identify pins
 by measurement from known ends, not from the table below.
 
+Measured on the van so far (moulded cavity numbers):
+
+| Cavity | Finding | Log |
+| --- | --- | --- |
+| 1, 5 | Empty | T-027 |
+| 2 | **Supply pin**: connected to the PCM side of fuse F35 (beep with F35 pulled; 3.9–4 Ω with fuse in, value to be re-measured). No connection to ground. p.238 calls pin 2 a ground | T-030, T-033, T-034, T-035 |
+| 3, 4 | Terminal present; not connected to F35. Function unknown | T-027, T-033 |
+
 | Connector | Circuits seen so far | Source |
 | --- | --- | --- |
 | C175B | Power, grounds, wake, relay control (p.238); HS CAN (p.298); exhaust gas temperature sensor 3, pin 8 (p.245) | sections 151-2, 23-17 |
