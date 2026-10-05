@@ -76,53 +76,60 @@ is **2.2L**.
 
 ### The PCM has three connectors: C175B, C175E, C175T (2.2L)
 
-Found by OCR search of the whole PDF (diagnostics/log.md T-024). The PCM on
-the van is a Continental SID208, Ford part number BK21-12A650-AC, with three
-lever-lock connectors side by side. Which physical position is which has not
-been confirmed for C175E/C175T. The left connector (cream lever) has 48
-cavities and so cannot be C175B (T-025). **The middle connector (black lever,
-brown/orange housing, TE 1563196-1) has 53 cavities and is C175B** (T-026):
-five large cavities 1–5 in one row, then rows 6–17, 18–29, 30–41, 42–53 with
-medium-size cavities at the row ends. Open point: in the T-026 photo large
-cavity 5 looks empty and 4 looks populated, while p.238 has VPWR on 5 and
-nothing on 4. Confirmed by eye in T-027: 1 and 5 empty, 2, 3, 4 populated.
-**Treat every C175B pin number below as unverified for this van until the
-cause of this mismatch is known.**
+The PCM on the van is a Continental SID208, Ford part number BK21-12A650-AC,
+with three lever-lock connectors side by side (T-024). Marked photo:
+`evidence/photos/marked-pcm-connectors-identified.jpg`.
 
-Cavities holding a terminal, by eye from the mating face (T-030; the reporter
-says this was hard to see and may contain mistakes): large 2, 3, 4; 6, 8, 9,
-11, 13–17; 18–24, 26–28; 30, 33, 34, 37, 38, 39; 44–47, 52. By this list the
-diagram's pins 5, 7, 10, 29, 42, 48 and 53 are empty on the van, so the
-moulded numbers do not line up with the diagram's pin numbers. Identify pins
-by measurement from known ends, not from the table below.
+| Position on the van | Housing | Cavities | Identity | Basis |
+| --- | --- | --- | --- | --- |
+| Left | Cream/white lever, TE 1719679 | 48 (4 × 12) | **C175E** | By elimination; pin numbers seen in the diagram (up to 40) fit 48 cavities. Not directly verified |
+| Middle | Black lever, brown/orange housing, TE 1563196-1, "A" on lever | 53 | **C175T** | All 19 C175T pins found in the diagram are populated on the van; 9 of 16 C175B pins are empty (T-038) |
+| Right | Black lever | Not examined | **C175B** | By elimination. **Confirm on the van before testing** |
 
-Measured on the van so far (moulded cavity numbers):
+**Correction:** T-026 identified the middle connector as C175B because it has
+53 cavities. That was wrong: C175T uses the same 53-cavity housing. T-027 to
+T-037 were all measured on C175T. The diagram's pin numbers were never in
+conflict with the van (T-038).
 
-| Cavity | Finding | Log |
+53-cavity layout as moulded on the housing: five large cavities 1–5 in one
+row, then rows 6–17, 18–29, 30–41, 42–53 with medium-size cavities at the row
+ends.
+
+Circuits per connector, from the diagram:
+
+| Connector | Pins and circuits seen so far | Source |
 | --- | --- | --- |
-| 1, 5 | Empty | T-027 |
-| 2 | Connected to F35 socket slot B at a steady 3.9–4.0 Ω (fuse pulled), no connection to ground. Either a supply pin with a high-resistance wire, or a PCM output switching a ~4 Ω load fed from the relay side of the fuse. Undecided | T-030, T-033, T-034, T-036 |
-| 3, 4 | Terminal present; not connected to F35. Function unknown | T-027, T-033 |
-
-| Connector | Circuits seen so far | Source |
-| --- | --- | --- |
-| C175B | Power, grounds, wake, relay control (p.238); HS CAN (p.298); exhaust gas temperature sensor 3, pin 8 (p.245) | sections 151-2, 23-17 |
-| C175E | Fuel metering valve pin 25, shield pin 37 (p.239); coolant temperature sensor pins 18/22 (p.245). Wired straight to engine-mounted parts | sections 151-2 / 151-10 |
-| C175T | Oxygen sensor, fuel vaporizer pump (p.239); intake air, ambient air, exhaust gas temperature 1 and 2 (p.245). Runs through inline connectors C134/C139/C144 | sections 151-2 / 151-10 |
+| C175B | 2, 3, 42, 53 GND (G105); 7 GND (G104); 5, 17, 29 VPWR; 28 PCM WAKE; 48 PCMRC (p.238). 10 HS CAN+, 11 HS CAN−, 41 SMCS (p.298). 27 HFC, 52 LFC (p.294). 8 exhaust gas temperature sensor 3 (p.245) | sections 151-2, 23-17 |
+| C175E | 25 fuel metering valve, 37 shield (p.239); 18/22 coolant temperature (p.245); 29/7/1 fuel rail pressure, 15/34/4 camshaft sensor, 5 oil pressure switch, 21/40/19 oil level/temperature (p.244). Wired straight to engine-mounted parts | sections 151-2 / 151-10 |
+| C175T | 2 fuel vaporizer pump, 3 oxygen sensor heater, 16/27/13/14 oxygen sensor (p.239); 26 and 28 glow plug relay (p.240); 37/8/30 DPF pressure sensor (p.244); 11/6 intake air temp, 21/18 ambient air temp, 22/33 EGT1, 47/34 EGT2 (p.245) | sections 151-2 / 151-10 |
 
 OCR page hits (200dpi, may be incomplete): C175B on p.101, 102, 104, 232,
 237, 238, 242, 245, 246, 249–253, 281, 282, 294, 298, 348, 373, 514; C175E on
 p.89, 239, 243, 247, 376; C175T on p.99, 239–241, 243–245, 250, 253, 348,
 376, 501.
 
-To pick out C175B on the van, look for its wire set from p.238: four
-black-green (pins 2, 3, 42, 53), one black-yellow (pin 7), three yellow-grey
-(pins 29, 17, 5), one yellow-blue (pin 48), one violet-orange (pin 28).
+Cavities holding a terminal on the **middle connector (C175T)**, by eye from
+the mating face (T-030, T-037; hard to see, may contain mistakes): large 2,
+3, 4; 6, 8, 9, 11, 13–16; 18–24, 26–28; 30, 33, 34, 37, 38, 39; 44–47, 52.
 
-**Physical position/appearance of C175B is still unconfirmed** — this PDF
-does not appear to have a "connector end views" appendix (checked the final
-pages, p.633–637, none found). Identify it in the van directly: Ford
-connectors are normally labeled on the housing itself near the latch/lever.
+Measured on C175T: cavity 2 reads a steady 3.9–4.0 Ω to one side of the F35
+socket ("slot B") with the fuse pulled, and no connection to ground (T-033,
+T-036). Per p.239 pin 2 is the fuel vaporizer pump, which is fed from the PCM
+relay output through fuse F39. So slot B is the relay side of F35 and the
+4 Ω is most likely the pump itself. No fault is indicated.
+
+To confirm C175B on the van: 53 cavities, with terminals in large cavities 2,
+3 and 5 and in medium cavities 17, 29, 42 and 53. Wire set from p.238: four
+black-green (2, 3, 42, 53), one black-yellow (7), three yellow-grey (29, 17,
+5), one yellow-blue (48), one violet-orange (28).
+
+Outside corroboration of the C175B numbers (T-038): a bench-programming
+pinout for the SID208 in PSA vans gives GND on 2, 3, 7, +12 V on 5, 28, 39 and
+CAN on 10/11; a Transit Custom no-start case online cites PCM pin 48 for the
+R17 relay control and pins 5, 17, 29 for PCM power.
+
+This PDF does not appear to have a "connector end views" appendix (checked
+the final pages, p.633–637, none found).
 
 ## Fuse box layouts (Ford owner's manual, "Fuse Specification Chart - 2.2L Diesel")
 

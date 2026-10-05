@@ -831,3 +831,33 @@ Sequential IDs: `T-001`, `T-002`, …
   - Quickest way to decide: establish directly which F35 slot is the relay side, from the R17 relay socket. Per p.238 the relay output terminal goes straight to one side of F35.
 - Evidence files/photos: none.
 - Next action: pull relay R17; DC volts on each socket terminal; then resistance from each dead terminal to F35 slots A and B.
+
+## T-038 — Correction: the middle PCM connector is C175T, not C175B; the wiring diagram was right
+
+- Date/time: 2026-10-05 (evening)
+- Performed by: Claude (online research at the reporter's request, then re-check against the repository PDF)
+- Goal: The reporter asked for a search for the correct wiring diagram, since the C175B pin numbers from p.238 did not fit the connector measured in T-026 to T-037.
+- Source:
+  - `Ford-Transit-Custom-1-2012-2020-–-Wiring-Diagrams.pdf`, PDF pages 238, 239, 240, 244, 245, 294, 298, all printed "2.2L"
+  - Bench-programming note for the SID208 in PSA vans (blog.obdii365.com, 2021-10-07, as quoted in search results; the page itself could not be opened): "+12v (pin 5, 28, 39)", "GND (pin 2, 3, 7)", "CAN Hi (10) and Lo (11)"
+  - JustAnswer UK, two Transit Custom no-start/U0100 cases (as quoted in search results; pages return 403): the PCM "fails to ground pin 48" so relay R17 "does not provide power to PCM pins 5, 17 and 29"
+- Vehicle state: N/A
+- Tool and mode: web search; visual read of PDF pages
+- Connector state: as left by the reporter at the end of the session; **not recorded** (C175B/C175T, F35 and possibly R17 may still be out)
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result:
+  - No better wiring diagram for this van was found online. Pinout material for the SID208 is mostly ECU-tuning bench notes; the two that could be read agree with the repository diagram's C175B numbers (grounds 2, 3, 7; supply on 5; CAN on 10/11; relay control on 48; supply on 5, 17, 29).
+  - Comparing the diagram's pin lists with the cavities the reporter found populated on the middle connector (T-030, T-037):
+    - **C175T** pins found in the diagram: 2, 3, 6, 8, 11, 13, 14, 16, 18, 21, 22, 26, 27, 28, 30, 33, 34, 37, 47. **All 19 are populated** on the middle connector.
+    - **C175B** pins found in the diagram: 2, 3, 5, 7, 8, 10, 11, 17, 27, 28, 29, 41, 42, 48, 52, 53. **Nine of these 16 are empty** on the middle connector (5, 7, 10, 17, 29, 41, 42, 48, 53).
+- Interpretation:
+  - **The middle connector is C175T.** The T-026 identification as C175B was wrong: it rested on the 53-cavity count, and C175T uses the same 53-cavity housing. This was Claude's error, not a measuring error.
+  - **The wiring diagram is not wrong for this van.** The statements in T-027, T-030, T-034 to T-037 that its pin numbers do not match the housing are withdrawn. The reporter's cavity list, taken under poor visibility, matches the diagram's C175T on every pin checked.
+  - The steady 3.9–4.0 Ω from F35 "slot B" to cavity 2 (T-036) now has a plain explanation: C175T pin 2 is the fuel vaporizer pump (p.239), which is fed from the PCM relay output through fuse F39. Slot B is therefore the relay side of F35, and the 4 Ω is most likely the pump's own resistance. **No fault is indicated by any reading in T-027 to T-037.** That cavity 3 (oxygen sensor heater per p.239) showed no path to the fuse is not explained; the sensor may not be fitted on this build. Low priority.
+  - By elimination **the right-hand connector is C175B** and the left, 48-cavity one is C175E. Neither is directly verified. T-024's first impression (middle connector has thin sensor-coloured wires, unlike C175B) was correct.
+  - The online cases describe the same circuit (R17, pin 48, pins 5/17/29) with a different symptom: there the relay never closes. Here it closes and buzzes (T-021 to T-023). They are context, not evidence about this van.
+  - Nothing has yet been measured on the real C175B.
+- Evidence files/photos: `evidence/photos/marked-pcm-connectors-identified.jpg`
+- Next action: confirm that F35, R17 and both unplugged connectors are back in place. Then, key out for at least 2 minutes, unplug the right-hand connector and check it is C175B: 53 cavities, with terminals in large cavities 2, 3 and 5 and medium cavities 17, 29, 42 and 53.
