@@ -527,3 +527,27 @@ Sequential IDs: `T-001`, `T-002`, …
   - The date code 15-12-11 on the PCM is consistent with a van first registered 2016-04-15.
 - Evidence files/photos: `evidence/photos/2026-10-05-pcm-three-connectors.png`
 - Next action: without unplugging, look at the wires entering each of the three connectors and report which one has the group of black-green and yellow-grey wires; photograph each connector's wire side and any moulded markings or pin numbers. Also record where on the van the PCM sits, and whether relays R17/R9 are back in their original positions (still open from T-023).
+
+## T-025 — Left PCM connector unplugged: 48 cavities, so it is not C175B
+
+- Date/time: 2026-10-05 (exact time not recorded)
+- Performed by: Sander
+- Goal: (Reporter's own step) Identify which of the three PCM connectors is C175B.
+- Source: PDF page 238, printed "2.2L", section 151-2 (C175B pin numbers up to 53); pages 239 and 245 (C175E up to pin 37, C175T up to pin 47 seen so far)
+- Vehicle state: key state and time since key-off at the moment of unplugging not stated
+- Tool and mode: N/A (visual)
+- Connector state: **left PCM connector (cream/white lever) unplugged.** Not yet confirmed reconnected.
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result:
+  - The mating face has cavity numbers moulded at the row ends: **1, 13, 25, 37** on one end and **12, 24, 36, 48** on the other. Four rows of 12, **48 cavities**. The two columns at the 12/24/36/48 end are larger terminals.
+  - Markings on the housing: TE logo, what reads as "0-1719679-2" on the grey part and "9-2236284-9" on the black wire cover, and a letter "C". Read from a photo, not verified.
+  - Wires visible at the cover: green, white, orange, light blue. No black-green or yellow-grey group visible, but most of the bundle is hidden by the cover.
+  - No green or white corrosion visible on the terminals in the photo. Some sand/dirt on the outside near the seal. The photo is not sharp enough to judge individual terminals.
+- Interpretation:
+  - C175B has ground pins 42 and 53 (p.238 and the p.1 grounds index). A 48-cavity connector has no pin 53, so **the left connector is not C175B**. It is C175E or C175T; which one is not established.
+  - C175B is therefore the middle or the right connector, whichever has more than 48 cavities. This overturns the weak hint in T-024 that the middle connector looked unlike C175B.
+  - Unplugging one PCM connector with the others attached changes nothing about earlier results, but the baseline should be rechecked after reconnecting (dash lights up as in T-001).
+- Evidence files/photos: `evidence/photos/2026-10-05-pcm-left-connector-side.png`, `evidence/photos/2026-10-05-pcm-left-connector-face.png`
+- Next action: reconnect the left connector and close its lever fully. Then, key out for at least 2 minutes, unplug the middle connector only and photograph its face and the moulded cavity numbers. The connector numbered past 48 is C175B.
