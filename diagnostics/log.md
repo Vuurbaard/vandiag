@@ -617,3 +617,22 @@ Sequential IDs: `T-001`, `T-002`, …
   - An ohmmeter reading shows continuity only. It does not show that these grounds carry load; that needs a voltage-drop test with the PCM connected and powered.
 - Evidence files/photos: none.
 - Next action: find where the supply from fuse F35 actually lands on C175B, by resistance between the F35 test point and cavities 4, 17 and 29.
+
+## T-029 — Measurement conditions for T-028 confirmed
+
+- Date/time: 2026-10-05 (exact time not recorded)
+- Performed by: Sander
+- Goal: Close the gaps in T-028's recorded setup.
+- Source: N/A
+- Vehicle state: as T-028
+- Tool and mode: AstroAI AM33D, ohms, **200 Ω range**
+- Connector state: as T-028
+- Reference/ground point: **a ground point in the engine bay that the reporter has used for earlier measurements**; battery negative could not be reached with the leads. Exact location not recorded.
+- Probe points: as T-028
+- Expected result: N/A
+- Actual result: range and reference confirmed as above.
+- Interpretation:
+  - On the 200 Ω range a reading of about zero means well under 1 Ω, so the T-028 caveat about a higher range no longer applies. **Large cavities 2, 3 and 4 of C175B are all connected to body ground.** p.238 shows only 2 and 3 as grounds and has no wire on 4.
+  - The reference was a body ground, not battery negative, so this says nothing about the path from the body back to the battery.
+- Evidence files/photos: none.
+- Next action: unchanged from T-028: resistance between the F35 test point and cavities 4, 17 and 29.
