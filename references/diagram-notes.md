@@ -79,8 +79,13 @@ is **2.2L**.
 Found by OCR search of the whole PDF (diagnostics/log.md T-024). The PCM on
 the van is a Continental SID208, Ford part number BK21-12A650-AC, with three
 lever-lock connectors side by side. Which physical position is which has not
-been confirmed, except that the left connector (cream lever) has 48 cavities and
-so cannot be C175B, which needs pin 53 (T-025).
+been confirmed for C175E/C175T. The left connector (cream lever) has 48
+cavities and so cannot be C175B (T-025). **The middle connector (black lever,
+brown/orange housing, TE 1563196-1) has 53 cavities and is C175B** (T-026):
+five large cavities 1–5 in one row, then rows 6–17, 18–29, 30–41, 42–53 with
+medium-size cavities at the row ends. Open point: in the T-026 photo large
+cavity 5 looks empty and 4 looks populated, while p.238 has VPWR on 5 and
+nothing on 4. Not yet resolved.
 
 | Connector | Circuits seen so far | Source |
 | --- | --- | --- |

@@ -551,3 +551,26 @@ Sequential IDs: `T-001`, `T-002`, …
   - Unplugging one PCM connector with the others attached changes nothing about earlier results, but the baseline should be rechecked after reconnecting (dash lights up as in T-001).
 - Evidence files/photos: `evidence/photos/2026-10-05-pcm-left-connector-side.png`, `evidence/photos/2026-10-05-pcm-left-connector-face.png`
 - Next action: reconnect the left connector and close its lever fully. Then, key out for at least 2 minutes, unplug the middle connector only and photograph its face and the moulded cavity numbers. The connector numbered past 48 is C175B.
+
+## T-026 — Middle PCM connector unplugged: 53 cavities, matches C175B; large cavity 5 looks empty in the photo
+
+- Date/time: 2026-10-05 (exact time not recorded)
+- Performed by: Sander
+- Goal: Identify C175B (next action from T-025).
+- Source: PDF page 238, printed "2.2L", section 151-2 (pin 5 re-read from a 300dpi crop: VPWR on 29, 17, 5; GND on 7, 2, 3, 42, 53)
+- Vehicle state: key state and time since key-off at the moment of unplugging not stated
+- Tool and mode: N/A (visual)
+- Connector state: **middle PCM connector (black lever, brown/orange housing) unplugged.** Whether the left connector was reconnected first is not stated. Right connector not touched.
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: a connector numbered past 48, with at least a cavity 53.
+- Actual result:
+  - Moulded cavity numbers on the face: a bottom row of **five large cavities numbered 1 to 5**, then four rows whose end cavities are marked **6 / 17, 18 / 29, 30 / 41, 42 / 53**. That is **53 cavities**. The row-end cavities are a medium size, the rest small.
+  - Markings: TE logo, "1563196-1" and "PBT-GF30" on the face, "0-1563201-1" and "PA66-GF25" on the lever, letter "A" on the lever. Read from photos, not verified.
+  - In the photo the three middle large cavities show a metal terminal, and **the two outer large cavities (1 and 5) look empty**. Read from one photo at an angle; not verified.
+  - No green or white corrosion visible. Several wires in sensor-type colours leave the cover; the wires for the large cavities are not visible.
+- Interpretation:
+  - **The middle connector is C175B**, on two grounds: it has 53 cavities, and the pins p.238 uses for power and ground (2, 3, 5 and row ends 17, 29, 42, 53) fall on the larger cavities, as expected for current-carrying pins. The right connector has not been examined, so this rests on the match and not on elimination.
+  - **Open discrepancy:** p.238 puts VPWR on pin 5 and grounds on pins 2 and 3, with nothing on pin 4. The photo suggests terminals in 2, 3 and 4 and none in 5. Either the photo misleads (terminal hidden or recessed), or this van's connector is populated differently from the diagram. This must be settled from the wire side before any reading is taken on "pin 5". Do not assume.
+- Evidence files/photos: `evidence/photos/2026-10-05-pcm-middle-connector-face.png`, `evidence/photos/2026-10-05-pcm-middle-connector-side.png`
+- Next action: on this connector, establish which of the five large cavities have a wire and each wire's colour (expected per p.238: black-green in 2 and 3, yellow-grey in 5), plus the colours at cavities 7, 17, 29, 42 and 53. Then reconnect, close the lever, and confirm the dash lights up as before.
