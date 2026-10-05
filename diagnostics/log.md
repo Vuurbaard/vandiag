@@ -809,3 +809,25 @@ Sequential IDs: `T-001`, `T-002`, …
   - Deciding test: find what the *other* slot (A) connects to. The PCM side of the fuse must reach its supply cavities at well under 1 Ω. Slot A reached none of the large cavities (T-033), so the supply would be on the medium or small cavities, as p.238 also suggests for two of its three supply pins.
 - Evidence files/photos: marked image for the follow-up: `evidence/photos/marked-C175B-face-6-17-18-30.jpg`
 - Next action: resistance on the 200 Ω range from slot A, then slot B, to medium cavities 30, 18, 6 and 17.
+
+## T-037 — F35 slots A and B: no connection to medium cavities 30, 18, 6; cavity 17 is empty
+
+- Date/time: 2026-10-05 (exact time not recorded)
+- Performed by: Sander
+- Goal: Find which F35 socket slot is the PCM side by locating the supply cavities (next action from T-036).
+- Source: PDF page 238, printed "2.2L", section 151-2
+- Vehicle state: key out (as instructed; not restated), battery connected
+- Tool and mode: AstroAI AM33D, Ω 200 range (as instructed; not restated)
+- Connector state: C175B unplugged; F35 pulled
+- Reference/ground point: N/A
+- Probe points: F35 socket slots A and B; harness-side terminals in medium cavities 30, 18, 6, 17
+- Expected result: one slot under 1 Ω to one or more medium cavities.
+- Actual result:
+  - Slot A and slot B to cavity 30: no reading. To 18: no reading. To 6: no reading.
+  - **Cavity 17 is empty** (corrects the T-030 list, which had 17 populated).
+- Interpretation:
+  - None of the medium cavities with a terminal is fed from F35. Medium cavities 17, 29, 42 and 53, where p.238 puts two supply pins and two grounds, are all empty by T-030 and this entry. The p.238 pin numbers clearly do not apply to the numbers moulded on this housing.
+  - The only connection found so far between the F35 socket and C175B is slot B to cavity 2 at 3.9–4.0 Ω (T-036). Either that is the supply path, with a fault in it, or the supply pins are small cavities and cavity 2 is a switched output. Still undecided.
+  - Quickest way to decide: establish directly which F35 slot is the relay side, from the R17 relay socket. Per p.238 the relay output terminal goes straight to one side of F35.
+- Evidence files/photos: none.
+- Next action: pull relay R17; DC volts on each socket terminal; then resistance from each dead terminal to F35 slots A and B.
