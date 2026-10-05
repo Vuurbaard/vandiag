@@ -502,3 +502,28 @@ Sequential IDs: `T-001`, `T-002`, …
   - Everything that can be checked from the fuse box has now been checked. The open questions are all at connector C175B: supply on pins 29/17/5, the five grounds under load, and the CAN wires on pins 10/11.
 - Evidence files/photos: none.
 - Next action: physically locate the PCM and connector C175B on the van (still outstanding from T-010/T-012) and photograph the connector and its label, without unplugging anything yet. Confirm the two relays are back in their original positions.
+
+## T-024 — PCM located; it has three connectors (C175B, C175E, C175T), C175B not yet identified
+
+- Date/time: 2026-10-05 (exact time not recorded)
+- Performed by: Sander (photo), Claude (diagram search)
+- Goal: Physically locate the PCM and connector C175B (next action from T-023).
+- Source: `Ford-Transit-Custom-1-2012-2020-–-Wiring-Diagrams.pdf`, OCR search of all 637 pages (200dpi, `tesseract --psm 11`) for "C175"; PDF pages 238, 239 and 245, all printed "2.2L", PCM sections 151-2 / 151-10, read visually
+- Vehicle state: not stated; nothing measured
+- Tool and mode: N/A (visual)
+- Connector state: nothing disconnected (stated by reporter)
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result:
+  - PCM found. Label: **Continental SID208**, Ford part number **BK21-12A650-AC**, "1PGC", "J38AC", date 15-12-11, serial S180146202. Where on the van it sits has not been recorded yet.
+  - The PCM has **three** connectors side by side, each with a rotating lever lock. In the photo: left has a cream/white lever and a thick taped harness going down into a large conduit; middle has a black lever with a brown slide lock (a letter "A" appears to be moulded on the lever) and loose brown/green/blue/white/violet wires; right has a black lever and its own conduit. No connector name is readable on any housing in the photo.
+  - The OCR search finds three connector names on the 2.2L PCM: **C175B** (28 hits), **C175T** (16 hits), **C175E** (6 hits). C0175B/C0175E are the 2.0L equivalents and do not apply.
+  - p.239 and p.245 show which circuits use which connector: C175E carries engine-mounted items wired straight to the PCM (fuel metering valve pin 25, coolant temperature sensor pins 18/22); C175T carries sensors that pass through inline connectors C134/C139/C144 (oxygen sensor, intake and ambient air temperature, exhaust gas temperature 1 and 2); C175B carries power, grounds, CAN (p.238, p.298) and exhaust gas temperature sensor 3 on pin 8.
+- Interpretation:
+  - The diagram has no connector face views, so it does not say which physical position is C175B. This is still open.
+  - C175B is the only one of the three that should hold four black-green wires (pins 2, 3, 42, 53), one black-yellow (pin 7) and three yellow-grey (pins 29, 17, 5), per p.238. That wire set is the way to identify it without unplugging anything.
+  - The loose wires visible at the middle connector are thin and in sensor-type colours, with no black-green or yellow-grey visible. That fits C175T or C175E better than C175B, but the photo shows only part of that bundle, so this is weak.
+  - The date code 15-12-11 on the PCM is consistent with a van first registered 2016-04-15.
+- Evidence files/photos: `evidence/photos/2026-10-05-pcm-three-connectors.png`
+- Next action: without unplugging, look at the wires entering each of the three connectors and report which one has the group of black-green and yellow-grey wires; photograph each connector's wire side and any moulded markings or pin numbers. Also record where on the van the PCM sits, and whether relays R17/R9 are back in their original positions (still open from T-023).

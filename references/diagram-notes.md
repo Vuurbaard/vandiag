@@ -74,7 +74,29 @@ is **2.2L**.
 - Found via OCR search (tesseract, 300dpi renders of all 637 pages) after
   manual page-sampling failed to locate it — see diagnostics/log.md T-012.
 
-**Physical location/appearance of C175B is still unconfirmed** — this PDF
+### The PCM has three connectors: C175B, C175E, C175T (2.2L)
+
+Found by OCR search of the whole PDF (diagnostics/log.md T-024). The PCM on
+the van is a Continental SID208, Ford part number BK21-12A650-AC, with three
+lever-lock connectors side by side. Which physical position is which has not
+been confirmed.
+
+| Connector | Circuits seen so far | Source |
+| --- | --- | --- |
+| C175B | Power, grounds, wake, relay control (p.238); HS CAN (p.298); exhaust gas temperature sensor 3, pin 8 (p.245) | sections 151-2, 23-17 |
+| C175E | Fuel metering valve pin 25, shield pin 37 (p.239); coolant temperature sensor pins 18/22 (p.245). Wired straight to engine-mounted parts | sections 151-2 / 151-10 |
+| C175T | Oxygen sensor, fuel vaporizer pump (p.239); intake air, ambient air, exhaust gas temperature 1 and 2 (p.245). Runs through inline connectors C134/C139/C144 | sections 151-2 / 151-10 |
+
+OCR page hits (200dpi, may be incomplete): C175B on p.101, 102, 104, 232,
+237, 238, 242, 245, 246, 249–253, 281, 282, 294, 298, 348, 373, 514; C175E on
+p.89, 239, 243, 247, 376; C175T on p.99, 239–241, 243–245, 250, 253, 348,
+376, 501.
+
+To pick out C175B on the van, look for its wire set from p.238: four
+black-green (pins 2, 3, 42, 53), one black-yellow (pin 7), three yellow-grey
+(pins 29, 17, 5), one yellow-blue (pin 48), one violet-orange (pin 28).
+
+**Physical position/appearance of C175B is still unconfirmed** — this PDF
 does not appear to have a "connector end views" appendix (checked the final
 pages, p.633–637, none found). Identify it in the van directly: Ford
 connectors are normally labeled on the housing itself near the latch/lever.
