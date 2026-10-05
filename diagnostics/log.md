@@ -594,3 +594,26 @@ Sequential IDs: `T-001`, `T-002`, …
   - The function of cavities 2, 3 and 4 can be established by meter without the diagram.
 - Evidence files/photos: `evidence/photos/2026-10-05-pcm-middle-connector-face.png` (T-026)
 - Next action: with C175B unplugged and the key out, measure DC volts and then resistance to ground on large cavities 2, 3 and 4.
+
+## T-028 — C175B large cavities 2, 3 and 4: 0 V and about 0 Ω to ground
+
+- Date/time: 2026-10-05 (exact time not recorded)
+- Performed by: Sander
+- Goal: Establish by meter what the three populated large cavities of C175B are (next action from T-027).
+- Source: PDF page 238, printed "2.2L", section 151-2
+- Vehicle state: key out (as instructed; not restated), battery connected
+- Tool and mode: AstroAI AM33D multimeter (manual ranging), DC volts, then ohms. Ohms range used not stated; 200 Ω was the instruction.
+- Connector state: C175B unplugged; other two PCM connectors assumed plugged in
+- Reference/ground point: **not stated** (battery negative or a body bolt near the PCM)
+- Probe points: harness-side terminals in large cavities 2, 3 and 4, from the mating face
+- Expected result: 0 V on all; two cavities under about 1 Ω (grounds) and one clearly higher (supply), if p.238 is only off by one pin.
+- Actual result:
+  - DC volts: **0 V on 2, 3 and 4.**
+  - Leads together: reported as "0.02".
+  - Ohms: reported as **"0 ohms" on 2, 3 and 4.** Exact displayed digits not given.
+- Interpretation:
+  - All three large terminals have a low-resistance path to the reference point. Read plainly, 2, 3 and 4 are all grounds, and none of the large cavities is the supply pin. That differs from p.238 by more than one mislabelled pin.
+  - Not yet safe to conclude: the range and exact digits were not reported, and on a higher range a few ohms would also display as about zero. A supply wire seen through a low-resistance load could then be mistaken for a ground.
+  - An ohmmeter reading shows continuity only. It does not show that these grounds carry load; that needs a voltage-drop test with the PCM connected and powered.
+- Evidence files/photos: none.
+- Next action: find where the supply from fuse F35 actually lands on C175B, by resistance between the F35 test point and cavities 4, 17 and 29.
