@@ -739,3 +739,23 @@ Sequential IDs: `T-001`, `T-002`, …
   - T-030 (fuse to cavity 4 at 0 Ω) fits neither reading and stays unexplained.
 - Evidence files/photos: none. Slot naming shown in `references/fuse-boxes/F35-socket-slots-A-B.png`.
 - Next action: with F35 still out, beep test slot A to ground, slot B to ground, and cavities 2, 3 and 4 each to ground.
+
+## T-034 — F35 pulled: neither socket slot beeps to ground; cavities 2, 3, 4 do not beep to ground either
+
+- Date/time: 2026-10-05 (exact time not recorded)
+- Performed by: Sander
+- Goal: Decide between readings (a) and (b) of T-033.
+- Source: PDF page 238, printed "2.2L", section 151-2
+- Vehicle state: key out (as instructed; not restated), battery connected
+- Tool and mode: AstroAI AM33D, continuity/beep mode
+- Connector state: C175B unplugged; F35 pulled (assumed, as T-033)
+- Reference/ground point: engine-bay ground used before (T-029); exact location still not recorded
+- Probe points: both F35 socket terminals; harness-side terminals in large cavities 2, 3, 4
+- Expected result: (a) slot B silent to ground, cavity 2 silent to ground, 3 and 4 beep if they are grounds; (b) slot B and cavity 2 beep to ground.
+- Actual result: **no beep** from slot A to ground, slot B to ground, or cavities 2, 3, 4 to ground.
+- Interpretation:
+  - Slot B is connected to cavity 2 (T-033) and neither reaches ground. That is reading (a): **cavity 2 of C175B is connected to the PCM side of fuse F35, so it is a supply pin.** This is a positive continuity result seen three times, which carries more weight than the silent ones. p.238 shows pin 2 as a ground and pin 5 as the supply, so the diagram's numbers do not match the moulded numbers here either.
+  - Cavities 3 and 4 not beeping to ground contradicts T-028 and T-031, where all three large cavities read about 0 Ω to the same ground point with the fuse in. Not resolved. Possible causes: poor contact at the ground point or on the terminals this time; or the earlier "0" readings were disturbed. Because every reading to ground was silent in this round, **the ground point itself is unverified for this round.**
+  - What cavities 3 and 4 are remains open.
+- Evidence files/photos: none.
+- Next action: verify the engine-bay ground point in beep mode against two other bare-metal points, then repeat cavities 3 and 4 to ground.
