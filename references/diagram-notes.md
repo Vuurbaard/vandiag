@@ -101,7 +101,7 @@ Measured on the van so far (moulded cavity numbers):
 | Cavity | Finding | Log |
 | --- | --- | --- |
 | 1, 5 | Empty | T-027 |
-| 2 | **Supply pin**: connected to the PCM side of fuse F35 (beep with F35 pulled; 3.9–4 Ω with fuse in, value to be re-measured). No connection to ground. p.238 calls pin 2 a ground | T-030, T-033, T-034, T-035 |
+| 2 | Connected to F35 socket slot B at a steady 3.9–4.0 Ω (fuse pulled), no connection to ground. Either a supply pin with a high-resistance wire, or a PCM output switching a ~4 Ω load fed from the relay side of the fuse. Undecided | T-030, T-033, T-034, T-036 |
 | 3, 4 | Terminal present; not connected to F35. Function unknown | T-027, T-033 |
 
 | Connector | Circuits seen so far | Source |

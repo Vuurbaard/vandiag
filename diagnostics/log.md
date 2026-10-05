@@ -786,3 +786,26 @@ Sequential IDs: `T-001`, `T-002`, …
   - The ground point did not beep to other bare metal, so it is not confirmed as a good reference for resistance work today. Earlier voltage readings taken against a ground (T-021, T-022) are not affected: they showed full battery voltage, which a bad reference cannot produce. What cavities 3 and 4 are is still open.
 - Evidence files/photos: marked image for the follow-up: `evidence/photos/marked-C175B-face-2-supply.jpg`
 - Next action: with F35 out, measure resistance on the 200 Ω range between F35 socket slot B and cavity 2, with firm steady contact.
+
+## T-036 — F35 slot B to cavity 2 is a steady 3.9–4.0 Ω
+
+- Date/time: 2026-10-05 (exact time not recorded)
+- Performed by: Sander
+- Goal: Find out whether the 4 Ω of T-030 was contact resistance or real (next action from T-035).
+- Source: PDF page 238, printed "2.2L", section 151-2
+- Vehicle state: key out (as instructed; not restated), battery connected
+- Tool and mode: AstroAI AM33D, Ω 200 range; tips together 00.0 (T-032)
+- Connector state: C175B unplugged; F35 pulled (as instructed; not restated)
+- Reference/ground point: N/A
+- Probe points: F35 socket slot B; harness-side terminal in large cavity 2
+- Expected result: under about 1 Ω if this is a direct wire and the earlier value was contact resistance.
+- Actual result: **3.9 or 4.0 Ω**, repeated.
+- Interpretation:
+  - The value is real: it is steady and repeats after re-seating the probes. Contact resistance is normally erratic.
+  - It can be read two ways, and **the T-034/T-035 statement that cavity 2 is the supply pin was premature**:
+    - (a) Slot B is the PCM side of the fuse, cavity 2 is a supply pin, and the wire or a joint in it has about 4 Ω too much. That would be a fault big enough to disturb the PCM.
+    - (b) Slot B is the relay side of the fuse. Per p.238 that side also feeds other engine-control loads (wire CE612). Cavity 2 would then be a PCM output that switches one of those loads, and the 4 Ω is simply that component's own resistance. A large cavity suits a high-current output as well as a supply. Nothing would be wrong.
+  - A steady round value of 4.0 Ω looks more like a component than a bad joint, so (b) is at least as likely as (a). Not decided.
+  - Deciding test: find what the *other* slot (A) connects to. The PCM side of the fuse must reach its supply cavities at well under 1 Ω. Slot A reached none of the large cavities (T-033), so the supply would be on the medium or small cavities, as p.238 also suggests for two of its three supply pins.
+- Evidence files/photos: marked image for the follow-up: `evidence/photos/marked-C175B-face-6-17-18-30.jpg`
+- Next action: resistance on the 200 Ω range from slot A, then slot B, to medium cavities 30, 18, 6 and 17.
