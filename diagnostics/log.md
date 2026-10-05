@@ -694,3 +694,23 @@ Sequential IDs: `T-001`, `T-002`, …
   - **No pin identification is drawn from T-028, T-030 or T-031 until the meter setup is verified.** What stands: cavities 1 and 5 are empty, 2, 3 and 4 hold terminals (T-027), and F35 is the engine compartment fuse.
 - Evidence files/photos: none.
 - Next action: verify the meter: photo of the dial, lead jacks and display with the tips held together on the ohms setting used.
+
+## T-032 — Meter setup verified: 200 Ω range, OL open, 00.0 shorted
+
+- Date/time: 2026-10-05 (exact time not recorded)
+- Performed by: Sander
+- Goal: Check the meter setup doubted in T-031.
+- Source: N/A
+- Vehicle state: N/A
+- Tool and mode: AstroAI AM33D, dial on Ω 200, black lead in COM, red lead in VΩmA; fine needle-type probe tips
+- Connector state: N/A
+- Reference/ground point: N/A
+- Probe points: probe tips apart, then held together
+- Expected result: over-range with tips apart; about 0 with tips together, one decimal.
+- Actual result: tips apart **"OL."**; tips together **"00.0"**.
+- Interpretation:
+  - The meter, range, jacks and leads are fine. The suspicion in T-031 that a higher range was in use is **withdrawn**; the reported "0.02" and "0" were loose transcriptions of a 00.x display. This meter shows "OL", not a single "1", when over range.
+  - The contradictions between T-028, T-030 and T-031 are therefore not explained by the meter. Remaining candidates: unsteady contact on the terminals from the front, or the circuit not being fully dead. The other two PCM connectors and the battery are still connected, and a small standing voltage on a wire makes a resistance reading meaningless. Neither is confirmed.
+  - A way round both: pull fuse F35, which per p.238 leaves the wire from the fuse to the PCM supply pins connected to nothing else, and measure on that isolated wire.
+- Evidence files/photos: `evidence/photos/2026-10-05-meter-200ohm-tips-apart.png`, `evidence/photos/2026-10-05-meter-200ohm-tips-together.png`
+- Next action: key out, F35 pulled, C175B unplugged: resistance from each of the two F35 socket slots to cavities 2, 3, 4 and to ground.
