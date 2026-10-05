@@ -714,3 +714,28 @@ Sequential IDs: `T-001`, `T-002`, …
   - A way round both: pull fuse F35, which per p.238 leaves the wire from the fuse to the PCM supply pins connected to nothing else, and measure on that isolated wire.
 - Evidence files/photos: `evidence/photos/2026-10-05-meter-200ohm-tips-apart.png`, `evidence/photos/2026-10-05-meter-200ohm-tips-together.png`
 - Next action: key out, F35 pulled, C175B unplugged: resistance from each of the two F35 socket slots to cavities 2, 3, 4 and to ground.
+
+## T-033 — F35 pulled: one socket slot beeps to cavity 2 only, the other to none (ground readings missing)
+
+- Date/time: 2026-10-05 (exact time not recorded)
+- Performed by: Sander
+- Goal: Find the C175B supply cavity on the isolated fuse-to-PCM wire (next action from T-032).
+- Source: PDF page 238, printed "2.2L", section 151-2
+- Vehicle state: key out (as instructed; not restated), battery connected
+- Tool and mode: AstroAI AM33D, continuity/beep mode (chosen by the reporter; beeps below a few tens of ohms, exact threshold not looked up)
+- Connector state: C175B unplugged; fuse F35 pulled (taken from the reporter's use of "slot a / slot b"; not explicitly confirmed)
+- Reference/ground point: N/A for the readings reported
+- Probe points: the two terminals of the empty F35 socket ("slot A", "slot B", arbitrary names); harness-side terminals in large cavities 2, 3, 4
+- Expected result: one slot beeps to exactly one large cavity (the supply pin) and not to ground; the other slot beeps to no cavity.
+- Actual result:
+  - Slot A: **no beep** to cavities 2, 3 or 4.
+  - Slot B: **beep to cavity 2 only**; no beep to 3 or 4.
+  - Slot A to ground and slot B to ground: **not reported.**
+  - An earlier reading the same day, "F35 to cavity: only cavity 2 beeps", was probably taken with the fuse in place and is not used.
+- Interpretation: two readings fit, and the missing ground readings decide between them.
+  - (a) Slot B is the PCM side of the fuse and **cavity 2 is the supply pin**. Then slot B must not beep to ground. This would contradict T-028, where cavity 2 read about 0 Ω to ground, unless that reading was taken through the fuse and the other loads.
+  - (b) Slot B is the relay side, which reaches ground through other engine-control loads at a few ohms, and **cavity 2 is a ground**. Then slot B beeps to ground too, and the supply pin is not among the large cavities, because slot A reached none of them.
+  - Under (b), cavities 3 and 4 should also have beeped if they are grounds as T-028 suggests. They did not, in T-031 or here. So either they are not grounds, or contact on them from the front is poor.
+  - T-030 (fuse to cavity 4 at 0 Ω) fits neither reading and stays unexplained.
+- Evidence files/photos: none. Slot naming shown in `references/fuse-boxes/F35-socket-slots-A-B.png`.
+- Next action: with F35 still out, beep test slot A to ground, slot B to ground, and cavities 2, 3 and 4 each to ground.
