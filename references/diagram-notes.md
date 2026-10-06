@@ -154,7 +154,17 @@ p.298 refers to this sheet as 14-5. Found by OCR search for wire name VDB04
 - Measured T-042: C175B 10 to 11 on the harness side is about 19 kΩ, so this
   stretch is cut off from the DLC side (120 Ω there). Suspect stretch from
   the T-007 module list: between S922/S921 and S297/S296.
-- Locations of C311, C900, C192 on the van: not in this PDF or the BEMM.
+- Locations of C311, C900, C192 on the van: not in this PDF or the BEMM, and
+  not found online (T-043). Inferred from the other circuits they carry:
+  - **C311** = main harness to right-hand body harness (also carries right
+    rear door wiper pin 24 p.112, right sliding door ajar switch pin 8 p.521,
+    lamp feed pin 26 p.125, lane departure feed pin 28 and ground G306 pin 22
+    p.609). C300 is the left-hand twin. Probably low at the right-hand
+    A-pillar (BEMM: right body harness 14A005 has a ground at the A-pillar).
+  - **C900** = body harness to roof harness (front interior lamp and vanity
+    mirror lamps pin 11 p.125; lane departure camera via C913/C919 p.609).
+    Probably high on the right-hand side.
+  - Unconfirmed on the van.
 - No end resistor is drawn on this sheet. Where the two terminators sit is
   still unconfirmed.
 - Other 2.2L network sheets are around PDF p.214–220 (p.214 has the DLC).

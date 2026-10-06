@@ -969,3 +969,32 @@ Sequential IDs: `T-001`, `T-002`, …
   - This shifts the leading hypothesis away from the PCM and its own supply and ground, all of which have so far measured as drawn (T-021, T-040).
 - Evidence files/photos: `evidence/photos/2026-10-06-c175b-probes-in-10-11.png`, `evidence/photos/2026-10-06-c175b-10-11-meter-18.97k.png`
 - Next action: photograph every connector that was unplugged around the driver's seat and the battery area, without unplugging anything, and report how many there are, their colours and roughly how many pins each has. Airbag connectors (usually yellow) are not to be unplugged or probed.
+
+## T-043 — Research: what C311 and C900 are, and where they probably sit
+
+- Date/time: 2026-10-06
+- Performed by: Claude (online search at the reporter's request, then the repository's own manuals)
+- Goal: Find where connectors C311 and C900 are on the van (suspect stretch from T-042).
+- Source:
+  - Web search (several queries on C311/C900/Transit Custom/HS CAN): **nothing found that names C311 or C900 or gives their location.** Forum threads on fordtransit.org describe water running down the A-pillar on Transit Customs and corroding connectors and the BCM; general context only.
+  - `Ford-Transit-Custom-1-2012-2020-–-Wiring-Diagrams.pdf`, all printed "2.2L": PDF page 112 (fuse F34, rear wipers), page 125 (interior lamps, early production), page 521 (sliding door ajar switches), page 609 (lane departure warning), page 217 (network sheet 14-4)
+  - `benl_montagehandleiding-Transit-Custom.pdf` (BEMM), printed pages 139, 140 and the ground point table on printed page 165
+- Vehicle state: N/A
+- Tool and mode: N/A
+- Connector state: N/A
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result:
+  - **C311** carries, besides the HS CAN pair on 44/45 and 42/43: the right-hand rear door wiper feed (pin 24, p.112), the right-hand sliding door ajar switch (pin 8, p.521), the luggage compartment and interior lamp feed (pin 26, p.125), the lane departure camera feed (pin 28, p.609) and a ground to G306 (pin 22, p.609). The same pages show a **C300** carrying the left-hand equivalents (left rear door wiper pin 24, left sliding door ajar switch pin 6).
+  - **C900** carries the feed to the front interior lamp and the vanity mirror lamps (pin 11, p.125) and, per p.217, the HS CAN pair out (pins 4/10) and back (pins 12/6). The lane departure camera hangs off the same harness through C913/C919 (p.609).
+  - The BEMM names a main harness (14401), a left body harness (14405) and a right body harness (14A005), joined to the main harness by one connector each. Its ground table puts ground points of the 14A005 harness at the A-pillar and at the D-pillar. It gives no connector numbers and no picture of these connectors.
+  - Neither manual has a connector location view.
+- Interpretation (all inferred, none confirmed on the van):
+  - C311 is the connector between the main harness and the **right-hand body harness**; C300 is its left-hand twin. Because the right-hand body harness starts at the A-pillar, C311 is most likely low down at the **right-hand A-pillar** (behind the lower trim / kick panel on the passenger side of a left-hand-drive van), not under the driver's seat.
+  - C900 joins the body harness to the **roof (headliner) harness**, so it should be high up, probably at the top of a pillar on the right-hand side.
+  - The HS CAN bus goes up into the roof harness through C900 and comes back down through it. On p.217 the stretch between the two C900 passes (S904/S905) is drawn inside the "lane departure warning" option box. Whether this van has the camera, and how the loop is closed when it does not, is not known.
+  - This weakens the under-seat suggestion made in T-042: nothing found so far places C311 or C900 near the driver's seat.
+  - C311 and C900 also carry lamp and door-switch circuits. If the front interior lamp, the load-area lamps and the right-hand sliding door warning all work, both connectors are at least plugged in, and the fault would be limited to the CAN terminals or wires.
+- Evidence files/photos: none.
+- Next action: no-tools check of the circuits that share C311 and C900: front interior lamp, load-area lamps, right sliding door open warning, airbag warning lamp at key-on; and report whether a camera sits behind the rear-view mirror.
