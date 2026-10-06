@@ -861,3 +861,27 @@ Sequential IDs: `T-001`, `T-002`, …
   - Nothing has yet been measured on the real C175B.
 - Evidence files/photos: `evidence/photos/marked-pcm-connectors-identified.jpg`
 - Next action: confirm that F35, R17 and both unplugged connectors are back in place. Then, key out for at least 2 minutes, unplug the right-hand connector and check it is C175B: 53 cavities, with terminals in large cavities 2, 3 and 5 and medium cavities 17, 29, 42 and 53.
+
+## T-039 — Right-hand PCM connector unplugged: population matches C175B
+
+- Date/time: 2026-10-06 (exact time not recorded)
+- Performed by: Sander (visual check and photo), Claude (photo read)
+- Goal: Confirm that the right-hand PCM connector is C175B before measuring on it (next action from T-038).
+- Source: `Ford-Transit-Custom-1-2012-2020-–-Wiring-Diagrams.pdf`, PDF page 238, printed "2.2L", section 151-2; PDF page 298, printed "2.2L", section 23-17 (pin 41)
+- Vehicle state: not stated; key out for at least 2 minutes was the instruction
+- Tool and mode: N/A (visual)
+- Connector state: right-hand PCM connector unplugged. **Not reported:** whether F35, R17/R9 and the middle and left connectors are back in place (asked in T-038).
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: 53 cavities; terminals in large cavities 2, 3 and 5 and medium cavities 17, 29, 42 and 53.
+- Actual result:
+  - Reported: **2, 3, 5, 17, 29, 41 and 53 all hold a metal terminal.** Cavity 42 was not mentioned.
+  - From the photo (Claude's reading): black outer housing with a red face, moulded part number 1563196-1, the same 53-cavity housing as the middle connector. Large cavities 1 and 4 empty; 2, 3 and 5 with terminals. Right-hand medium column 53, 41, 29, 17 all with terminals. Left-hand medium column: **42 shows a terminal**; 30, 18 and 6 look empty. Small cavities not judged.
+  - Wire colours on the back of the connector not reported.
+- Interpretation:
+  - **The right-hand connector is C175B.** All seven cavities that p.238 uses for supply and ground on the large and medium positions hold a terminal, including large cavity 5 and medium 17, 29 and 53, which are empty on the middle connector (C175T). Cavity 41 holding a terminal also fits: p.298 puts SMCS on C175B pin 41.
+  - Cavity 42 rests on the photo only. The 2-to-42 reading in the next test settles it.
+  - The T-038 identification is now confirmed by direct observation rather than by elimination.
+  - Nothing electrical has been measured on C175B yet.
+- Evidence files/photos: `evidence/photos/2026-10-06-pcm-right-connector-face.png`; marked image for the follow-up: `evidence/photos/marked-C175B-right-groups-ground-supply.jpg`
+- Next action: with C175B unplugged and the key out, resistance on the 200 Ω range between harness-side cavities: 2 to 3, 2 to 42, 2 to 53 (ground group, splice S101), 5 to 17, 5 to 29 (supply group, splice S103), then 2 to 5. This needs no ground reference, which is still unverified since T-035.

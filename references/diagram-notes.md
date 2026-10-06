@@ -84,7 +84,7 @@ with three lever-lock connectors side by side (T-024). Marked photo:
 | --- | --- | --- | --- | --- |
 | Left | Cream/white lever, TE 1719679 | 48 (4 × 12) | **C175E** | By elimination; pin numbers seen in the diagram (up to 40) fit 48 cavities. Not directly verified |
 | Middle | Black lever, brown/orange housing, TE 1563196-1, "A" on lever | 53 | **C175T** | All 19 C175T pins found in the diagram are populated on the van; 9 of 16 C175B pins are empty (T-038) |
-| Right | Black lever | Not examined | **C175B** | By elimination. **Confirm on the van before testing** |
+| Right | Black lever, black housing with red face, TE 1563196-1 | 53 | **C175B** | Terminals in large 2, 3, 5 and medium 17, 29, 41, 42, 53, as p.238/p.298 require (T-039) |
 
 **Correction:** T-026 identified the middle connector as C175B because it has
 53 cavities. That was wrong: C175T uses the same 53-cavity housing. T-027 to
