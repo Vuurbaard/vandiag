@@ -1136,3 +1136,22 @@ Sequential IDs: `T-001`, `T-002`, …
   - Still consistent with the connector being C210. Not confirmed.
 - Evidence files/photos: `evidence/photos/2026-10-06-harness-label-second-loom-14K024-ACK.png`
 - Next action: label on the far-side bundle (brown paper tape), and the back-probe reading from T-047.
+
+## T-050 — Reporter's online find: C210 is "right behind the glovebox" on the large Transit
+
+- Date/time: 2026-10-06
+- Performed by: Sander (found and read the thread), Claude (could not read it)
+- Goal: Identify the inline connector of T-046 to T-049.
+- Source: fordtransitusaforum.com thread "Blower motor not working on 2024 Ford Transit 250 van" (thread 102620). The site refuses automated readers (HTTP 402), so the content is recorded **as relayed by the reporter, not read by Claude**. The thread is about the large US-market Transit, model year 2024, not the Transit Custom.
+- Vehicle state: N/A
+- Tool and mode: N/A
+- Connector state: N/A
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result: per the reporter, a poster there says C210 sits right behind the glovebox, and the reporter finds that this matches the connector on this van.
+- Interpretation:
+  - Agrees with the T-048 inference from the harness label (instrument panel harness on one side, so C210). Two independent hints now point the same way. Other model and other model year, so still not a confirmation for this van.
+  - If the connector found is C210, it is on the diagnostic-socket side of the suspect stretch. C311 is the next connector along the bus and is still to be found.
+- Evidence files/photos: none.
+- Next action: unchanged: back-probe the white and white-blue pair at this connector (T-047), and find C311.
