@@ -1069,3 +1069,30 @@ Sequential IDs: `T-001`, `T-002`, …
   - No conclusion about a fault.
 - Evidence files/photos: `evidence/photos/2026-10-06-inline-connector-right-a-pillar.png`; marked image for the follow-up: `evidence/photos/marked-inline-connector-closeups-wanted.jpg`
 - Next action: close-up photos of both wire-entry sides, the red tabs and the bolt, and a wider photo showing any other large connectors in that corner. Nothing unplugged.
+
+## T-047 — Close-ups of the inline connector: intact and dry outside, one white-blue and white wire pair visible
+
+- Date/time: 2026-10-06 (exact time not recorded)
+- Performed by: Sander (photos), Claude (photo read)
+- Goal: Decide whether the connector of T-046 is C311 and whether it shows visible damage.
+- Source: PDF page 217, printed "2.2L" (C311 pins 42/43 and 44/45, wires VDB04 white-blue and VDB05 white)
+- Vehicle state: not stated
+- Tool and mode: N/A (visual)
+- Connector state: nothing unplugged
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: two twisted white-blue and white pairs entering the connector side by side if it is C311.
+- Actual result:
+  - Reporter: from underneath, a blue-white wire is visible somewhere in the middle of the loom on side A.
+  - Photos (Claude's reading): the housing is a carrier holding several smaller connector blocks. On the wire-entry side nearest the camera, a plain white wire and a white wire with a blue stripe enter two cavities directly above each other in the left-hand column. A second white wire with a blue stripe runs through the bundle; where it enters is hidden. Whether the wires are twisted pairs cannot be seen.
+  - Both red tabs sit flush and look alike. The two halves look fully mated.
+  - No moulded cavity numbers are readable.
+  - No deposits, water marks or damaged insulation are visible. Dust on top is dry.
+  - The bolt with the black sleeve (item D of T-046) sits beside the connector; what it fastens is still not clear. Not reported on.
+  - The overview shows this connector alone on its bracket, with a taped harness going up behind it.
+- Interpretation:
+  - A white and white-blue pair in neighbouring cavities fits C311, where the CAN pairs are on 42/43 and 44/45. **Still not confirmed as C311**; the second pair has not been found and no pin number has been read.
+  - Nothing visible explains the fault. A terminal fault inside the connector cannot be seen from outside.
+  - The connector does not need to be unplugged to test it: the CAN wires can be back-probed here. With C175B unplugged, any CAN pair that is on the diagnostic-socket side of the break reads about 120 Ω, and any pair on the PCM side reads kilo-ohms (T-042). Measuring both pairs at this connector therefore shows whether the break is before this connector, in the roof loop between its two passes, or after it.
+- Evidence files/photos: `evidence/photos/2026-10-06-inline-connector-wire-side-A.png`, `...-wire-side-A-angle.png`, `...-red-tabs.png`, `...-overview.png`; marked image for the follow-up: `evidence/photos/marked-inline-connector-can-pair-backprobe.jpg`
+- Next action: with C175B unplugged and the key out, back-probe each white-blue and white pair at this connector and measure the resistance across the pair on the 20 kΩ range.
