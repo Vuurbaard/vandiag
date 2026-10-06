@@ -1096,3 +1096,24 @@ Sequential IDs: `T-001`, `T-002`, …
   - The connector does not need to be unplugged to test it: the CAN wires can be back-probed here. With C175B unplugged, any CAN pair that is on the diagnostic-socket side of the break reads about 120 Ω, and any pair on the PCM side reads kilo-ohms (T-042). Measuring both pairs at this connector therefore shows whether the break is before this connector, in the roof loop between its two passes, or after it.
 - Evidence files/photos: `evidence/photos/2026-10-06-inline-connector-wire-side-A.png`, `...-wire-side-A-angle.png`, `...-red-tabs.png`, `...-overview.png`; marked image for the follow-up: `evidence/photos/marked-inline-connector-can-pair-backprobe.jpg`
 - Next action: with C175B unplugged and the key out, back-probe each white-blue and white pair at this connector and measure the resistance across the pair on the 20 kΩ range.
+
+## T-048 — Harness label at the inline connector: BK2T-14K024-ACK (instrument panel harness); connector is more likely C210 than C311
+
+- Date/time: 2026-10-06 (exact time not recorded)
+- Performed by: Sander (photo), Claude (reading)
+- Goal: Identify the inline connector of T-046/T-047.
+- Source: BEMM (`benl_montagehandleiding-Transit-Custom.pdf`) printed page 126, which names 14K024 as the instrument panel harness and 14401 as the body/main harness, joined by an in-line connector; wiring diagram PDF page 217, printed "2.2L"
+- Vehicle state: N/A
+- Tool and mode: N/A (visual)
+- Connector state: nothing unplugged
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result: the loom entering the connector on the side photographed as "A" carries a label reading **BK2T14K024ACK**, "TTGYGB68095 - 7015814", "Lct: S0701".
+- Interpretation:
+  - 14K024 is the instrument panel harness. A connector with the instrument panel harness on one side is the join between that harness and the main harness. On p.217 the HS CAN pair passes one such join on its way to C311: **C210 pins 68/67**. The T-045 printout lists C311 as joining harness 14401 to a body harness, with no instrument panel harness involved, and shows C210 in the same corner as C311.
+  - So the connector found is **probably C210, not C311**. Inferred from the harness label; no connector number has been read on the van.
+  - C210 carries only one HS CAN pair, and it is on the diagnostic-socket side of the suspect stretch. The white and white-blue pair seen in T-047 fits that as well.
+  - The back-probe test proposed in T-047 is still worth doing here: about 120 Ω across that pair (C175B unplugged) would show the bus is healthy up to this point. C311 would then be another large connector close by, with the main harness on one side and the right-hand body harness on the other.
+- Evidence files/photos: `evidence/photos/2026-10-06-harness-label-BK2T-14K024-ACK.png`
+- Next action: unchanged from T-047 (back-probe the white and white-blue pair here), and look for a second large connector in the same corner; read the label on the loom on the other side of this connector.

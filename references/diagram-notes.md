@@ -169,6 +169,10 @@ p.298 refers to this sheet as 14-5. Found by OCR search for wire name VDB04
     is an inline connector on harness 14401 on the right side of the vehicle,
     beneath the cup holder on the passenger side of the dash, prone to water
     ingress. Same connector names as this diagram, different model.
+  - Found on the van (T-046 to T-048): a large black inline connector at the
+    right-hand A-pillar foot whose loom is labelled BK2T-14K024-ACK
+    (instrument panel harness). That makes it probably **C210** (HS CAN on
+    pins 68/67), not C311.
   - Unconfirmed on the van. Alternative for C311 (T-044): on the cabin floor
     near the front seats, since 3xx numbers in this diagram are floor-area
     parts (seat connectors C334–C369, restraints module C310A/B). C311 itself
