@@ -1045,3 +1045,27 @@ Sequential IDs: `T-001`, `T-002`, …
   - The "seats" find reported in T-044 is not explained by this source.
 - Evidence files/photos: `references/connectors/transit-2019MY-C311-location-printout.png` (copy of the forum attachment)
 - Next action: find C311 behind the lower trim on the right-hand side of the dash / right A-pillar foot and photograph it in place, without unplugging. Look for water marks, green or white deposits, and damp carpet.
+
+## T-046 — Large black inline connector found; candidate for C311, not yet confirmed
+
+- Date/time: 2026-10-06 (exact time not recorded)
+- Performed by: Sander (photo), Claude (photo read)
+- Goal: Find C311 on the van (next action from T-045).
+- Source: location hint from T-045 (sister model); pin list for C311 from PDF pages 112, 125, 217, 521, 609
+- Vehicle state: not stated
+- Tool and mode: N/A (visual)
+- Connector state: nothing unplugged (as instructed; not restated)
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: a large black inline connector low on the right-hand side of the dash, at the A-pillar foot.
+- Actual result (Claude's reading of the photo):
+  - A large black inline connector on a bracket bolted to the body, with a thick bundle of thin wires entering from two sides (well over 40 wires in total) and two red tabs on top. Twisted pairs are visible in the bundles.
+  - The surface is dusty and dry-looking. No green or white deposits and no water marks are visible on the outside. The inside cannot be judged.
+  - A bolt with a black sleeve points out of the area just left of the connector. What it belongs to cannot be told from the photo.
+  - Which side of the van the photo shows is not stated; the passenger side was the instruction.
+- Interpretation:
+  - Size, colour and place fit C311. The T-045 drawing shows other large connectors in the same corner (C210, C340), so this may be one of those instead. **Not confirmed as C311.**
+  - C311 can be told apart by two twisted white-blue and white pairs entering side by side (pins 42/43 and 44/45, PDF p.217) and by moulded cavity numbers if the housing has them.
+  - No conclusion about a fault.
+- Evidence files/photos: `evidence/photos/2026-10-06-inline-connector-right-a-pillar.png`; marked image for the follow-up: `evidence/photos/marked-inline-connector-closeups-wanted.jpg`
+- Next action: close-up photos of both wire-entry sides, the red tabs and the bolt, and a wider photo showing any other large connectors in that corner. Nothing unplugged.
