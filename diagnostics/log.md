@@ -913,3 +913,31 @@ Sequential IDs: `T-001`, `T-002`, …
   - Not shown by this test: that the ground group actually reaches the body and battery negative (G105), that the supply group reaches fuse F35, and how either behaves under load. Ground pin 7 (G104) is not covered either.
 - Evidence files/photos: marked image for the follow-up: `evidence/photos/marked-C175B-right-7-10-11.jpg`
 - Next action: on the 200 Ω range, cavity 2 to cavity 7 (second ground, also a check of the small-cavity numbering), then cavity 10 to cavity 11 (HS CAN pair on the harness side, p.298). Small-cavity numbers are counted along the row from medium cavity 6 and are not moulded on the face; treat them as unconfirmed until the 2-to-7 reading and the wire colours agree.
+
+## T-041 — C175B harness side: 2 to 7 has continuity; 10 to 11 (HS CAN pair) reads 0L
+
+- Date/time: 2026-10-06 (exact time not recorded)
+- Performed by: Sander (readings), Claude (diagram read)
+- Goal: Check ground pin 7 and the small-cavity numbering, then see whether the CAN pair at the PCM plug reaches the rest of the network (next action from T-040).
+- Source: `Ford-Transit-Custom-1-2012-2020-–-Wiring-Diagrams.pdf`, PDF page 238 (section 151-2) for pin 7; PDF page 298 (section 23-17) for pins 10/11; **PDF page 218, printed "2.2L", Module Communications Network (the sheet p.298 refers to as 14-5)** for the route of the CAN pair, found by OCR search for wire name VDB04
+- Vehicle state: key out (as instructed; not restated), battery connected. How long the key had been out is not recorded.
+- Tool and mode: AstroAI AM33D, Ω 200 range (as instructed; not restated)
+- Connector state: C175B unplugged. State of F35, R17/R9 and the other two PCM connectors still not reported.
+- Reference/ground point: N/A (cavity to cavity)
+- Probe points: harness-side terminals of C175B from the mating face, as marked in `evidence/photos/marked-C175B-right-7-10-11.jpg`. Small-cavity numbers were counted along the row from medium cavity 6 by Claude; they are not moulded on the face.
+- Expected result: 2 to 7 under about 1 Ω. 10 to 11: about 120 Ω if the pair reaches the network and one end resistor.
+- Actual result:
+  - 2 to 7: **varies between 0.04 and 1.00** (as reported).
+  - 10 to 11: **0L** (over range, more than 200 Ω).
+  - Wire colours behind 7, 10 and 11 not reported.
+- Interpretation:
+  - 2 to 7: there is a connection, so the cavity counted as 7 is a ground. That supports the counting method. The variation is most likely probe contact on a small terminal; a loose or corroded joint in the pin-7 ground path (GD121, S118, G104) or between G104 and G105 is not excluded. To repeat with steadier contact later.
+  - 10 to 11 reading 0L means no end resistor is seen from the PCM plug. **If** the two cavities probed really are 10 and 11 and both tips touched metal, the CAN pair is open somewhere between this plug and the rest of the network. That would explain the PCM being awake but silent (T-021 to T-023), the 120 Ω at the diagnostic socket (T-006) if the PCM holds the second end resistor, and U0100 in the other modules (T-007). **Not yet concluded:** the cavity identity rests on counting, small terminals are easy to miss, and only the 200 Ω range was used.
+  - New from p.218: the PCM's CAN wires (C175B 10 = VDB04 white-blue, 11 = VDB05 white, twisted) run to splices **S107/S108**. From those splices one leg goes through **C1010 pins 3/4** to the **ABS module (C135 pins 26/14)**, and the other goes through **C139 pins 47/48** to splices S297/S296, where the restraints module and the rest of the network join. So the PCM and the ABS module share one branch behind C139.
+  - That fits the scan in T-007: PCM does not answer, **the ABS module is not in the list of responding modules at all**, and PAM, HCM, BCMii and IPC store U0121 (lost communication with ABS, generic definition, still unconfirmed in FORScan's own text). Also H-05 (ABS reported not working) and T-008 (traction-control icon). Two modules missing that share one branch points at that branch (C139 pins 47/48 or the wire either side of it) rather than at the PCM itself. Hypothesis, not a finding.
+  - Against a fully unmated C139: the same connector carries the relay feeds on pins 6 and 24 and the wake signal on pin 23 (p.238), and those work (T-021). So if C139 is involved it would be individual terminals, not the whole connector.
+  - The restraints module is not in the T-007 list either; it sits on the network side of C139 per p.218. Unexplained; FORScan may simply not list it in that view.
+  - Also noted while searching: C175B pin 39 is the ignition feed from BJB fuse F7 (CBB07, green-blue; PDF p.104) and pin 47 is the START signal from the ignition switch through C210 pin 51 and C139 pin 16 (CDC35, blue-white; PDF p.101/102).
+  - Where C139 sits on the van is not known yet.
+- Evidence files/photos: none new.
+- Next action: confirm the cavity identity from the wire side (a twisted white-blue and white pair must enter the two cavities probed), then repeat 10 to 11 on the 20 kΩ range with firm contact.

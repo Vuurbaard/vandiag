@@ -131,6 +131,28 @@ R17 relay control and pins 5, 17, 29 for PCM power.
 This PDF does not appear to have a "connector end views" appendix (checked
 the final pages, p.633–637, none found).
 
+## HS CAN branch to the PCM and ABS module (PDF p.218, "2.2L", Module Communications Network)
+
+p.298 refers to this sheet as 14-5. Found by OCR search for wire name VDB04
+(T-041).
+
+- C175B pin 10 (HS CAN+, VDB04 WH-BU) → splice **S107**; pin 11 (HS CAN−,
+  VDB05 WH) → splice **S108**. Twisted pair.
+- From S107/S108 down: **C1010 pins 3/4** → ABS module **C135 pins 26/14**.
+- From S107/S108 up: **C139 pins 47/48** → splices **S297/S296** → restraints
+  control module C310B pins 48/47, and on through C311 pins 42/43 (with C192
+  pins 4/10 and 3/9 on early production) to the rest of the network (sheet
+  14-4).
+- The PCM and the ABS module therefore share one branch behind C139.
+- No end resistor is drawn on this sheet. Where the two terminators sit is
+  still unconfirmed.
+- Other 2.2L network sheets are around PDF p.214–220 (p.214 has the DLC).
+- Location of C139 on the van: not found yet.
+
+Also on C175B: pin 39 = ignition feed from BJB F7 (CBB07 GN-BU, p.104);
+pin 47 = START from the ignition switch via C210 pin 51 and C139 pin 16
+(CDC35 BU-WH, p.101/102).
+
 ## Fuse box layouts (Ford owner's manual, "Fuse Specification Chart - 2.2L Diesel")
 
 Source: Ford online owner's manual page linked from Sander's own notes
