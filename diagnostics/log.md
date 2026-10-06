@@ -1021,3 +1021,27 @@ Sequential IDs: `T-001`, `T-002`, …
   - What to look for is the same either way: a large connector (45 cavities or more) with a twisted white-blue and white pair, not one of the small seat plugs.
 - Evidence files/photos: none.
 - Next action: unchanged from T-043 (lamp, door warning and airbag lamp check), plus photos of every connector around the driver's seat base and floor as asked in T-042.
+
+## T-045 — Outside source for C311 on the sister model: inline connector under the passenger-side dash, known for water ingress
+
+- Date/time: 2026-10-06
+- Performed by: Sander (found the thread), Claude (read it)
+- Goal: Settle where C311 sits (open since T-043/T-044).
+- Source: motorhomefun.co.uk forum thread "Help headlight's keep turning on" (thread 270715), post #8 of 2022-09-18, with a photographed printout headed "Transit 2019 MY – Camper conversion / High Roof Tipper conversion". **This is about the large Transit (Mk8), not the Transit Custom.**
+- Vehicle state: N/A
+- Tool and mode: N/A
+- Connector state: N/A
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result:
+  - The printout says: "Check connector C311 on the right side of the vehicle, beneath the cup holder on passenger side of the dash", "Connector C311 is prone to water ingress via the cup holder or the drain running from the screen", "Generally they can be resolved by removing the connectors, cleaning and applying some contact grease".
+  - Its location drawing shows C311 at the foot of the A-pillar / side of the dash, next to C340, C210 and C3660C, with the restraints module C310A/C310B on the floor nearby. It lists C311 as an inline connector, black, male half on harness 14401, female half on a body harness (number not readable in the photo), with a large multi-row face.
+  - The forum post quotes: "the source of the short is the C311 connector which is located on the passenger side of the van in the dash under the cup holder", "This happens from condensation from the windscreen".
+- Interpretation:
+  - The connector names on that drawing (C311, C340, C210, C3660C, C310A/B, harness 14401) all occur in this van's diagram too, so the two models appear to share the naming. That makes it likely, not certain, that the Transit Custom's C311 is in the same place: **low on the right-hand side of the dash, at the A-pillar, which is the passenger side on this left-hand-drive van.**
+  - This agrees with the T-043 inference (main harness to right-hand body harness, at the A-pillar) and makes the floor-near-the-seats alternative of T-044 less likely.
+  - A connector known for water ingress and corrosion, carrying the HS CAN pair twice (pins 42–45), fits the suspect stretch of T-042 well. Still a hypothesis: nothing has been seen or measured at C311 on this van, and the source covers another model and another symptom (lights staying on).
+  - The "seats" find reported in T-044 is not explained by this source.
+- Evidence files/photos: `references/connectors/transit-2019MY-C311-location-printout.png` (copy of the forum attachment)
+- Next action: find C311 behind the lower trim on the right-hand side of the dash / right A-pillar foot and photograph it in place, without unplugging. Look for water marks, green or white deposits, and damp carpet.

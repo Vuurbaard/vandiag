@@ -164,6 +164,11 @@ p.298 refers to this sheet as 14-5. Found by OCR search for wire name VDB04
   - **C900** = body harness to roof harness (front interior lamp and vanity
     mirror lamps pin 11 p.125; lane departure camera via C913/C919 p.609).
     Probably high on the right-hand side.
+  - Outside source for the large Transit, 2019 MY (T-045,
+    `references/connectors/transit-2019MY-C311-location-printout.png`): C311
+    is an inline connector on harness 14401 on the right side of the vehicle,
+    beneath the cup holder on the passenger side of the dash, prone to water
+    ingress. Same connector names as this diagram, different model.
   - Unconfirmed on the van. Alternative for C311 (T-044): on the cabin floor
     near the front seats, since 3xx numbers in this diagram are floor-area
     parts (seat connectors C334–C369, restraints module C310A/B). C311 itself
