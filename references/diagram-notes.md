@@ -144,6 +144,17 @@ p.298 refers to this sheet as 14-5. Found by OCR search for wire name VDB04
   pins 4/10 and 3/9 on early production) to the rest of the network (sheet
   14-4).
 - The PCM and the ABS module therefore share one branch behind C139.
+- Full route from the diagnostic socket (p.214, 216, 217, 218; one bus, wire
+  names VDB04/VDB05 throughout, no gateway in between): DLC C251 pins 6/14 →
+  S211/S210 (BCM C2280D 52/51) → S217/S218 → S220/S221 (steering column
+  module) → C263 2/8 → S202/S203 (SYNC module) → C264 2/8 → C210 68/67 →
+  **C311 44/45** → S922/S921 (parking aid module) → C900 4/10 → S904/S905
+  (lane departure module, if fitted) → C900 12/6 → **C311 42/43** → (C192,
+  early production) → S297/S296 → C139 47/48 → S107/S108.
+- Measured T-042: C175B 10 to 11 on the harness side is about 19 kΩ, so this
+  stretch is cut off from the DLC side (120 Ω there). Suspect stretch from
+  the T-007 module list: between S922/S921 and S297/S296.
+- Locations of C311, C900, C192 on the van: not in this PDF or the BEMM.
 - No end resistor is drawn on this sheet. Where the two terminators sit is
   still unconfirmed.
 - Other 2.2L network sheets are around PDF p.214–220 (p.214 has the DLC).

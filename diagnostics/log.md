@@ -941,3 +941,31 @@ Sequential IDs: `T-001`, `T-002`, …
   - Where C139 sits on the van is not known yet.
 - Evidence files/photos: none new.
 - Next action: confirm the cavity identity from the wire side (a twisted white-blue and white pair must enter the two cavities probed), then repeat 10 to 11 on the 20 kΩ range with firm contact.
+
+## T-042 — C175B cavities 10 to 11 read about 19 kΩ: a module, but no end resistor and no network
+
+- Date/time: 2026-10-06 (exact time not recorded)
+- Performed by: Sander (reading and photos), Claude (diagram read)
+- Goal: Confirm or refute the 0L reading of T-041 with better contact and a higher range.
+- Source: `Ford-Transit-Custom-1-2012-2020-–-Wiring-Diagrams.pdf`, all printed "2.2L", Module Communications Network: PDF page 214 (DLC, sheet 14-1), page 216 (sheet 14-3), page 217 (sheet 14-4), page 218 (sheet 14-5). Sheet numbers are inferred from the cross-references between the pages.
+- Vehicle state: key out (as instructed; not restated), battery connected
+- Tool and mode: AstroAI AM33D, kΩ range (display shows kΩ with two decimals, so the 20 kΩ range). Thin pin probes with banana sockets pushed into the cavities from the mating face, because the meter's own tips do not fit.
+- Connector state: C175B unplugged. State of F35, R17/R9 and the other two PCM connectors still not reported.
+- Reference/ground point: N/A (cavity to cavity)
+- Probe points: the two cavities marked 10 and 11 in `evidence/photos/marked-C175B-right-7-10-11.jpg`. The reporter's photo shows the pins in exactly those two positions: the last small cavity of the bottom-left block and the first of the bottom-middle block.
+- Expected result: about 0.12 kΩ if the pair reaches the network and one end resistor; over range if the pair is open and nothing else hangs on it.
+- Actual result:
+  - **18.85 to just over 19 kΩ**; the photo shows 18.97 kΩ.
+  - The wires at the back of the plug cannot be seen; the connector cover blocks the view. Cavity identity by wire colour is therefore not confirmed.
+- Interpretation:
+  - T-041's "0L" on the 200 Ω range and this reading agree: the true value is about 19 kΩ, far above 200 Ω.
+  - About 19 kΩ is not an end resistor (120 Ω) and not an open wire. It is the order of size of the input of one or two CAN transceivers. So these two cavities do carry a CAN pair with at least one module on it, which also supports the cavity counting. Per p.218 the modules that share this stretch with the PCM are the ABS module (through C1010) and, on the far side of C139, the restraints module.
+  - What is missing is everything else: the diagnostic socket sees 120 Ω (T-006, H-06) and eight modules answer there (T-007). If the PCM plug were on the same copper, it would read 120 Ω or less. **The stretch of HS CAN that serves the PCM is cut off from the part of the network that the diagnostic socket is on.** This is now supported by two independent observations (resistance here, module list in T-007) but the break itself has not been located or measured directly.
+  - It also means the PCM most likely holds the second end resistor: the socket sees one (120 Ω) and this stretch has none without the PCM. Inferred.
+  - Resistance was measured with the battery connected and other modules possibly not asleep, so the exact value is not reliable. The conclusion only needs "kilo-ohms, not about 120 Ω".
+  - Full route from the diagnostic socket to the PCM, per the four sheets: DLC C251 pins 6/14 → S211/S210 (BCM joins) → S217/S218 → S220/S221 (steering column module joins) → C263 pins 2/8 → S202/S203 (SYNC module joins) → C264 pins 2/8 → C210 pins 68/67 → **C311 pins 44/45** → S922/S921 (parking aid module joins) → C900 pins 4/10 → S904/S905 → C900 pins 12/6 → **C311 pins 42/43** → (C192 on early production) → S297/S296 (restraints module joins) → **C139 pins 47/48** → S107/S108 (PCM joins; ABS module through C1010 pins 3/4).
+  - Modules that answered in T-007 (BCM, steering column/SASM, SYNC/APIM, parking aid/PAM and others) all sit before S922/S921 on this route. Modules that did not appear (restraints, PCM, ABS) all sit after it. **That places the break between S922/S921 and S297/S296: C900 pins 4/10 or 12/6, the S904/S905 stretch, C311 pins 42/43, or C192 if fitted.** Inferred from the scan list; FORScan may omit a module for other reasons, so this is a working hypothesis.
+  - The bus passes through C311 twice. The diagram has no connector location views and the BEMM does not mention C311 or C900, so where they sit on the van is unknown. The fault first appeared right after work under the driver's seat (T-005), where several connectors were unplugged (T-006). Whether C311 or C900 is one of those is not known.
+  - This shifts the leading hypothesis away from the PCM and its own supply and ground, all of which have so far measured as drawn (T-021, T-040).
+- Evidence files/photos: `evidence/photos/2026-10-06-c175b-probes-in-10-11.png`, `evidence/photos/2026-10-06-c175b-10-11-meter-18.97k.png`
+- Next action: photograph every connector that was unplugged around the driver's seat and the battery area, without unplugging anything, and report how many there are, their colours and roughly how many pins each has. Airbag connectors (usually yellow) are not to be unplugged or probed.
