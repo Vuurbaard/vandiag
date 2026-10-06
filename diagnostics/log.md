@@ -1155,3 +1155,23 @@ Sequential IDs: `T-001`, `T-002`, …
   - If the connector found is C210, it is on the diagnostic-socket side of the suspect stretch. C311 is the next connector along the bus and is still to be found.
 - Evidence files/photos: none.
 - Next action: unchanged: back-probe the white and white-blue pair at this connector (T-047), and find C311.
+
+## T-051 — Text of the forum post behind T-050 (screenshot from the reporter)
+
+- Date/time: 2026-10-06
+- Performed by: Sander (screenshot), Claude (reading)
+- Goal: Record what the T-050 source actually says.
+- Source: fordtransitusaforum.com thread 102620, post #9 of 2025-12-08, read from the reporter's screenshot. Large US-market Transit, model year 2024; the fault there is an inoperative blower.
+- Vehicle state: N/A
+- Tool and mode: N/A
+- Connector state: N/A
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result: the post reads: "This was on a 2024, but Pin 55 on the C210 connector. Drop the glovebox down and it's the big connector on the right. Dealer plugged and unplugged it and called it resolved, but blower stopped working again. Short term fix is I pop the glovebox down and wiggle the connector if/when it stops. Will eventually de-pin 55 and recrimp if necessary."
+- Interpretation:
+  - Location matches the connector found on this van (big connector on the right behind the glovebox), on a related model. Supports C210; still not a confirmation.
+  - The post describes a single poor terminal inside a connector that looks fine from outside and responds to wiggling. That is the kind of fault suspected here, on a different pin and a different vehicle. It is not evidence that this van's C210 is faulty.
+  - Practical consequence: when measuring at any connector on the suspect stretch, wiggle the connector and its looms and watch for the reading to jump.
+- Evidence files/photos: none saved (screenshot of a third-party forum page).
+- Next action: unchanged from T-050.
