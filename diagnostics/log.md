@@ -885,3 +885,31 @@ Sequential IDs: `T-001`, `T-002`, …
   - Nothing electrical has been measured on C175B yet.
 - Evidence files/photos: `evidence/photos/2026-10-06-pcm-right-connector-face.png`; marked image for the follow-up: `evidence/photos/marked-C175B-right-groups-ground-supply.jpg`
 - Next action: with C175B unplugged and the key out, resistance on the 200 Ω range between harness-side cavities: 2 to 3, 2 to 42, 2 to 53 (ground group, splice S101), 5 to 17, 5 to 29 (supply group, splice S103), then 2 to 5. This needs no ground reference, which is still unverified since T-035.
+
+## T-040 — C175B harness side: ground group and supply group each joined, no short between them
+
+- Date/time: 2026-10-06 (exact time not recorded)
+- Performed by: Sander
+- Goal: Check that the ground wires and the supply wires of C175B each still join at their splice, without relying on a ground reference (next action from T-039).
+- Source: `Ford-Transit-Custom-1-2012-2020-–-Wiring-Diagrams.pdf`, PDF page 238, printed "2.2L", section 151-2
+- Vehicle state: key out (as instructed; not restated), battery connected
+- Tool and mode: AstroAI AM33D, Ω 200 range (as instructed; not restated)
+- Connector state: C175B unplugged. State of F35, R17/R9 and the other two PCM connectors still not reported.
+- Reference/ground point: N/A (cavity to cavity)
+- Probe points: harness-side terminals of C175B from the mating face, as marked in `evidence/photos/marked-C175B-right-groups-ground-supply.jpg`
+- Expected result: under 1 Ω within the ground group (2, 3, 42, 53) and within the supply group (5, 17, 29); clearly not near zero between 2 and 5.
+- Actual result (digits as reported):
+  - 2 to 3: **0.00**
+  - 2 to 42: **0.02**
+  - 2 to 53: **0.00**
+  - 5 to 17: **0.02**
+  - 5 to 29: **0.00**
+  - 2 to 5: **0L.**
+- Interpretation:
+  - Ground wires on 2, 3, 42 and 53 are joined to each other at well under 1 Ω, as p.238 draws them (GD120, splice S101). Cavity 42 does hold a terminal, which settles the open point from T-039.
+  - Supply wires on 5, 17 and 29 are joined to each other at well under 1 Ω, as p.238 draws them (CBB35, splice S103).
+  - No connection between the supply group and the ground group with the PCM unplugged and the relay open, so there is no short on the PCM supply line.
+  - This is the first set of readings on the real C175B, and every one matches the diagram. It further confirms the T-039 identification.
+  - Not shown by this test: that the ground group actually reaches the body and battery negative (G105), that the supply group reaches fuse F35, and how either behaves under load. Ground pin 7 (G104) is not covered either.
+- Evidence files/photos: marked image for the follow-up: `evidence/photos/marked-C175B-right-7-10-11.jpg`
+- Next action: on the 200 Ω range, cavity 2 to cavity 7 (second ground, also a check of the small-cavity numbering), then cavity 10 to cavity 11 (HS CAN pair on the harness side, p.298). Small-cavity numbers are counted along the row from medium cavity 6 and are not moulded on the face; treat them as unconfirmed until the 2-to-7 reading and the wire colours agree.
