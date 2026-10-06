@@ -15,6 +15,7 @@ This repository is the shared diagnostic record. Its purpose is to keep the inve
 | Body | L2H2 panel van |
 | Engine | 2.2 TDCi, 125 PS (92 kW), 2,198 cc |
 | First registration | 2016-04-15 |
+| Steering position | Left-hand drive (confirmed by the owner, 2026-10-06) |
 | VIN | Not stored publicly; add only to a private copy if needed |
 | System voltage | 12 V |
 
