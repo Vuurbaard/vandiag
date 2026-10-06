@@ -1117,3 +1117,22 @@ Sequential IDs: `T-001`, `T-002`, …
   - The back-probe test proposed in T-047 is still worth doing here: about 120 Ω across that pair (C175B unplugged) would show the bus is healthy up to this point. C311 would then be another large connector close by, with the main harness on one side and the right-hand body harness on the other.
 - Evidence files/photos: `evidence/photos/2026-10-06-harness-label-BK2T-14K024-ACK.png`
 - Next action: unchanged from T-047 (back-probe the white and white-blue pair here), and look for a second large connector in the same corner; read the label on the loom on the other side of this connector.
+
+## T-049 — Second loom beside the inline connector carries the same label: BK2T-14K024-ACK
+
+- Date/time: 2026-10-06 (exact time not recorded)
+- Performed by: Sander (photo), Claude (reading)
+- Goal: Read the label on the other loom at the inline connector (asked in T-048).
+- Source: N/A
+- Vehicle state: N/A
+- Tool and mode: N/A (visual)
+- Connector state: nothing unplugged
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: a label containing 14401 if this loom is the main-harness side of the connector.
+- Actual result: the loom to the right of the bolt is labelled **BK2T-14K024-ACK**, "SERI NO 004379", "2416". That is the same harness number as the loom in T-048.
+- Interpretation:
+  - Both looms on the near side of the connector are branches of the instrument panel harness. This says nothing yet about the harness on the far side, where the bundle wrapped in brown paper tape leaves the connector (T-046 photo, point B).
+  - Still consistent with the connector being C210. Not confirmed.
+- Evidence files/photos: `evidence/photos/2026-10-06-harness-label-second-loom-14K024-ACK.png`
+- Next action: label on the far-side bundle (brown paper tape), and the back-probe reading from T-047.
