@@ -998,3 +998,26 @@ Sequential IDs: `T-001`, `T-002`, …
   - C311 and C900 also carry lamp and door-switch circuits. If the front interior lamp, the load-area lamps and the right-hand sliding door warning all work, both connectors are at least plugged in, and the fault would be limited to the CAN terminals or wires.
 - Evidence files/photos: none.
 - Next action: no-tools check of the circuits that share C311 and C900: front interior lamp, load-area lamps, right sliding door open warning, airbag warning lamp at key-on; and report whether a camera sits behind the rear-view mirror.
+
+## T-044 — C311 location: reporter finds "seats" online; A-pillar inference of T-043 downgraded
+
+- Date/time: 2026-10-06
+- Performed by: Sander (online find, source not recorded), Claude (re-check of the repository diagram's OCR text)
+- Goal: Reconcile the reporter's find that C311 is "in seats" with T-043.
+- Source: OCR text of `Ford-Transit-Custom-1-2012-2020-–-Wiring-Diagrams.pdf` (200dpi, may be incomplete); PDF pages 18, 110, 116, 553, 555, 556 for seat circuits
+- Vehicle state: N/A
+- Tool and mode: N/A
+- Connector state: N/A
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result:
+  - The reporter found C311 described online as a seat connector. Which vehicle and which page is not recorded.
+  - In this van's diagram the seat circuits (heated seats and others) use C334, C335, C341A–F, C363, C369, C3501 and C3660C. C311 does not appear on those pages. C311 appears on p.112, 125, 217, 521 and 609 with the circuits listed in T-043, and needs at least 45 cavities.
+  - Other connectors numbered 3xx in this diagram: C310A/C310B (restraints control module), C300, C340.
+- Interpretation:
+  - Ford connector numbers are assigned per model. On other Ford models C311 is a seat connector, which is probably what the online find refers to. In this van's diagram C311 is not a seat connector.
+  - But the 3xx numbers in this diagram belong to parts in the cabin floor area (seat connectors, restraints module). So C311 may sit on the cabin floor near the front seats rather than at the A-pillar. **The A-pillar location in T-043 was an inference from a BEMM ground table and is no better supported than a floor location.** Both stay open until the connector is seen on the van.
+  - What to look for is the same either way: a large connector (45 cavities or more) with a twisted white-blue and white pair, not one of the small seat plugs.
+- Evidence files/photos: none.
+- Next action: unchanged from T-043 (lamp, door warning and airbag lamp check), plus photos of every connector around the driver's seat base and floor as asked in T-042.

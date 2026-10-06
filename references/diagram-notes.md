@@ -164,7 +164,10 @@ p.298 refers to this sheet as 14-5. Found by OCR search for wire name VDB04
   - **C900** = body harness to roof harness (front interior lamp and vanity
     mirror lamps pin 11 p.125; lane departure camera via C913/C919 p.609).
     Probably high on the right-hand side.
-  - Unconfirmed on the van.
+  - Unconfirmed on the van. Alternative for C311 (T-044): on the cabin floor
+    near the front seats, since 3xx numbers in this diagram are floor-area
+    parts (seat connectors C334–C369, restraints module C310A/B). C311 itself
+    is not on any seat page and needs 45 or more cavities.
 - No end resistor is drawn on this sheet. Where the two terminators sit is
   still unconfirmed.
 - Other 2.2L network sheets are around PDF p.214–220 (p.214 has the DLC).
