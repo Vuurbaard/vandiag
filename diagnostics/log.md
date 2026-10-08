@@ -1215,3 +1215,24 @@ Sequential IDs: `T-001`, `T-002`, …
   - The break is further along the bus than this connector: at or beyond C311 (T-042 puts it between the parking-aid splice and the restraints-module splice).
 - Evidence files/photos: none.
 - Next action: wiggle result at this connector; then find C311 by following the far-side bundle.
+
+## T-054 — Wiggle test at the glovebox inline connector: reading moves a few ohms (119 to about 125)
+
+- Date/time: 2026-10-08 (exact time not recorded)
+- Performed by: Sander
+- Goal: See whether the jumps of T-052 follow movement of the connector or looms.
+- Source: PDF page 217, printed "2.2L" (C210 pins 68/67)
+- Vehicle state: as T-052
+- Tool and mode: AstroAI AM33D, Ω 200 range, thin pin probes resting in the cavities
+- Connector state: as T-052; C175B state still not restated
+- Reference/ground point: N/A (across the pair)
+- Probe points: as T-052
+- Expected result: steady near 119 Ω if nothing is loose.
+- Actual result: the reading moves when the connector is wiggled. It did not settle back to 119.3; it now sits around **125 Ω with small jumps between about 122 and 124**. No large jumps and no over-range reported in this round.
+- Interpretation:
+  - A change of a few ohms is what loosely seated back-probe pins do when the loom they rest against is moved; the pins' own contact resistance is in series with the reading. This is the likeliest cause. It is not the signature of an open or failing CAN terminal, which would show jumps of tens of ohms or over range.
+  - The single jump to 0.20 kΩ in T-052 (about 200 Ω on the coarse range) was larger and was not reproduced on the 200 Ω range. Unexplained; probe contact remains the simplest reading.
+  - A poor joint on the healthy side is not excluded by this test, because the probes move with the loom. It could be separated later by measuring at the diagnostic socket, where the probes sit still, while someone wiggles this connector. Low priority: this side of the network works (120 Ω, modules answer).
+  - Conclusion unchanged from T-053: this connector is on the healthy side; the break is at or beyond C311.
+- Evidence files/photos: none.
+- Next action: find C311 along the far-side bundle and photograph it.
