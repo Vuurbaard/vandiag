@@ -1236,3 +1236,23 @@ Sequential IDs: `T-001`, `T-002`, …
   - Conclusion unchanged from T-053: this connector is on the healthy side; the break is at or beyond C311.
 - Evidence files/photos: none.
 - Next action: find C311 along the far-side bundle and photograph it.
+
+## T-055 — Connector state for T-052 to T-054 confirmed: all three PCM connectors unplugged
+
+- Date/time: 2026-10-08
+- Performed by: Sander
+- Goal: Close the open condition of T-052 to T-054.
+- Source: N/A
+- Vehicle state: key out, battery connected
+- Tool and mode: N/A
+- Connector state: **C175B unplugged, and the other two PCM connectors (C175T, C175E) unplugged as well.**
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result: as above, stated by the reporter.
+- Interpretation:
+  - The condition for T-052 to T-054 was met, so their conclusion holds: the inline connector behind the glovebox (probably C210) is on the healthy side of the break, at 119.3 Ω.
+  - The other two PCM connectors being unplugged does not affect the CAN readings; the CAN pair is only on C175B.
+  - All three must be plugged in and locked again before the key is next turned on.
+- Evidence files/photos: none.
+- Next action: find C311 along the far-side bundle and photograph it.
