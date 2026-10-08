@@ -1195,3 +1195,23 @@ Sequential IDs: `T-001`, `T-002`, …
   - The jumps to 0.20 are unexplained. Candidates: a probe losing contact for a moment, a module on the bus waking up and transmitting, or an intermittent joint somewhere between this point and the end resistor. The last one would matter. Needs a repeat on the 200 Ω range with hands off, then while wiggling.
 - Evidence files/photos: none new.
 - Next action: repeat on the 200 Ω range, hands off and then wiggling; confirm C175B was unplugged; then follow the far-side bundle to find C311.
+
+## T-053 — Same CAN pair on the 200 Ω range: 119.3 Ω
+
+- Date/time: 2026-10-08 (exact time not recorded)
+- Performed by: Sander
+- Goal: Repeat T-052 with finer resolution.
+- Source: PDF page 217, printed "2.2L" (C210 pins 68/67)
+- Vehicle state: as T-052
+- Tool and mode: AstroAI AM33D, Ω 200 range, thin pin probes
+- Connector state: as T-052; C175B state still not restated
+- Reference/ground point: N/A (across the pair)
+- Probe points: as T-052
+- Expected result: about 120 Ω.
+- Actual result: **119.3 Ω**. Whether it still jumps, with hands off or while wiggling, was not reported.
+- Interpretation:
+  - One end resistor, measured cleanly. This agrees with the 120 Ω at the diagnostic socket (T-006) and confirms that this connector is on the healthy side of the break. The 0.13 of T-052 was the coarse range rounding this value.
+  - The jumps to 0.20 seen in T-052 remain unexplained until the wiggle result is known.
+  - The break is further along the bus than this connector: at or beyond C311 (T-042 puts it between the parking-aid splice and the restraints-module splice).
+- Evidence files/photos: none.
+- Next action: wiggle result at this connector; then find C311 by following the far-side bundle.
