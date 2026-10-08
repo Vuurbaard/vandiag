@@ -1,0 +1,175 @@
+Hotat
+
+2.0L
+
+===
+
+AUXILIARY
+
+JUNCTION
+
+F18
+
+BOX (AJB)
+
+11-11
+
+10A
+
+13-86
+
+coo
+
+cooood
+
+POWERTRAIN
+
+CONTROL
+
+MODULE (PCM)
+
+24-20
+
+PP ———————
+
+CCB15
+
+BN-GN
+
+CCB15
+
+BN-GN
+
+o139 ;37
+
+>
+
+C01755l
+
+<
+
+BPS
+
+3
+
+"
+
+)
+
+S
+
+2 h00273
+
+POS]
+
+SWT
+
+1) Brake non-applied
+
+Brake i
+
+/.
+
+151-93 15197
+
+$
+
+4
+
+C0278
+
+JR—
+
+RN
+
+Jap—
+
+R
+
+"
+
+2
+
+a
+
+® 5288
+
+@ 5286
+
+=
+
+=
+
+P
+
+=)
+
+>4
+
+=
+
+£
+
+G0307
+
+G0304
+
+—eco-—=
+
+BODY
+
+10-52
+
+10-49
+
+CONTROL
+
+R
+
+R
+
+MODULE (BCM)
+
+left hand drive
+
+11-17
+
+sight hand drive
+
+C0268 - 14
+
+C0139 - 41
+
+C02280A
+
+CCBO08
+
+VI-WH
+
+$260
+
+CCBO08
+
+VI-WH
+
+CCB08
+
+VI-WH
+
+BOO FEED
+
+—
+
+>
+
+—
+
+BPP
+
+1
+
+2
+
+T
+
+[

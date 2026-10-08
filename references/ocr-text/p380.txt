@@ -1,0 +1,145 @@
+TACHOGRAPH
+
+2.2L
+
+Sy
+
+TACHOGRAPH
+
+151-50
+
+IP;‘ISTRUI\AI]\T
+
+CLUSTER (TP
+
+151-15 15119
+
+e
+
+VMC36 GY-BU
+
+C9027
+
+C300
+
+€210 - 7
+
+VMC36 GY-BU
+
+'
+
+PULSE
+
+e
+
+, C9068B
+
+<
+
+<
+
+<
+
+C220 ”
+
+PULSE
+
+50
+
+'
+
+1n
+
+boooooooccoonoooooooood
+
+TACHOGRAPH
+
+VEHICLE
+
+gENSOR SS;
+
+151-33
+
+151-34
+
+C275
+
+VMC38
+
+GY-YE
+
+VMC38
+
+GY-YE
+
+C2477 o
+
+DATA
+
+DATA
+
+<
+
+RMC335
+
+GN
+
+43
+
+RMC35
+
+GN
+
+4
+
+SENSOR -
+
+11
+
+42
+
+SENSOR -
+
+VMC39
+
+BU
+
+VMC39
+
+BU
+
+SPEED
+
+<
+
+<
+
+SPEED
+
+<r
+
+<r
+
+SENSOR +
+
+LMC35
+
+WH-BU
+
+1
+
+LMC35
+
+WH-BU
+
+T
+
+152
+
+SENSOR +
+
+12
+
+45
+
+hoooocoonoacnonod

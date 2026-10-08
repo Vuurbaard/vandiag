@@ -1,0 +1,199 @@
+POWERTRAIN
+
+e ————
+
+CONTROL
+
+2.2L
+
+238
+
+MODULE (PCM)
+
+239
+
+AMBIENT AIR
+
+SENSOR.
+
+TEMPERATURE
+
+151-6
+
+C175T
+
+VE750
+
+C|39
+
+VE750
+
+GN-BU
+
+c132
+
+[ e
+
+AAT
+
+G-N-BU
+
+21
+
+13
+
+]
+
+1 1] 2
+
+RE335
+
+BN-VT
+
+'
+
+Il
+
+RE335
+
+BN-VT
+
+SIGRTN
+
+<
+
+&
+
+18
+
+2
+
+OPS
+
+, C175E
+
+CMC24 GY
+
+g
+
+1 kClO3
+
+ENGINE
+
+OIL PRESSURE
+
+(EOP) SWITCH
+
+—cccco-ooooccoooo
+
+BODY
+
+2
+
+1) Low pressure
+
+2) Normal level
+
+MODULE (BCM)
+
+151-10
+
+X
+
+-
+
+BRAKE FLUID
+
+C2280C
+
+GY-VT
+
+LEVEL SWITCH
+
+™
+
+CMCI-Q
+
+23
+
+Emergency Services
+
+[y iy S,
+
+-
+
+PARK BRAKE
+
+CMC25
+
+WH-VT
+
+'
+
+$293
+
+C3663 - 2
+
+SWITCH
+
+o
+
+54
+
+2 ~C124
+
+w
+
+a
+
++ﬁ‘~0306
+
+.
+
+%BICATYOR SV,’[('SI'CI-I
+
+INDICATOR SWITCH
+
+37
+
+€2237
+
+1) Brake
+
+1) Low fluid level
+
+l\’l
+
+2) Brake refeased
+
+1\’2
+
+2) Normal level
+
+bossooocooaooomce
+
+15131 151-35
+
+1517 1518
+
+1 Not used
+
+i
+
+e
+
+2 ’C306
+
+"
+
+o
+
+C3663
+
+S$270
+
+"
+
+G304
+
+10-16

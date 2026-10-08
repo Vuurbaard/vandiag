@@ -1,0 +1,195 @@
+FUEL FIRED BOOSTER HEATER
+
+2.0L
+
+Hot in Start
+
+Y=y
+
+Sy
+
+AUXILIARY
+
+JUNCTION
+
+F41
+
+BOX (AJB)
+
+5A
+
+11-11
+
+13.74
+
+Booos
+
+e
+
+COI\'I-L'ilOLCSYSTE]I?AE
+
+54-10
+
+-
+
+VENTILATION
+
+AIR CONDITIONING (HVAC)
+
+CONTROL MODULE
+
+9y
+
+151-78
+
+a2nL
+
+e g g
+
+C02357B ,
+
+CE-BO VT-0G
+
+<r
+
+POSITION 4 (HIGH)
+
+8239
+
+4
+
+CH429  GY-BN
+
+E POSITION 3 (MEDIUM HIGH)
+
+CH428
+
+GN-WH.
+
+'
+
+<
+
+<
+
+POSITION 2 (MEDIUM LOW)
+
+'
+
+CH427
+
+BN
+
+CH427
+
+) i——-—
+
+-f POSITION 1 (LOW)
+
+§231
+
+A
+
+A
+
+2 PN C0293
+
+ey
+
+caa
+
+.
+
+=1
+
+e
+
+S —
+
+L~ — o ———om
+
+5
+
+C02357B
+
+BLOWER
+
+o
+
+MOTOR.
+
+34
+
+B2
+
+38
+
+C0210
+
+RESISTOR.
+
+151-78
+
+.
+
+=
+
+GD215
+
+BK-GY
+
+Ssooc
+
+SOOOO0COCCOo00C000000500000000005000C00550000000005000C0055
+
+SooooCoooooCCooo00
+
+AUXILIARY
+
+—
+
+BOX (AJB)
+
+11-11
+
+BOOSTER
+
+HEATER
+
+55/4
+
+RELAY
+
+83
+
+[P
+
+g S s g G | SO g
+
+=
+
+JBAKCDIIO
+
+=
+
+“
+
+<]
+
+b
+
+® 5287
+
+7
+
+glf=
+
+G0203
+
+GO0308
+
+10-54
+
+-
+
+10-40

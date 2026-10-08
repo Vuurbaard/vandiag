@@ -1,0 +1,215 @@
+Hot in Start
+
+FUEL FIRED BOOSTER HEATER
+
+2.2L
+
+——ccodbooooccon
+
+\UXILIARY
+
+JUN(
+
+F23
+
+BOX (AJB)
+
+7.5A
+
+13-16
+
+boooo
+
+coccooood
+
+DISTRIBUTION
+
+CONTROL SYSTEM
+
+13-16
+
+54-1
+
+)
+
+Z
+
+BLOWER MOTOR SWITCH
+
+151-16 151-20
+
+Coooooc—c—ooo-———oocooooo
+
+auxili
+
+climate control
+
+CH430 _VT-OG
+
+C271A
+
+-
+
+[
+
+<r
+
+POSITION 4 (HIGH)
+
+§237
+
+® s271
+
+CH429  GY-BN
+
+__
+
+JE
+
+! POSITION 3 (MEDIUM HIGH)
+
+\
+
+=—(‘-—\ POSITION 2 (MEDIUM LOW)
+
+CH428
+
+GN-WH
+
+CH427
+
+BN
+
+CH427
+
+_-(—- POSITION 1 (LOW)
+
+§231
+
+€293
+
+GND
+
+~N
+
+Neccenaod
+
+Sy
+
+2
+
+R
+
+A~
+
+=1
+
+.
+
+Soccoooooost
+
+cooooococood
+
+=
+
+w
+
+a
+
+L —m o
+
+5
+
+C271A
+
+8
+
+=
+
+2z
+
+e mmmmmmmmmmmmmmmmmm——————
+
+BLOWER
+
+L3
+
+MOTOR.
+
+34
+
+38
+
+€210
+
+RESISTOR.
+
+.
+
+151-15 151-19
+
+=
+
+Zla
+
+GD185
+
+BK-WH
+
+gy g S g
+
+SoCoooooooooooo0D
+
+JUNCTION
+
+BOX (AJB)
+
+—-
+
+FUEL FIRED
+
+11-1
+
+BOOSTER
+
+LT T TP T LT P T S PP PP PP PPYRS
+
+HEATER
+
+51/4
+
+RELAY
+
+g
+
+E——
+
+E—,
+
+ccccooo
+
+e ———
+
+ooboooc
+
+Sccooos
+
+&
+
+33
+
+c210
+
+o
+
+® s274
+
+G203
+
+G308
+
+10-21
+
+-
+
+10-7

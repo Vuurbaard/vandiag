@@ -1,0 +1,119 @@
+R
+
+[
+
+R
+
+DUAL PRETENSIONER
+
+2.2L
+
+A\ | Raming
+
+to diagnose or troubleshoot
+
+1 Supplems
+
+Restramt System circuitry without
+
+! consulting the Workshop Manual
+
+g could cause the
+
+mproger
+
+| restraints to
+
+deploy inadvertently,
+
+| causing injory.
+
+e e D e o2
+
+RESTRAINTS
+
+CONTROL
+
+MODULE (RCM)
+
+151-30 151-34
+
+SoCooooooooCoCoooooooooooooooooooD
+
+DRIVER
+
+SAFETY BELT
+
+PRETENSIONER.
+
+151-30 15134
+
+151-46
+
+lCldlB
+
+C310B
+
+T
+
+(;RI 70
+
+G-'N
+
+<
+
+DRIV_PRETENSIONER_FEED
+
+RR170
+
+BN-BU
+
+16
+
+o=
+
+DRIV_PRETENSIONER_RTN
+
+15
+
+PASSENGER
+
+SAFETY BELT
+
+;C3660A
+
+<
+
+77
+
+03171
+
+VTA(iN
+
+<
+
+PASS_PRETENSIONER_FEED
+
+RR171
+
+GY
+
+13
+
+'
+
+£
+
+1
+
+<
+
+<
+
+PASS_PRETENSIONER_RTN
+
+14
+
+14
+
+et

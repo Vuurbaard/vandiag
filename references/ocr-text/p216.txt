@@ -1,0 +1,153 @@
+BODY
+
+CONTROL
+
+MODULE (BCM)
+
+2.2L
+
+C2280D
+
+R
+
+HSCAN~+
+
+52
+
+cormering lamps
+
+o,
+
+HSCAN -
+
+P
+
+51
+
+FE
+
+=]
+
+a8
+
+=)
+
+MODULE
+
+R
+
+[
+
+———
+
+85-6
+
+e
+
+‘VDBO04
+
+WH-BU
+
+S211
+
+VDB04 WH-BU
+
+$217
+
+VDB04 WH-BU
+
+C2800
+
+14-1 c >
+
+<
+
+HSCAN =+
+
+19
+
+'VDB03
+
+WH
+
+$210
+
+VDBOS
+
+WH
+
+$218
+
+VDBO05
+
+WH
+
+—~6— HSCAN-
+
+L
+
+[—
+
+——— ]
+
+eI T
+
+|
+
+STEERING COLUMN
+
+136-1
+
+e ————
+
+5220
+
+VDB04  WH-BU
+
+cul
+
+HSCAN+
+
+<
+
+§221
+
+VDBO3
+
+WH
+
+—61— HSCAN-
+
+CNE N ———
+
+[ N
+
+JR—
+
+a~
+
+SYNC
+
++ C263
+
+o
+
+-2
+
+==
+
+B0
+
+144
+
+144
+
+COMMU.
+
+MODULE
+
+ICATIONS|
+
+NETW
+
+ORK

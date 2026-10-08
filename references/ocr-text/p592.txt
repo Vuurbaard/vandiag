@@ -1,0 +1,225 @@
+SYNC
+
+Start/Stop Bus,
+
+e
+
+=—cccooo
+
+BODY
+
+2.0L
+
+CONTROL
+
+F32
+
+MODULE (BCM)
+
+11-17
+
+13-103
+
+coodboocccos
+
+C02280A
+
+o
+
+C0264
+
+o
+
+without navigation
+
+gy ey gy
+
+SBP32
+
+VT-RD
+
+SBP32
+
+VT-RD
+
+$207
+
+1
+
+C02398
+
+1 q 02383
+
+SIS T re ety
+
+MO}
+
+I
+
+GLOBAL POSITIONING
+
+COMMUNICATIONS
+
+SYSTEM MODULE (GPSM)
+
+VBATT
+
+NETWORK
+
+VBATT
+
+15179 151-83
+
+BT
+
+o VDB06
+
+GY-0G
+
+C02398,
+
+14-15
+
+<
+
+MS CAN +
+
+GY
+
+'éa'l\'l'\"ERSAL
+
+1417
+
+'
+
+UsB
+
+N
+
+<
+
+BUS (USB)
+
+l VDB07  VT-OG
+
+<
+
+MS CAN -
+
+iG
+
+L&)
+
+151-79 151-83
+
+e
+
+)COZJB!
+
+VDB04
+
+WH-BU
+
+HS1CAN+
+
+>
+
+MOD:X
+
+'
+
+53
+
+COMMUNICATIONS
+
+'VDBO5S
+
+WH
+
+NETW(
+
+HS1CAN-
+
+14-11
+
+GND
+
+6 yC0239B
+
+N
+
+VDB29
+
+GN-BU
+
+HS3CAN+
+
+MOD:X
+
+=
+
+e
+
+=
+
+16
+
+COMMUNICATIONS
+
+]
+
+e
+
+VDB30
+
+WH-GN
+
+NE
+
+=
+
+HS3CAN -
+
+14-10
+
+17
+
+@ 5206
+
+PWR
+
+1 b e C0263
+
+GND
+
+GND
+
+cood
+
+“--q-
+
+=
+
+@ 5222
+
+37
+
+38
+
+€02383
+
+=
+
+GD214 _BK.BU
+
+G0201
+
+$20:
+
+10-39
+
+ks
+
+R
+
+e

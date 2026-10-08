@@ -1,0 +1,245 @@
+BATTERY JUNCTION
+
+=
+
+}
+
+2.0L
+
+BOX (BJB)
+
+O
+
+€01035C
+
+]
+
+R1
+
+RI15
+
+F8
+
+F18
+
+F30
+
+— 5
+
+& 0405
+
+& 0+ 05
+
+F31
+
+|:|5
+
+R2
+
+R16
+
+|
+
+F1
+
+|[ Fu
+
+21
+
+[
+
+&,%'455
+
+o 0405
+
+3
+
+T
+
+& ens
+
+s
+
+F2
+
+F12
+
+2
+
+F34
+
+=
+
+1
+
+F3
+
+F13
+
+F35
+
+B
+
+2
+
+R3
+
+7
+
+F4
+
+IIEERE
+
+| [
+
+R17
+
+(04
+
+=
+
+RI11
+
+3]
+
+F5
+
+[ s
+
+RENE
+
+& 0+0s
+
+&l:[]lﬂjs
+
+s
+
+&:[],4[]5
+
+F6
+
+|[F16 | [
+
+| [8
+
+|
+
+1
+
+1 4
+
+all
+
+F1
+
+[ F7 ] [ms
+
+| [ 20
+
+R12
+
+R14
+
+2
+
+RI3
+
+F27
+
+R18
+
+33
+
+=
+
+33
+
+3
+
+P
+
+& Teps
+
+é] 0«0s
+
+Ds
+
+=
+
+pes
+
+1
+
+1
+
+KL
+
+25"
+
+25
+
+Relay
+
+Relay
+
+Relay
+
+R1
+
+R7
+
+Not used
+
+R13
+
+Reductant heater relay
+
+High speed cooling
+
+Not used
+
+R14
+
+Not used
+
+Not used
+
+Starter relay
+
+RI15
+
+Low speed cooling fan relay
+
+Rear window wiper relay
+
+R10
+
+Air Conditioning (A/C) clutch relay
+
+R16
+
+Not used
+
+R4
+
+Rear air suspension relay
+
+RI11
+
+Not used
+
+R17
+
+Not used
+
+Cooling fan relay
+
+Not used
+
+R12
+
+Not used
+
+R18
+
+Powertrain Control Module (PCM) power relay

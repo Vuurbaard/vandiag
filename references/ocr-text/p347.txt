@@ -1,0 +1,145 @@
+-
+
+BLOWER MOTOR SWITCH
+
+'
+
+151-16 151-20
+
+2.2L
+
+tgoees
+
+C271B
+
+CH202
+
+BU-GN
+
+236
+
+PANEL COLL 1
+
+ACTUATOR
+
+CH201
+
+BN-BU
+
+151-15 151-19
+
+PANEL COMMON
+
+CH203
+
+GN-BN
+
+PANEL COLL 2
+
+CH204
+
+GY-0G
+
+PANEL COLL 3
+
+CH205
+
+BN-WH
+
+PANEL COLL 4
+
+e
+
+10
+
+TEMPERATURE
+
+V|
+
+CH233
+
+VT-BN
+
+TEMP COLL 4
+
+C2092
+
+ACTL‘?ATDR
+
+20
+
+151-15 151-19
+
+CH232
+
+WH-BN
+
+TEMP COMMON
+
+0N
+
+]
+
+CH234
+
+YE-GN
+
+TEMP COLL 3
+
+pit
+
+CH235
+
+BU
+
+TEMP COLL 2
+
+2
+
+CH236
+
+WH
+
+TEMP COIL 1
+
+~—wn
+
+p£]
+
+[E
+
+AIR INLET
+
+CH208
+
+GN-0G
+
+C289
+
+ACTUATOR.
+
+RECIRCULATION OUT 2
+
+151-15 151-19
+
+19
+
+5
+
+CH207
+
+BU-GY
+
+RECIRCULATION OUT 1
+
+s
+
+%<
+
+S
+
+sight hand
+
+P,
+
+drive

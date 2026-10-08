@@ -1,0 +1,171 @@
+tachograph
+
+o e e e e e e e
+
+2.2L
+
+S ————
+
+TACHOGRAPH
+
+VDB06__GY-OG
+
+C9037
+
+$912
+
+VDB06__GY-OG
+
+C9068C
+
+60-7
+
+14-6 L >
+
+<
+
+MS CAN+
+
+N
+
+$913
+
+VDB07 VT-OG
+
+146 G VDB07 VI-OG
+
+MS CAN -
+
+15
+
+Lococococcos
+
+-
+
+R
+
+e e e e e e
+
+14
+
+9027
+
+A
+
+decnns!
+
+47
+
+C300
+
+-
+
+JRpR——
+
+¥
+
+C145
+
+fuel fired booster heater
+
+-
+
+R —
+
+s
+
+C4429
+
+Coooooooon
+
+AUXILIARY HEATER
+
+S408
+
+VDB06 GY-OG
+
+MS CAN+
+
+v 4
+
+gA&DULE (AHCM)
+
+..
+
+'VDBO07
+
+VI-0G
+
+N
+
+MS CAN -
+
+Loconocoo=e
+
+Lo
+
+[ —
+
+[ —
+
+[ —
+
+[ —
+
+A
+
+3
+
+145
+
+-
+
+12
+
+A
+
+13 ~C210
+
+u
+
+a
+
+HE
+
+a
+
+=
+
+=
+
+53
+
+54
+
+€2280D
+
+A
+
+-
+
+[——
+
+[ Ep——
+
+BODY
+
+'
+
+CONTROL
+
+MS CAN+
+
+MS CAN -
+
+i
+
+MODULE (BCM)
+
+115
+
+bocooooocmoscooo

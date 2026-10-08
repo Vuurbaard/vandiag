@@ -1,0 +1,127 @@
+DIRECT CURRENT/ALTERNATING CURRENT (DC/AC) INVERTER
+
+2.0L
+
+Hot at
+
+all times
+
+golm Start
+
+=
+
+=c
+
+AUXILIARY
+
+JUNCTION
+
+oooo
+
+Eee——
+
+BODY
+
+CONTROL
+
+F11
+
+BOX (AJB)
+
+F23
+
+MODULE (BCM)
+
+40A
+
+11-11
+
+10A
+
+11-17
+
+13-64
+
+13-101
+
+Lo
+
+PR |
+
+Lo
+
+[
+
+30 T €02280C
+
+a
+
+e mmeemmemmeeemmeemeeemeem———-
+
+¥
+
+2 . C03664
+
+=2
+
+=
+
+8|l
+
+N~
+
+sesessssssscssscssecssscssesead
+
+3 N(703501
+
+DIRECT CURRENT/
+
+VBATT
+
+VPWR
+
+ALTERNATING CURRENT
+
+15194 15198
+
+GND
+
+¥
+
+2
+
+C03501
+
+=
+
+=]
+
+o
+
+5
+
+b
+
+el
+
+4 L C03664
+
+2
+
+2
+
+]
+
+-
+
+S
+
+a
+
+@
+
+M
+
+G0305
+
+10-50

@@ -1,0 +1,205 @@
+F9,F10, F30, F32
+
+S=oooooc
+
+BATTERY
+
+JUNCTION
+
+2.2L
+
+BOX (BIB)
+
+113
+
+151-1
+
+S==ccooS-o--oCoooooooo=So3
+
+BATTERY
+
+JUNCTION
+
+BistRiBUTION
+
+BOX (BIB)
+
+—coooo
+
+T LOW
+
+113
+
+151-1
+
+SBF08
+
+F30
+
+SBB30 BN-RD
+
+$110
+
+1 COOLING FAN
+
+VIRD CI035A
+
+<
+
+AY
+
+13-3 >
+
+1
+
+60A
+
+3-1
+
+Hot at
+
+LIS,
+
+all times.
+
+EF32
+
+coocog
+
+7 HIGH SPEED
+
+COOLING FAN
+
+60A
+
+RELAY
+
+3-1
+
+Socoo
+
+Yy
+
+'
+
+IGNE%’ON
+
+13-6
+
+Eetb oo
+
+GD241
+
+BK-BU
+
+s117
+
+C139 - 5
+
+$274
+
+GD241
+
+BK-BU
+
+.
+
+G308
+
+Loccad
+
+‘without:
+
+10-21
+
+Econetic
+
+WINDSHIELD
+
+=
+
+&
+
+o
+
+|
+
+MOTOR
+
+1]
+
+81-2
+
+-
+
+BisTRBUTION
+
+e
+
+GD241
+
+BK-BU
+
+1313 @ CDC32  BN-YE
+
+T
+
+Hot in Start
+
+Econetic
+
+or
+
+CRW03 VT-WH
+
+S=o====e
+
+C139
+
+C1655
+
+WINDSHIELD
+
+Si2 @
+
+CRW03 VT-WH
+
+CBB09 VT-GY
+
+CBB0S VI-GY
+
+MOTOR
+
+30A
+
+1-
+
+soooo=co
+
+T
+
+AUXILIARY
+
+CRWO03 VI-WH
+
+F10
+
+CBB10 _YE-OG
+
+CBB10 _ YE-OG
+
+C1656
+
+WINDSHIELD
+
+WIPER
+
+30A
+
+sooooc=o
+
+MOTOR
+
+813
+
+e~

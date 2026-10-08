@@ -1,0 +1,179 @@
+F1,F2,F3
+
+- -- - - ----------------------=2
+
+HIGH CURRENT
+
+BATTERY
+
+2.2L
+
+BOX (BJB)
+
+JUNCTION
+
+11-7
+
+15130
+
+151-34
+
+BisTRiBuTIoN
+
+SDC04
+
+RD
+
+C26704
+
+F1
+
+| C3670C
+
+SBFO01
+
+RD
+
+bisTRBuTION
+
+13-1 >
+
+<
+
+>
+
+1
+
+{c>
+
+3-5
+
+Hot at
+
+1
+
+350A
+
+all times
+
+ C3670D
+
+SBF02
+
+YE-RD
+
+>
+
+{o>
+
+X
+
+100A
+
+1
+
+B3
+
+Not used
+
+40A
+
+BODY
+
+CONTROL
+
+MODULE (BCM)
+
+AUXILIARY
+
+151-30
+
+BATTERY
+
+RELAY
+
+cococmooomo
+
+C2280C
+
+AUX
+
+BistRBuTion
+
+YoV
+
+| C3670T
+
+24 BU-GN
+
+BATT
+
+>
+
+3
+
+13
+
+OFF
+
+SDC02
+
+RD
+
+C36708
+
+131
+
+<
+
+1
+
+CDC27__BN-WH
+
+AUX
+
+Hot at
+
+N
+
+BATT
+
+all times
+
+30
+
+ON
+
+e —
+
+SBP03 _ BU-RD
+
+POWER.
+
+N
+
+SBP03 _ BU-RD
+
+C2101- 20
+
+DISTRIBUTION
+
+<
+
+<z
+
+13-10 1311
+
+s3
+
+N4
+
+Hot at
+
+all times
+
+bistRBUTION
+
+133
+
+ey

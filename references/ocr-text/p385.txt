@@ -1,0 +1,139 @@
+BODY
+
+—cco——o—ccooooooooo
+
+CONTROL
+
+2.0L
+
+MODULE (BCM)
+
+-
+
+BRAKE FLUID
+
+C02280F
+
+CMC19
+
+GY-VT
+
+SWITCH
+
+28
+
+2
+
+Co124
+
+~
+
+LOW BRAKE
+
+FLUID WARNING
+
+INDICATOR SWITCH
+
+1) Low fluid level
+
+2) Normal level
+
+]\’2
+
+15170 15171
+
+¥,
+
+RMC19
+
+YE-GY
+
+B
+
+| Co124
+
+35
+
+right hand drive
+
+e
+
+C02280E
+
+CMC25
+
+WH-VT
+
+5293
+
+CMC25
+
+WH-VT
+
+C03663- 2
+
+PARK BRAKE
+
+>
+
+47
+
+1 |00306
+
+a
+
+A
+
+=
+
+PARKING BRAKE
+
+W NG
+
+INDICATOR. SWITCH
+
+Cco210
+
+1) Brake applied
+
+1\2
+
+2) Brake released
+
+151-94 151-98
+
+Coooooooocoooooooon
+
+Not used
+
+e m oo
+
+. C0306
+
+4 C03663
+
+.
+
+[
+
+-
+
+® 5288
+
+@ 5286
+
+G0307
+
+G0304
+
+10-52
+
+10-49
+
+R
+
+[
+
+;eﬁ ‘hand drive
+
+right hand drive

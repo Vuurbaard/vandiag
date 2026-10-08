@@ -1,0 +1,247 @@
+G304
+
+2.2L
+
+trailer tow
+
+g
+
+e
+
+TRAILER
+
+GD135
+
+BK-GY
+
+C3348C
+
+MODULE
+
+5-1
+
+Locooccod
+
+e e e e e e e e e e e e e e e e e
+
+Sooooooc
+
+C3663 -3
+
+ARKING BRAKE
+
+GD135
+
+BK-GY
+
+GD135
+
+BK-GY
+
+C306
+
+W
+
+N
+
+}NTgR SWITCH
+
+ey
+
+S
+
+FUEL SUPPLY
+
+GD135
+
+BK-GY
+
+Cl45 - 12
+
+GD135
+
+BK-GY
+
+C4432
+
+LINE PRESSURE
+
+>
+
+SENSOR.
+
+e
+
+235
+
+SR
+
+LOW BRAKE
+
+v
+
+-
+
+GD135
+
+BK-GY
+
+C124
+
+FL
+
+8270 @]
+
+INDICATOR. SWITCH
+
+e
+
+4
+
+—------=
+
+BRAKE PEDAL
+
+GD135
+
+BK-GY
+
+[
+
+POSITION (BPP)
+
+SWITCH
+
+e
+
+311
+
+90-6
+
+.
+
+oo ----=
+
+CLUTCH PEDAL
+
+GD135
+
+BK-GY
+
+€260
+
+;6
+
+GD135
+
+BK-GY
+
+$208
+
+GD135
+
+BK-GY
+
+C2354
+
+POSITION (CPP)
+
+TOP OF
+
+Soeoec oS
+
+TRAVEL SWITCH
+
+23-13 312
+
+'
+
+[
+
+early production: auto-start-stop
+
+P ————
+
+e
+
+GD135
+
+BK-GY
+
+10-17
+
+Somooooo
+
+CLUTCH PEDAL
+
+GD135
+
+BK-GY
+
+C257
+
+POSITION (CPP)
+
+GROUNDING
+
+BOTTOM OF
+
+e e os
+
+TRAVEL SWITCH
+
+GD135
+
+BK-GY
+
+2313 312
+
+10-17
+
+e e e e e e e
+
+o
+
+e procuchion-
+
+Iate production: auto-start-stop
+
+-
+
+D e
+
+SeOOooo0
+
+CLUTCH PEDAL
+
+"
+
+GD135
+
+BK-GY
+
+C257
+
+POSITION (CPP)
+
+BOTTOM O}
+
+@
+
+e o
+
+TRAVEL SWITCH
+
+2313 312
+
+e e e e e e e e e e
+
+GROUNDING
+
+.
+
+?53%0 151-32
+
+>
+
+10-15

@@ -1,0 +1,205 @@
+F18,F19, F20, F21, F23, F24, F26
+
+[ ———
+
+GENERATOR
+
+2.2L
+
+C102A
+
+12-3
+
+20-1
+
+SooooCCooooo0G
+
+BATTERY
+
+JUNCTION
+
+booooooc
+
+BOX (BJB)
+
+113
+
+151-1
+
+seoooo0
+
+STARTER
+
+C197A
+
+MOTOR
+
+12-3
+
+20-1
+
+BsTRBuTIoN
+
+Lee
+
+SBFO01
+
+RD
+
+C1035B
+
+<
+
+>
+
+‘C]035C
+
+12 D SBF01  RD
+
+1
+
+1
+
+Hotat
+
+all times
+
+===ccoo
+
+ANTL-.LOCK
+
+F18
+
+SBB18
+
+YE-RD
+
+SBB18
+
+YE-RD
+
+C135
+
+BRAKE SYSTEM
+
+mglo
+
+(ABS) MODULE
+
+40A
+
+42
+
+F23
+
+SBB23 WH-RD
+
+SBB23
+
+WH-RD
+
+N
+
+25A
+
+25
+
+coocooo
+
+F20
+
+======0
+
+GLOW PLUG
+
+SBB20 GN-RD
+
+ciBA |7
+
+[ODULE
+
+[
+
+231
+
+60A
+
+F21
+
+SBB21
+
+GY-RD
+
+BB > DISTRIBUTION
+
+60A
+
+e
+
+e
+
+S0
+
+.
+
+F26
+
+ECONETIC
+
+BOX (BIB)
+
+SBB26 YE-RD
+
+COOLANT
+
+113
+
+1511
+
+VALVE
+
+3A
+
+booosod
+
+RELAY
+
+23-16
+
+coocoa
+
+STARTER
+
+F19
+
+SBB19 BU-RD
+
+RELAY
+
+20-1
+
+30A
+
+Lo
+
+R —
+
+FUEL PUMP
+
+F24
+
+SBB24 VI-RD
+
+RELAY
+
+236
+
+75A
+
+=
+
+[
+
+e peperyaye |
+
+e e

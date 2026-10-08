@@ -1,0 +1,203 @@
+LANE DEPARTURE WARNING
+
+2.0L
+
+STOP AND START
+
+Hot in Start or Run
+
+Sooo
+
+yp———
+
+AUXILIARY
+
+JUNCTION
+
+F44
+
+BOX (AJB)
+
+10A
+
+11-11
+
+13.75
+
+loooo
+
+]I.)O“'e;'l(_)LTAGE -
+
+(%%Fbo CO!\'\."EP?TER
+
+40-3
+
+40-6
+
+T
+
+CDC78 BK
+
+CDC78 VT-BN.
+
+$253
+
+C02513
+
+s C02513
+
+COlBZlv 1
+
+<
+
+<
+
+C01582
+
+R ——
+
+1
+
+PROXIMITY WARNING
+
+VPWR
+
+RADAR UNIT
+
+151-68
+
+C01582
+
+VDB25 BK
+
+HS2CAN+
+
+D 1412
+
+MODU
+
+COMMUNICATIONS
+
+VDB26 BK
+
+NETW(
+
+HS2CAN -
+
+< 1412
+
+AUTO-DIMMING
+
+INTERIOR
+
+MIRROR.
+
+124-10
+
+C0192
+
+€0311
+
+cccoo
+
+VMF04 _BK
+
+VMF04 BN-BU
+
+VMF04 BN-BU
+
+C()zl 3
+
+VMF04 _BN-BU
+
+C09012x
+
+CAN+
+
+'
+
+>
+
+CAN+
+
+9
+
+'
+
+1
+
+31
+
+VMF03
+
+BK.
+
+VMF05 GY-BU
+
+'
+
+VMF05 GY-BU
+
+'
+
+VMF05_GY-BU
+
+'
+
+CAN -
+
+>
+
+>
+
+N
+
+>-
+
+CAN -
+
+138
+
+m‘:
+
+45
+
+2
+
+4
+
+cooooooooot
+
+GND
+
+I
+
+4
+
+C01582
+
+anti-theft alarm system
+
+[
+
+S185
+
+GD124
+
+BK
+
+GD124
+
+BK
+
+GD124 BK-VT
+
+Slil
+
+GD124 BK-VT
+
+G0109
+
+R
+
+10-35

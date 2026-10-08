@@ -1,0 +1,91 @@
+- - - -
+
+MODULE
+
+GLOW PLUG
+
+Hot at all times
+
+2.0L
+
+151-66
+
+o=
+
+e ———
+
+F20
+
+JUNCTION
+
+RDHTRCTRL
+
+BOX (BJB)
+
+e gy
+
+13-67
+
+11-15
+
+P | A |
+
+5 yC01273C
+
+z
+
+=
+
+2
+
+a2
+
+—Scccoo--dbcocoooooocccoooocococoooooocccooo—od Coccooooooococoooooooocco oo
+
+JUNCTION
+
+REDUCTANT
+
+BOX (BIB)
+
+11-15
+
+HEATER
+
+RELAY
+
+e
+
+e e e
+
+e
+
+=
+
+o
+
+&
+
+@ s1is
+
+=1
+
+C01273B
+
+L 5%
+
+[ ———
+
+-
+
+GLOW PLUG
+
+MODULE
+
+RDHTRPWR
+
+151-66
+
+Locooooo
+
+ood

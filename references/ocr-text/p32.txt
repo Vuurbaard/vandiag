@@ -1,0 +1,191 @@
+‘manual transmission
+
+G0104, G0105, GO106
+
+s
+
+2.0L
+
+—------=
+
+REVERSING
+
+GDI121
+
+BK-YE
+
+C0169
+
+L;\AI:EP SWITCH
+
+Homooooad
+
+e e e
+
+8
+
+A
+
+L Co0133
+
+=1
+
+—=——ecoomommemrmmmos——e—emooD
+
+AUXILIARY
+
+JUNCTION
+
+Seoon
+
+BOX (AJB)
+
+11-11
+
+PR | E
+
+GD121
+
+BK-YE
+
+'
+
+1 REDUCTANT
+
+'
+
+RELAY
+
+L ooooe
+
+'
+
+249
+
+1Y cois
+
+o e e o e o e e e e e s 3 e e
+
+automatic transmission
+
+g
+
+TRANSMISSION
+
+a
+
+CONTROL
+
+MODULE (TCM)
+
+X
+
+=cooooo0c
+
+POWERTRAIN
+
+e
+
+CONTROL
+
+)501822
+
+GD121
+
+BK-YE
+
+GD121
+
+BK-YE
+
+CO0175B
+
+24
+
+I\ﬂODL‘LE (PCM)
+
+v al
+
+s118
+
+GD120
+
+BK-GN
+
+GD409  BK
+
+S,
+
+GD120
+
+BK-GN
+
+39
+
+97
+
+GD409  BK
+
+GD120
+
+BK-GN
+
+Locoocoo
+
+s117
+
+S101
+
+98
+
+=
+
+GD120
+
+BK-GN
+
+Scoooooo
+
+o=
+
+GLOWPLUG
+
+GD120
+
+BK-GN
+
+CO]I?BC‘ '
+
+MODULE
+
+242
+
+=
+
+9
+
+Loocoooood
+
+£}
+
+@
+
+.
+
+G0106
+
+151-66
+
+G0104
+
+G0103
+
+e e e
+
+£
+
+151-66
+
+=<
+
+151-66

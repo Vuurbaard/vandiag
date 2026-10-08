@@ -1,0 +1,185 @@
+FRONT PARKING AID
+
+2.0L
+
+ST T e
+
+PARKING
+
+CONTROI
+
+LASSIST
+
+MODULE (PAM)
+
+151-100
+
+| C09071B
+
+\21\4?11
+
+BU.GN
+
+FOL SENSOR IN
+
+YE-OG
+
+SENSOR GND
+
+VMP10
+
+WH-BU
+
+FIL SENSOR IN
+
+e
+
+VMP12
+
+BU.GY
+
+FIR SENSOR IN
+
+T
+
+iy
+
+VI-GY
+
+SENSOR PWR.
+
+>
+
+FOR SENSOR IN
+
+8
+
+PR
+
+58
+
+57
+
+55
+
+59
+
+eecemscccarcccanaaas’
+
+AN
+
+S e mmemmmmmmmmmmm——————
+
+- Y
+
+£
+
+v
+
+I
+
+56’ NC03ll
+
+|
+
+.
+
+AN A
+
+S
+
+|10
+
+.
+
+lececcccccccccccccaaad
+
+4 ~C01 10
+
+S196
+
+ol
+
+$195
+
+1
+
+P
+
+e
+
+2
+
+<
+
+8
+
+g
+
+P
+
+&
+
+&
+
+?
+
+5
+
+=
+
+2
+
+2=
+
+3,
+
+C01429
+
+1A 2
+
+e
+
+o
+
+A 243
+
+ko
+
+J\ C01430
+
+e
+
++ C01431
+
+-‘134:601428
+
+FRONT INNER
+
+FRONT INNER
+
+FRONT OUTER
+
+gRONT %LTER
+
+PARKING AID
+
+PARKING AID
+
+PARKING AID
+
+SENSOR RH
+
+SENSOR RH
+
+SENSORLH
+
+SENSORLH
+
+151-67
+
+151-67
+
+151-67
+
+151-67

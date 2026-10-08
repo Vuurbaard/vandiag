@@ -1,0 +1,195 @@
+Sooooc
+
+CONTROL
+
+2.0L
+
+MODULE (BCM)
+
+11-17
+
+Start/Stop Bus
+
+40-4
+
+FI
+
+SeoooaoD
+
+F32
+
+€02280C
+
+SBP32
+
+VI-RD
+
+€311 -‘39
+
+00900-\7
+
+SBP32
+
+VT-RD
+
+C09026
+
+FREQUENCY @E)
+
+117-33
+
+1182
+
+10A
+
+ccooonos
+
+multi-function
+
+s
+
+[
+
+[
+
+R
+
+R
+
+-
+
+S=oooooc
+
+FRONT CONTROL/
+
+SBP32
+
+VT-RD
+
+C0264- 6
+
+$207
+
+SBP32
+
+VT-RD
+
+DISPLAY INTERFACE
+
+| C022804
+
+C021234,
+
+<
+
+MODULE (FCDIM)
+
+9
+
+1
+
+sococoood
+
+130-18
+
+1457
+
+SeoSTon
+
+SBP32
+
+VT-RD
+
+co2383,
+
+%géyu [APIM]
+
+oomomoeme
+
+SYNC without navigation
+
+L e
+
+e
+
+S=ooos
+
+GLOBAL POSITIONIN(
+
+02398
+
+SYSTEM MODULE (GPSM)
+
+SBP32
+
+VT-RD
+
+130-24
+
+cooooood
+
+o
+
+ST
+
+MESSAGE
+
+SBP32
+
+VT-RD
+
+C0253
+
+SWITCH
+
+[y
+
+-15
+
+e e e e e e e e e e
+
+‘multi-function
+
+display
+
+g e S
+
+Scooooos
+
+F33
+
+C0265- 7
+
+'
+
+AUDIO
+
+O]
+
+SBP33
+
+RD
+
+SBP33
+
+RD
+
+C0240A
+
+20A
+
+22
+
+FE
+
+Booo
+
+=
+
+SIODUIE (ACkD
+
+130-13
+
+130-19
+
+Cooomooccosscooaos

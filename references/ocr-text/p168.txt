@@ -1,0 +1,141 @@
+F46.F47. F48
+
+2.0L
+
+AUXILIARY
+
+g e
+
+JUNCTION
+
+Hot in Start
+
+IBI(?{(l 151-93
+
+1-97
+
+13-75
+
+Jc
+
+F46
+
+CB146  WH-BU
+
+bistRiBUTIoN
+
+13-78
+
+5A
+
+DistRiBUTION
+
+= 13-78
+
+°‘l'lmm Start
+
+N\
+
+Soocooooomomcoooooooooon
+
+AUXILIARY
+
+JUNCTION
+
+[
+
+CB146
+
+WH-BU
+
+QLOWER
+
+11-11
+
+151-93
+
+MOTOR
+
+RELAY
+
+boccood
+
+524
+
+[
+
+HEATED
+
+CB146
+
+WH-BU
+
+WINDSHIELD
+
+ELEMENT
+
+boooood
+
+RELAY
+
+56-8
+
+coococa
+
+CB146
+
+WH-BU
+
+WINDSHIELD
+
+beoccod
+
+56-8
+
+e g g
+
+Scooooon
+
+ANTI-LOCK
+
+F47
+
+CB147
+
+GN-BU
+
+CB147
+
+GN-BU
+
+BRAKE SYSTEM
+
+COlOll)l- 5
+
+<
+
+o135,
+
+(ABS) MODULE
+
+5A
+
+28
+
+424
+
+F48
+
+CB148
+
+GY-YE
+
+C03665 - 6
+
+>
+
+‘Not used
+
+10A
+
+e

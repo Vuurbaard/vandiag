@@ -1,0 +1,277 @@
+G0307
+
+P ———
+
+2.0L
+
+D240
+
+BK
+
+C0605
+
+L
+
+0(();;1' DOOR.
+
+SWITCH RH
+
+LEFT HAND DRIVE
+
+e =
+
+71-12
+
+11715
+
+T------=
+
+GD240
+
+BK
+
+C0609
+
+LATCH
+
+[
+
+117-19
+
+oo ---=
+
+GD240
+
+BK
+
+P‘.-_\HS\SE,\'QER DOOR.
+
+S603 @
+
+C0604
+
+e
+
+EIOZTROL SWITCH
+
+PARKIN(
+
+AKE
+
+WARNING INDICATOR.
+
+SWITCH
+
+=
+
+60-13
+
+P e
+
+power mirrors
+
+T
+
+C0306
+
+GD135
+
+BK-GY
+
+==cococoo
+
+EXTERIOR
+
+>
+
+2
+
+GD240
+
+BK
+
+C0527
+
+MIRROR
+
+e
+
+2
+
+CONTROL
+
+B12 b C0340
+
+Y
+
+SWITCH
+
+4-6
+
+.
+
+e e e e e e e e
+
+BRAKE PEDAL
+
+3 4 C03663
+
+POSITION
+
+oo oo=
+
+DRIVER
+
+(BPP) SWITCH
+
+=
+
+GD240
+
+BK
+
+C0525
+
+DOOR.
+
+2420 317
+
+LATCH
+
+90-17
+
+=
+
+117-17
+
+Soooooo0
+
+€027
+
+GD240
+
+BK-GN
+
+Soooooon
+
+GD240
+
+BK
+
+C0505
+
+{lé(éi\;[ DOOR.
+
+$502
+
+SWITCHLH
+
+.
+
+71-12
+
+117-15
+
+TRAILER
+
+MODULE
+
+=
+
+953
+
+oo ---=
+
+fuel fired
+
+C03548C  GD240
+
+BK-GN
+
+‘booster heater
+
+e
+
+B12
+
+C0339
+
+[
+
+=S=oocoooo
+
+FUEL FIRED
+
+GD240  BK-GN
+
+C02806
+
+BOOSTER HEATER
+
+&
+
+CONTROL MODULE
+
+Sooocooo
+
+54-13
+
+SLIDING DOOR.
+
+AJAR SWITCH
+
+e e e e e e e e e e e
+
+117
+
+SoCoOOoD
+
+C0958
+
+GD235
+
+BK-GY
+
+e e
+
+AUXILIARY
+
+JUNCTION
+
+5288
+
+—oooc
+
+BOX (AJB)
+
+A
+
+2
+
+C0300
+
+1 EXTERNAL
+
+11-11
+
+GD240  BK-GN
+
+LOCKING
+
+RELAY
+
+=
+
+Lecooo
+
+11730
+
+=
+
+M
+
+emmeeememmmeem—————
+
+G0307
+
+151-96

@@ -1,0 +1,213 @@
+GO0110,GO111
+
+2.0L
+
+Tooooooo=
+
+HEADLAMP
+
+ASSEMBLY LH
+
+GD129
+
+BK-YE
+
+co1021
+
+85-10 85-12
+
+<
+
+85-13 90-14
+
+4
+
+'
+
+92-
+
+GD129
+
+BK-YE
+
+'
+
+s125 @
+
+n
+
+‘WINDSHIELD
+
+cooooooe
+
+WIPER
+
+MOTOR
+
+81-12
+
+oo ---=
+
+SooooooE
+
+HORN
+
+'], Co1655
+
+GD129
+
+BK-YE
+
+GD129
+
+BK-YE
+
+146
+
+>
+
+coi3t ||
+
+Losooooe
+
+Lo oco0s
+
+AUXILIARY
+
+‘WINDSHIELD
+
+- ----=
+
+AIR CONDITIONING (A/C)
+
+MOTOR
+
+GD121 BK
+
+CLUTH
+
+81-12
+
+co0 |
+
+AIR CONDITIONING (A/C)
+
+Scoooooo
+
+Lecocooo
+
+COMPRESSOR.
+
+AN C01656
+
+GD129 BK-YE
+
+19
+
+@ S126
+
+Lbooooooc
+
+SeCoeooe
+
+S150
+
+GD121 BK
+
+C01812
+
+COOLANT
+
+‘WATER PUMP
+
+245
+
+Locooooo
+
+e
+
+left hand drive
+
+e ———
+
+POSITIVE CRANKCASE
+
+oo --------=
+
+AUXILIARY
+
+GD121
+
+BK
+
+C01833
+
+JUNCTION
+
+VENTILATION (PCV)
+
+VALVE HEATER ELEMENT
+
+BOX (AJB)
+
+ey
+
+11-11
+
+245
+
+REAII:‘}\'ASPER
+
+81-18
+
+SR oon
+
+s
+
+automatic transmission
+
+GD129  BK-YE
+
+P ————
+
+TRANSMISSION
+
+GD121
+
+BK
+
+C01792
+
+AUXILIARY
+
+Locoos
+
+OIL PUMP
+
+.
+
+204
+
+Loocococoooocood
+
+e e e
+
+e e e e e
+
+2
+
+2
+
+a
+
+G110
+
+Go111
+
+-
+
+151-69
+
+<
+
+151-72

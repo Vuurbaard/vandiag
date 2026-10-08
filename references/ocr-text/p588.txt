@@ -1,0 +1,127 @@
+MULTI-FUNCTION DISPLAY
+
+2.0L
+
+- -----—-—--—-—-—-----—-
+
+AUDIO
+
+FRONT
+
+CONTROL
+
+MODULE (ACM)
+
+151-79 151-83
+
+AUDIO UNIT
+
+NA
+
+AMPLIFIER
+
+151-116
+
+€0219- 1
+
+C0240A
+
+CME13
+
+YE-OG
+
+CME13
+
+YE-OG
+
+co9021
+
+ANTENNA PWR.
+
+™
+
+AMFM
+
+coaxial cable
+
+73
+
+without: SYNC
+
+e e e e e e e e e
+
+AUDIO
+
+SHIELD
+
+INPUT
+
+, C0240A
+
+-
+
+BU
+
+C02362
+
+STINPUT 2L+
+
+\'ME-H
+
+<
+
+STINPUT 2L+
+
+?51-79 Tl5|»83
+
+17
+
+4
+
+'
+
+'
+
+RME45
+
+YE-GN
+
+STINPUT 2L-
+
+4
+
+STINPUT 2L-
+
+'
+
+6
+
+T
+
+N
+
+VME46  BU-GN
+
+STINPUT 2R+
+
+'
+
+18
+
+ST INPUT 2R+
+
+'
+
+N
+
+STEREO SHIELD
+
+>
+
+16
+
+DMEA4S O
+
+e e e e e e e
+
+SoCCOoo000n0o0000o00d

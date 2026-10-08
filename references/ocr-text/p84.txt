@@ -1,0 +1,265 @@
+BODY CONTROL MODULE (BCM)
+
+2.0L
+
+Fuse
+
+Amps
+
+Circuits protected
+
+Fuse
+
+Amps
+
+Circuits protected
+
+F1
+
+10
+
+Third row interior lamp
+
+F20
+
+Tachograph
+
+Fourth row interior lamp
+
+Front interior lamp
+
+F21
+
+Electric booster heater
+
+Vanity miros lamp REE
+
+mirror lamp LE
+
+2
+
+Not used
+
+F2
+
+Fold mirror module relay
+
+Driver door window control switch
+
+F23
+
+10
+
+Audio front Control Module (ACM)
+
+Exterior mirror control switch
+
+Direct Current/Alternating Current (DC/AC) inverter
+
+F3
+
+20
+
+Auxiliary Junction Box (AJB) - F25, F26
+
+F24
+
+30
+
+Auxiliary Junction Box (AJB) - F61, F62, F63, F64
+
+F4
+
+Not used
+
+F25
+
+30
+
+Not used
+
+F5
+
+20
+
+Not used
+
+F26
+
+30
+
+Not used
+
+F6
+
+10
+
+Not used
+
+F27
+
+30
+
+Not used
+
+F7
+
+10
+
+Not used
+
+F28
+
+20
+
+Not used
+
+F8
+
+10
+
+Anti-theft alarm hom LH
+
+Anti-theft alarm hom RH
+
+F29
+
+30
+
+Not used
+
+F30
+
+30
+
+Not used
+
+Fo
+
+10
+
+Not used
+
+F10
+
+Not used
+
+F31
+
+15
+
+Not used
+
+F11
+
+Intrusion sensor
+
+Auxiliary blower motor switch
+
+F32
+
+10
+
+Radio Frequency (RF) receive
+
+Front Comxol’D:
+
+lay Interface Module (FCDIM)
+
+SYNC module [
+
+b
+
+F12
+
+75
+
+Heating, Ventilation and Air Conditioning (HVAC) control module
+
+Global Positioning S\ stem Module (GPSM)
+
+fessage center switch
+
+F13
+
+75
+
+Instrument Panel Cluster (IPC)
+
+Steering Column Control Module (SCCM)
+
+F33
+
+20
+
+Audio front Control Module (ACM)
+
+Gate\\aw Module A (GWM)
+
+F34
+
+30
+
+Body Control Module (BCM) - F19, F20, F21, F23, F35, F36
+
+Fl4
+
+10
+
+Not used
+
+F35
+
+Restraints Control Module (RCM)
+
+F15
+
+10
+
+Gateway Module A (GWM)
+
+F36
+
+15
+
+Steering Column Control Module (SCCM)
+
+Auto-
+
+interior mirror
+
+F16
+
+15
+
+Sliding door contact plate
+
+Parking Assist control Module (PAM)
+
+Sliding door contact plate RH.
+
+F37
+
+15
+
+Not used
+
+F17
+
+Anti-theft alarm homn with integral battery
+
+F38
+
+30
+
+Driver door window control switch
+
+F18
+
+Ignition switch
+
+Passenger door window control switch
+
+F19
+
+Message center switch

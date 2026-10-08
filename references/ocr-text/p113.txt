@@ -1,0 +1,201 @@
+oo C--------=Z
+
+AUXILIARY
+
+JUNCTION
+
+F35,F36, F37
+
+BOX (AJB)
+
+2.2L
+
+11-1
+
+15130
+
+151-34
+
+C283C
+
+SBF04  GN-RD
+
+BiSTRBUTION
+
+>
+
+133
+
+1
+
+Hot at all times
+
+R
+
+oS0
+
+DRIVER DOOR
+
+E35
+
+$508
+
+i
+
+SB135
+
+BU-RD
+
+C3391- A6
+
+SB135
+
+BK
+
+SB135
+
+BK.
+
+C5354 |0
+
+S5A
+
+<
+
+fOOOI-QITROL SWITCH
+
+JE
+
+RS e
+
+power mirrors
+
+e
+
+Sooooon
+
+EXTERIOR
+
+SB135
+
+BK.
+
+C527
+
+MIRROR.
+
+CONTROL
+
+SWITCH
+
+Boo
+
+1241 1243
+
+S
+
+e
+
+SCooo00Oo00o0ooo000005000
+
+AUXILIARY
+
+JUNCTION
+
+F36
+
+=== 1 HORN
+
+SB136
+
+GN-RD
+
+]
+
+| RELAY
+
+11-1
+
+151-30
+
+14
+
+20A
+
+focco
+
+coooe
+
+Sooobooonoooccad
+
+SYNC
+
+e
+
+e e e
+
+€210 - 70
+
+C263 -6
+
+Sooo
+
+SYN
+
+F37
+
+SB137
+
+GY-]
+
+<
+
+<
+
+SB137
+
+GY-RD
+
+$200
+
+SB137
+
+GY-RD
+
+€383 |!
+
+\OI-)'U'LE [APIM]
+
+<
+
+<
+
+<
+
+130-7
+
+75A
+
+coconood
+
+e
+
+‘GLOBAL POSITIONING
+
+SB137
+
+GY-RD
+
+C2398
+
+SYSTEM MODULE (GPSM)
+
+130-7
+
+Soccocoos
+
+13-23
+
+e e e e e e e e e e
+
+cooooooocoonon

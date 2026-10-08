@@ -1,0 +1,137 @@
+[
+
+R
+
+FE
+
+2.2L
+
+& Do not att
+
+empt to diagnose or troubleshoot
+
+} Suppl
+
+Restraint System circuitry without
+
+! consulting the Workshop Manual.
+
+ental
+
+| troubleshooting could cause the s
+
+1 restraints to deploy inadvertently,
+
+| causing injury.
+
+e D e
+
+RESTRAINTS
+
+CONTROL
+
+MODULE (RCM)
+
+151-30 151-34
+
+—ccccooo————c—co-—o--——ccooooococ—coo
+
+DRIVER
+
+SAFETY BELT
+
+PRETENSIONER
+
+151-26
+
+;5323
+
+BU.OG
+
+C310B
+
+7
+
+CR120
+
+<
+
+DRIV_PRETENSIONER_FEED
+
+RR120
+
+BN-GN
+
+52
+
+DRIV_PRETENSIONER_RTN
+
+51
+
+SAFETY BELT
+
+BUCKLE
+
+SWITCH
+
+151-46
+
+C341D
+
+CR201
+
+GN-BU
+
+DRIV_BUCKLE_SW
+
+54
+
+RR155
+
+GY
+
+53
+
+<
+
+PASSENGER
+
+SAFETY BELT
+
+PRETENSIONER
+
+15127
+
+LC303
+
+CR122
+
+WH-0G
+
+7
+
+<
+
+PASS_PRETENSIONER_FEED
+
+RR122
+
+BN
+
+49
+
+'
+
+£
+
+]
+
+<
+
+PASS_PRETENSIONER_RTN
+
+14
+
+50
+
+S

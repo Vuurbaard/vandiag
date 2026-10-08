@@ -1,0 +1,201 @@
+BODY
+
+Py
+
+Socoooo
+
+-1
+
+CONTROL
+
+MODULE (BCM)
+
+2.2L
+
+11-5
+
+151-14
+
+151-18 151-30
+
+151-34
+
+VDB04
+
+WH-BU
+
+HSCAN+
+
+Ka
+
+L C2280D
+
+MOJ
+
+52
+
+<]
+
+COMMUNICATIONS
+
+'VDBO05
+
+WH
+
+HSCAN-
+
+51
+
+'VDB07
+
+VT-0G
+
+MS CAN -
+
+54
+
+'VDB06
+
+GY-0G
+
+1
+
+MSCAN+
+
+53
+
+VPL56
+
+BU-GY
+
+REMOTE
+
+LINORFR
+
+L C2280C
+
+KEYLESS ENTRY
+
+17-12
+
+VRW26
+
+BN-YE
+
+WIPERS
+
+LIN 8 RSM
+
+AND WASHERS
+
+V2
+
+813
+
+1 alarm
+
+e
+
+[E——
+
+(R
+
+[
+
+SRT16
+
+GY-RD
+
+LIN2BBS
+
+47
+
+REMOTE
+
+KEYLESS ENTRY
+
+117-14
+
+VRT26
+
+VT
+
+LIN2IMS
+
+49
+
+e
+
+L C2280D
+
+'VDNO5
+
+YE-GY
+
+'VEHICLE EMERGENCY MESSAGING SYSTEM
+
+LIN1SWM
+
+136-1
+
+35
+
+VLF25
+
+GN-VT
+
+LIN1LSM
+
+HEADLAMPS/ AUTOLAMPS
+
+736
+
+85-1
+
+HORN RELAY
+
+, €2280C
+
+VT-GN
+
+CTRL
+
+8
+
+HORN
+
+L C2280D
+
+CRHO02
+
+BU-WH
+
+I;EFN'CIGAR LIGHTER
+
+SWITCH
+
+>
+
+17
+
+RLN29
+
+WH-0G
+
+INTERIOR.
+
+DEMAND LIGHT
+
+| C2280C
+
+>
+
+REAR SWITCH
+
+n
+
+89-2
+
+89-9
+
+Loooococcocoooooococooaooomod

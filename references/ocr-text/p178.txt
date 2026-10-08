@@ -1,0 +1,143 @@
+e e =
+
+AUXILIARY
+
+JUNCTION
+
+F19, F20, F21, F22
+
+2.0L
+
+11-11
+
+151-93
+
+151-9°
+
+Hot at all times
+
+13-86
+
+S=SooocccooSSoooooooooooE
+
+AUXILIARY
+
+JUNCTION
+
+R
+
+1 EXTERN:
+
+F19
+
+SB119
+
+BU-RD
+
+! LOCKING
+
+133(1 151-93
+
+151-97
+
+15A
+
+117-30
+
+Soooo0
+
+Looooooooononocoasoonons
+
+Sccoooon
+
+FUEL
+
+F20
+
+SB120
+
+GN-RD
+
+BOOSTER HEATER.
+
+C02806
+
+CONTROL MODULE
+
+SA
+
+2
+
+<
+
+54-13
+
+=
+
+Sooooooo0
+
+F21
+
+SB121
+
+GY-RD
+
+8121
+
+SB121
+
+GY-RD
+
+é%ANSl\éC}_SSION
+
+041139
+
+C01822
+
+15A
+
+XZVIODU'LE (TCM)
+
+-
+
+I
+
+SB121
+
+GY-RD
+
+31
+
+e
+
+p
+
+- --=
+
+22
+
+SB122
+
+BN-RD
+
+SB122
+
+BN-RD
+
+)'I;RANSMIS;ION
+
+'y
+
+00134; 18
+
+co1792 , |7
+
+OIL PUMP
+
+25A
+
+boooocoo
+
+294
+
+Lococccoononnoooed

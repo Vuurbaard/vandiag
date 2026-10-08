@@ -1,0 +1,123 @@
+e
+
+BODY
+
+Hot at
+
+CONTROL
+
+all times
+
+2.0L
+
+MODULE (BCM)
+
+=
+
+T
+
+AUXILIARY
+
+11-17
+
+JUNCTION
+
+F19
+
+BOX (ATB)
+
+eyl |
+
+UNLOCK CARGO/LIFTGATE
+
+15A
+
+11-11
+
+13-87
+
+31 Y €02280C
+
+Loood Beoooooad
+
+=
+
+=
+
+Sooooooo
+
+SoCoCoCOooOOOOOCDOOOC O oo oSO OO DO oD OO OO
+
+e e e e e
+
+AUXILIARY
+
+JUNCTION
+
+BOX (AJB)
+
+11-11
+
+AL
+
+LOCKING
+
+Y
+
+—
+
+&
+
+| =4
+
+[
+
+[
+
+.-
+
+—
+
+@ 5287
+
+11731
+
+117-32
+
+117-31 117-32
+
+o
+
+&
+
+S
+
+~————
+
+REMOTE KEYLESS
+
+ENTRY AND ALARM
+
+2
+
+G0307
+
+10-52
+
+-
+
+10-49
+
+-
+
+R
+
+left hand drive
+
+G0308
+
+right hand drive
+
+-
+
+10-54

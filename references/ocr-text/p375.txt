@@ -1,0 +1,185 @@
+e
+
+BODY.
+
+CONTROL
+
+2.2L
+
+MODULE (BCM)
+
+115
+
+C2280D
+
+‘VDB04
+
+WH-BU
+
+HSCAN+
+
+52
+
+O]
+
+NE
+
+COMMUNICATIONS
+
+'VDBO3
+
+WH
+
+14
+
+HSCAN-
+
+v 51
+
+'VDBO07
+
+VI-0G
+
+O]
+
+MS CAN -
+
+54
+
+COMMUNICATIONS
+
+'VDB06
+
+GY-0G
+
+bl
+
+MS CAN +
+
+53
+
+ELECTRONIC
+
+CE!
+
+515
+
+YE-GY
+
+VMC11
+
+YE-VT
+
+C145
+
+VMC11
+
+YE-VT
+
+SENSO‘il
+
+ C2280C
+
+(e
+
+' 29
+
+i
+
+“:G CONTROLS
+
+2 A
+
+PR
+
+| C463
+
+iy,
+
+RMC32
+
+RMC32 _GN-BU
+
+By
+
+LEVEL GND
+
+13
+
+FUEL PUMP AND
+
+SENDER UNIT
+
+151-39
+
+C463
+
+O
+
+oo
+
+CMC20
+
+VT
+
+10
+
+1Y cie
+
+heated windshield
+
+L e oo
+
+c138
+
+o
+
+LOW WASHER
+
+FLUID WARNIN¢
+
+ol =
+
+INDICATOR
+
+1) Low flid level
+
+2) Normal level
+
+151-6
+
+R
+
+S410
+
+! fuel fired
+
+~0¢CUE
+
+-
+
+‘booster heater
+
+a
+
+=
+
+GD125
+
+BK
+
+S13.
+
+G109
+
+Y S
+
+10-3
+
+G400
+
+oo
+
+.
+
+= 1025

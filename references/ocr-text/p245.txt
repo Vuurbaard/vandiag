@@ -1,0 +1,277 @@
+Scccooooooooog
+
+POWERTRAIN
+
+CONTROL
+
+ENGINE COOLANT
+
+2.2L
+
+151-10
+
+(ECT) SENSOR
+
+1519
+
+C175E
+
+ECT
+
+VET716
+
+YE
+
+c1061  [[T—]| , Clo61
+
+[ | Sl | K
+
+oz
+
+:18
+
+'
+
+RE141
+
+BN-GN
+
+SIGRTN
+
+“n
+
+INTAKE AIR
+
+(IAT)
+
+SENSOR.
+
+151-10
+
+, C175T
+
+VE755
+
+YE-VT
+
+01‘34
+
+VE755
+
+YE-VT
+
+ooz 1], Cl140
+
+IAT
+
+C|l40€
+
+wh
+
+1
+
+10
+
+1
+
+CL=—1]"2
+
+RE332
+
+YE-BU
+
+RE332
+
+YE-BU
+
+SIGRTN
+
+3
+
+AMBIENT AIR
+
+SENSOR.
+
+151-6
+
+AAT
+
+VE750
+
+GN-BU
+
+Cl’39
+
+VE750
+
+GN-BU
+
+cn [z
+
+C132
+
+21
+
+13
+
+[ | B el | K45
+
+RE335
+
+BN.VT
+
+RE335
+
+BN-VT
+
+SIGRTN
+
+718
+
+27
+
+<
+
+[
+
+[ —
+
+EXHAUST GAS
+
+emission requirements:
+
+oo
+
+stage V
+
+SENSOR 1
+
+51-13
+
+VE722
+
+BN
+
+VE722
+
+BN
+
+EGT1
+
+Cl‘34
+
+leB
+
+ca601 [T | , C3601
+
+22
+
+27
+
+[ | el | K
+
+o
+
+$190
+
+s
+
+VI-0G
+
+RE146
+
+VT-0G
+
+SIGRTN
+
+33
+
+13
+
+15
+
+EXHAUST GAS
+
+SENSOR 3
+
+151-13
+
+VE771
+
+BN-VT
+
+VE771
+
+BN-VT
+
+EGT3
+
+, C175B
+
+<&
+
+<
+
+>
+
+.
+
+c3603  [[—=]|, C3603
+
+1 e 2
+
+RE146
+
+VT-OG
+
+EXHAUST GAS
+
+SENSOR 2
+
+151-13
+
+| C17sT
+
+VET726
+
+YE-GY
+
+P
+
+N
+
+VE726
+
+YE-GY
+
+c3602 [ =], C3602
+
+EGT2
+
+o
+
+47
+
+26
+
+[ | Bl | g
+
+GY-VT
+
+RE145
+
+GY-VT
+
+SIGRTN
+
+EMS
+
+34
+
+12
+
+14
+
+L |
+
+ccoa

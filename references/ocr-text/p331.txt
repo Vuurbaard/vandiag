@@ -1,0 +1,167 @@
+e e e
+
+1+ Waming
+
+1 Do not
+
+to diagnose or troubleshoot
+
+2.0L
+
+' Suppl
+
+itry without
+
+I‘lestﬂmt System circuif
+
+proper
+
+; uoubleshoomgwu!dcausethe
+
+loy inadvertently,
+
+luus\ngmjurv
+
+e e e e e e
+
+M)
+
+151-93  151-95
+
+e
+
+DRIV
+
+SAFETY BELT
+
+PRETENSIONER.
+
+151-89 151-90
+
+right hand drive
+
+i
+
+C0323, C03338
+
+'
+
+CR120
+
+BU.OG
+
+o C0310B
+
+>
+
+DRIV_PRETENSIONER_FEED
+
+'
+
+52
+
+=
+
+|
+
+RR120
+
+BN-GN
+
+|
+
+&
+
+DRIV_PRETENSIONER_RTN
+
+'
+
+0
+
+51
+
+R
+
+SAFETY BELT
+
+BUCKLE
+
+SWITCH
+
+151-112
+
+C0341D
+
+CR201
+
+GN-BU
+
+<.
+
+<
+
+DRIV_BUCKLE_SW
+
+54
+
+RR155
+
+GY
+
+53
+
+PASSENGER
+
+TY
+
+151-89  151-90
+
+right hand drive
+
+iy
+
+'
+
+C0303 ' C03066
+
+'
+
+CR122
+
+WH-0G
+
+7
+
+T
+
+PASS_PRETENSIONER_FEED
+
+2
+
+'
+
+49
+
+=
+
+N
+
+RR122
+
+BN
+
+PASS_PRETENSIONER_RTN
+
+7
+
+1
+
+"
+
+50
+
+'
+
+R
+
+g g g S SO

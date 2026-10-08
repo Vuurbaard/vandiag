@@ -1,0 +1,189 @@
+SB138
+
+BN-RD
+
+SB136
+
+GN-RD
+
+2.2L
+
+Hot at
+
+$283
+
+Hot at
+
+all times.
+
+all times
+
+ooo
+
+Soococoooooooood SoooommoCoonoo0o0
+
+EEEEEEEEEEE
+
+EEEEEEEEEE R
+
+Soooooo
+
+SoooCCooooo0
+
+AUXILIARY
+
+JUNCTION
+
+F38
+
+HORN
+
+F36
+
+BOX (AJB)
+
+5A
+
+RELAY
+
+20A
+
+11
+
+1323
+
+1322
+
+e e e e
+
+e
+
+RN
+
+@ 5264
+
+e
+
+R
+
+j Emergency Services
+
+=
+
+S
+
+=
+
+-
+
+30
+
+€2237
+
+2
+
+43 p kCIZSOC
+
+BODY
+
+8
+
+=
+
+Not used
+
+sy ——
+
+e
+
+CONTROL
+
+e
+
+HORNRELAY
+
+ﬁ%DULE (BCM)
+
+HORN SWITCH
+
+boooooo-oooaaod
+
+HORN
+
+17 b VCZZSOD
+
+151-6
+
+o
+
+-
+
+-
+
+-
+
+4 hCZIRA
+
+ca
+
+==
+
+eSS
+
+===
+
+T
+
+(l:}]-ZZ 15|-2-3
+
+2
+
+&
+
+El
+
+oo
+
+|
+
+¥
+
+10
+
+C218B
+
+2
+
+@ 5226
+
+1 ~C217A
+
+@ 5125
+
+52010
+
+HORN
+
+3
+
+WITCH
+
+2
+
+1) Normally open
+
+2/’1
+
+2) Hom activated
+
+151-23
+
+1 ’CZITB
+
+G206
+
+G110
+
+= 109
+
+= 104

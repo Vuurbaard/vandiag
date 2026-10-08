@@ -1,0 +1,173 @@
+2.2L
+
+FUEL FIRED BOOSTER HEATER
+
+Hot at
+
+all times
+
+YT
+
+Ey=yey=ys e
+
+N
+
+Hot at
+
+F5
+
+BOX (AJB)
+
+all times
+
+20A
+
+11-1
+
+13225
+
+—
+
+——
+
+AUXILIARY
+
+Loooo
+
+cooooocoood
+
+JUNCTION
+
+BOX (AJB)
+
+13-23
+
+11-1
+
+P
+
+Booe
+
+crooood
+
+14 T C145
+
+@ 52005
+
+1 Vum
+
+kCIBOG
+
+AUXILIARY HEATER
+
+FUEL
+
+VBATT
+
+CONTROL
+
+BOOSTER HEATER
+
+MODULE (AHCM)
+
+VBATT
+
+CONTROL MODULE
+
+151-39
+
+151-33
+
+C4429
+
+'VDB06
+
+GY-0G
+
+MS CAN
+
+<
+
+<
+
+MODH
+
+4
+
+'
+
+COMMUNICATIONS
+
+'
+
+NETW(
+
+<
+
+'
+
+VDBO7
+
+VT-0G
+
+147
+
+MS CAN -
+
+<
+
+o}
+
+5
+
+'
+
+'
+
+'
+
+&
+
+'
+
+VHF04 __BN.BU
+
+CNSI
+
+VHF04 __BN.VT
+
+C2806
+
+<
+
+SIG
+
+<
+
+<
+
+SIG
+
+GND
+
+24
+
+6 I C2806
+
+2 h(14429
+
+= =
+
+8=
+
+@ S410
+
+P
+
+G400
+
+G306
+
+= 1025
+
+= 10-19

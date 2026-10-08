@@ -1,0 +1,111 @@
+SUPPLEMENTARY FUSE BOX
+
+2.2L
+
+Fuse
+
+Amps
+
+Circuit protected
+
+F1
+
+10
+
+Not used
+
+F2
+
+Not used
+
+F3
+
+15
+
+Not used
+
+F4
+
+15
+
+Not used
+
+F5
+
+10
+
+Not used
+
+F6
+
+75
+
+Not used
+
+=
+
+10
+
+Not used
+
+-
+
+F8
+
+7
+
+Not used
+
+F9
+
+Not used
+
+F10
+
+Not used
+
+F11
+
+10
+
+Not used
+
+F12
+
+Not used
+
+F13
+
+20
+
+Roof mounted indicators LHS
+
+Roof mounted indicators RHS
+
+Fl4
+
+20
+
+Not used
+
+F15
+
+20
+
+Not used
+
+F16
+
+20
+
+Not used
+
+F17
+
+20
+
+Not used
+
+F18
+
+Not used

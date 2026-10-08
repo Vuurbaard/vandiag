@@ -1,0 +1,163 @@
+S-S -----------=
+
+F47,F48. F49
+
+JUNCTION
+
+AUXILIARY
+
+LATE PRODUCTION
+
+2.2L
+
+11-1
+
+151-30
+
+QgXILIARY POWER
+
+RELAY
+
+43
+
+BisTRBuTiox
+
+CB125
+
+WH-0G
+
+GD137
+
+BK-WH
+
+1339
+
+il
+
+1
+
+2
+
+_'L G303
+
+Hot at all times
+
+-
+
+10-14
+
+with battery saver
+
+relay engaged
+
+BistRBUTION
+
+SB144  GN-RD
+
+1324 >
+
+Hotat
+
+all times
+
+-
+
+O
+
+F47
+
+€210 - 35
+
+C2031
+
+=
+
+AUXILIARY
+
+CB147
+
+GN-BU
+
+<
+
+CB147
+
+GN-BU
+
+POWER
+
+<
+
+POINT
+
+20A
+
+e
+
+e
+
+rear passenger power outlet socket
+
+e
+
+o000
+
+F48
+
+CB148
+
+GY-YE
+
+c31 - 31
+
+CB148
+
+GY-YE
+
+C979
+
+<t
+
+OUTLET
+
+gob\}%ASSENGER
+
+20A
+
+bemoooos
+
+SOCKET
+
+e e e e e
+
+F49
+
+e ————
+
+CB149
+
+VI-GY
+
+C210‘» 27
+
+CB149
+
+VT-GY
+
+2033 ,
+
+I(;R.ON]];;‘O“’ER
+
+<
+
+€
+
+SOCKET
+
+20A
+
+booooooo
+
+444
+
+Locoooocococcoooooooc

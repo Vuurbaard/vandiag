@@ -1,0 +1,229 @@
+BATTERY JUNCTION BOX (BJB)
+
+2.2L
+
+Fuse
+
+Fuse
+
+Amps
+
+Circuits protected
+
+Amps
+
+Circuits protected
+
+F1
+
+Not used
+
+F21
+
+60
+
+Ignition relay
+
+oy
+
+2
+
+Not used
+
+F22
+
+Not used
+
+T
+
+Antilock Brake System
+
+F3
+
+Not used
+
+F23
+
+2
+
+(ABS) modull
+
+F4
+
+Not used
+
+F24
+
+75
+
+Fuel pump relay
+
+F5
+
+Powertrain Control Module (PCM)
+
+F25
+
+Not used
+
+F6
+
+Xat-Tock Brake System
+
+F26
+
+Econetic coolant valve relay
+
+(ABS) module
+
+F7
+
+75
+
+F27
+
+Not used
+
+Powertrain Control Module (PCM)
+
+Glow plug module
+
+F28
+
+Not used
+
+F8
+
+Not used
+
+F29
+
+F9
+
+30
+
+Audio front Control Module (ACM)
+
+Windshield wiper motor
+
+Auxiliary windshield
+
+F30
+
+60
+
+Low speed cooling fan relay
+
+F10
+
+30
+
+Wiper motor
+
+High speed cooling fan relay
+
+F11
+
+10
+
+Air Conditioning (A/C) clutch relay
+
+F31
+
+Not used
+
+F12
+
+20
+
+Glow plug relay
+
+F32
+
+60
+
+Windshield wiper motor relay
+
+F13
+
+Not used
+
+F33
+
+Not used
+
+Fl4
+
+Not used
+
+F34
+
+‘Not used
+
+F15
+
+Not used
+
+F35
+
+15
+
+Powertrain Control Module (PCM)
+
+F16
+
+Not used
+
+F36
+
+75
+
+Mass Air Flow (MAF) sensor
+
+F17
+
+Not used
+
+F37
+
+Fuel metering valve
+
+Anti-lock Brake System
+
+F18
+
+40
+
+(ABS) module
+
+F38
+
+75
+
+Air Conditioning (A/C) clutch relay
+
+F19
+
+30
+
+Starter relay
+
+F39
+
+15
+
+Low speed cooling fan relay
+
+F20
+
+High speed cooling fan relay
+
+Glow plug module
+
+Glow plug relay
+
+Fuel vaporizer system fuel pump
+
+Heated Oxygen Sensor (HO2S)
+
+Econetic coolant valve relay

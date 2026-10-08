@@ -1,0 +1,233 @@
+BATTERY JUNCTION BOX (BJB)
+
+2.0L
+
+Fuse
+
+Amps
+
+Circuits protected
+
+Fuse
+
+Amps
+
+Circuits protected
+
+F1
+
+Audio front Control Module (ACM)
+
+F21
+
+40
+
+Glow plug module
+
+F2
+
+Not used
+
+22
+
+40
+
+Glow plug module
+
+F3
+
+Not used
+
+F23
+
+10
+
+Air Conditioning (A/C) clutch relay
+
+F4
+
+Not used
+
+F24
+
+Not used
+
+F5
+
+Not used
+
+F25
+
+Not used
+
+F6
+
+15
+
+Not used
+
+F26
+
+Not used
+
+F1
+
+15
+
+Not used
+
+F27
+
+Not used
+
+F28
+
+Positive Crankcase Ventilation (PCV)
+
+F8
+
+20
+
+Cooling fan relay
+
+valve heater element
+
+F9
+
+Not used
+
+F29
+
+15
+
+Coolant water pump
+
+F10
+
+Not used
+
+F30
+
+Porwertrain Control Module (PCM) power relay
+
+F11
+
+Not used
+
+F31
+
+20
+
+Not used
+
+F12
+
+Not used
+
+F32
+
+20
+
+Auxiliary Heater Control
+
+F13
+
+Not used
+
+Module (AHCM)
+
+F33
+
+Not used
+
+F14
+
+Not used
+
+F34
+
+Not used
+
+F15
+
+Not used
+
+F35
+
+20
+
+Powertrain Control Module (PCM)
+
+F16
+
+Not used
+
+F36
+
+20
+
+Battery Junction BoX (BIB) - F28, F29
+
+F17
+
+Not used
+
+F37
+
+15
+
+Reductant tank
+
+F18
+
+40
+
+Cooling fan relay
+
+Universal Heated Oxygen Sensor (HO2S) #11
+
+Exhaust Gas Recirculation (EGR) cooler bypass valve solenoid
+
+F19
+
+40
+
+Low speed cooling fan relay
+
+(Twin fans)
+
+F38
+
+10
+
+High speed cooling fan relay
+
+Cooling fan relay
+
+60
+
+Low speed cooling fan relay
+
+Air Conditioning (A/C) clutch relay
+
+(Single fan)
+
+High speed cooling
+
+Low speed cooling fan relay
+
+fan relay
+
+F39
+
+10
+
+Glow plug module
+
+F20
+
+40
+
+Reductant heater relay
+
+NOx sensor module

@@ -1,0 +1,163 @@
+EARLY PRODUCTION
+
+Hot in Start
+
+2.0L
+
+= [y
+
+AUXILIARY
+
+JUNCTION
+
+BOX (AJB)
+
+F48
+
+'
+
+11-11
+
+10A
+
+'
+
+HEATING,
+
+13-77
+
+'
+
+ANTI-LOCK
+
+Loodbeoosdd
+
+.,r.\!lqlgND\'G (HVAC)
+
+'OL MOD!
+
+i,\%s) M%YIE)SDT_E
+
+S
+
+=cooo-o-cooo
+
+Sccccooooooooog
+
+Vso
+
+START/STOP
+
+[ ———
+
+R ——
+
+SWITCH
+
+boooooe
+
+S ——
+
+¥
+
+C0135
+
+29 T C02357A
+
+BODY
+
+CONTROL
+
+MODULE (BCM)
+
+.
+
+11-1
+
+o --------<
+
+CLUSTER
+
+PANEL ILLUMINATION
+
+71-12
+
+ENGINE RUN
+
+P
+
+4 Y coo
+
+34 T (C02280F
+
+=
+
+-
+
+=
+
+=
+
+=
+
+I}
+
+| ~4
+
+|~
+
+g
+
+g
+
+=
+
+R ———
+
+¥
+
+...........F........... ....................................................4,........
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+C03665
+
+VSO
+
+ILLUM
+
+START/STOP
+
+IS
+
+ENGINE RUN
+
+VPWR
+
+GND
+
+SWITCH
+
+o
+
+-
+
+P
+
+G0305
+
+-
+
+10-50

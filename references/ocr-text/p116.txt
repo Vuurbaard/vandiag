@@ -1,0 +1,173 @@
+oo C--------=Z
+
+AUXILIARY
+
+JUNCTION
+
+F5,F6,F8,Fl10
+
+2.2L
+
+BOX (AJB;]
+
+11-1
+
+15130
+
+15134
+
+C283A
+
+SBFOS
+
+GY-RD
+
+BiSTRBUTION
+
+>-
+
+133
+
+1
+
+Hot at all times
+
+g
+
+fuel fired booster heater
+
+o=
+
+AUXILIARY HEATER
+
+F5
+
+SB105
+
+GY-RD
+
+C145 - 14
+
+SB103
+
+GY-RD
+
+C4429
+
+CON
+
+MODULE (AHCM)
+
+20A
+
+e
+
+e e e e e e
+
+tachograph
+
+T e e e e e e e
+
+e
+
+Se=co
+
+TACHOGRAPH
+
+F6
+
+SB106  BN-RD
+
+C300
+
+41
+
+€9027 -9
+
+SB106
+
+BN-RD
+
+C9068A
+
+5A
+
+Cooeoe
+
+S g
+
+FE
+
+Direct Current/Alternating Current (DC/AC) inverter
+
+e e
+
+e
+
+DIRECT CURRENT/
+
+F8
+
+SB108
+
+VT-RD
+
+C3664 -1
+
+SB108
+
+VT-RD
+
+C3501
+
+ALTERNATING CURRENT
+
+(DC/AC) INVERTER
+
+40A
+
+=
+
+—coo
+
+44
+
+S
+
+e
+
+power seats
+
+o e e e e e e e e e
+
+e e e e e
+
+FRONT SEAT
+
+F10
+
+SB110
+
+YE-RD
+
+C341E -
+
+8
+
+RD
+
+C369
+
+CONTROL
+
+WITCH
+
+30A
+
+scoococoo
+
+120-1 1202
+
+e e e e e e
+
+coooaononconnn

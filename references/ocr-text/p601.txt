@@ -1,0 +1,143 @@
+Fe—————m-m—-————mm---—-----=
+
+PARKING ASSIST
+
+CONTROL
+
+REAR PARKING AID
+
+2.2L
+
+MODULE (PAM)
+
+15137
+
+VMP15
+
+YE-GN
+
+ROL SENSOR IN
+
+;0907 1C
+
+RMPO7
+
+GN-WH
+
+SENSOR GND
+
+RIL SENSOR IN
+
+=
+
+VMP14
+
+WH-OG
+
+VMP16 YE-GY
+
+RIR SENSOR IN
+
+- BEe e
+
+BU.WH
+
+SENSOR PWR.
+
+LMPO7
+
+H g
+
+M
+
+ROR SENSOR IN
+
+iy
+
+o
+
+emmmmmmmmmmmmmme———-
+
+-
+
+i
+
+edseemeccccccscccccannn
+
+3
+
+5} c431
+
+¥
+
+e scccoooooooc oo oo o
+
+S406
+
+~
+
+-
+
+S407
+
+=
+
+=
+
+o
+
+A AN
+
+ory
+
+SRR
+
+5
+
+1A 2
+
+N
+
+c4011
+
+A4
+
+C4009
+
+=
+
+=
+
+24 34 cuon2
+
+L 24 3 A caon0
+
+REAR OUTER.
+
+REAR OUTER
+
+PARKING AID
+
+PARKING AID
+
+SENSOR RH
+
+SENSORLH
+
+15141
+
+15141
+
+REAR INNER
+
+PARKING AID
+
+PARKING AID
+
+SENSOR RH
+
+SENSOR LH/CENTER
+
+15141
+
+15141

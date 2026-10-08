@@ -1,0 +1,187 @@
+- ----------<
+
+AUXILIARY
+
+F1.F59, F60
+
+JUNCTION
+
+2.0L
+
+BOX (AJB)
+
+11-11
+
+15193
+
+15197
+
+Hot at all times
+
+ST
+
+13-84
+
+FACHoN
+
+-
+
+STARTER
+
+?1-15 151-65
+
+RELAY
+
+20-4
+
+MOTOR
+
+4
+
+F59
+
+SB159
+
+BU.RD COBD‘» 12
+
+C01019- 1
+
+v
+
+>
+
+CDC26
+
+GY-0G
+
+C0134l— 14
+
+CDC26  GY-OG
+
+C0197B
+
+30A
+
+<
+
+>
+
+1
+
+<
+
+Scooooog
+
+POWERTRAIN
+
+1
+
+2
+
+CDC12
+
+$127
+
+C0175B
+
+'
+
+CONTROL
+
+MODULE (PCM)
+
+36 1
+
+20-4
+
+2423
+
+$130
+
+CDC25
+
+BN-GN
+
+<
+
+53
+
+cooosood
+
+e
+
+without:
+
+multi-function
+
+display
+
+e
+
+oo --------=-
+
+BATTERY
+
+AUDIO
+
+JUNCTION
+
+FRONT
+
+CONTROL
+
+B &
+
+lBl-i‘S 151-65
+
+MODULE (ACM)
+
+o
+
+z=
+
+20-5
+
+130-13
+
+>
+
+e ——
+
+F1
+
+CMEO5 GN-BU
+
+'
+
+CMEOS _GNBU C0139 - 44
+
+<
+
+C0268 N 20
+
+C0240A‘
+
+SA
+
+bocooooocoooo
+
+e — ool
+
+Sooooooon
+
+F60
+
+SB160  GN-RD
+
+C03548B
+
+MODULE
+
+95-3
+
+15A
+
+Locoooo
+
+COOOoOOOCCa o

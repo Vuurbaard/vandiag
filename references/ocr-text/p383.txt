@@ -1,0 +1,161 @@
+- -------
+
+INSTRUMENT
+
+PANEL
+
+2.0L
+
+151-78 151-82
+
+FUEL PUMP
+
+CONTROL
+
+MODULE
+
+24-12
+
+CE515
+
+YE-GY
+
+C0433
+
+PWR
+
+0220
+
+VMC11
+
+YE-VT
+
+0210
+
+C0145
+
+C04000
+
+VMC11
+
+YE-VT
+
+s
+
+FUEL
+
+K
+
+N
+
+3
+
+SENDER 1
+
+"1
+
+N
+
+1
+
+Tl
+
+24
+
+a~
+
+C0463
+
+accaa
+
+FUEL PUMP AND
+
+SENDER UNIT
+
+151-103
+
+beccae
+
+¥
+
+g
+
+3
+
+4
+
+C0463
+
+R¥C32 (LNABU
+
+RMC32 _GN-BU
+
+§l~£:NDER. 1
+
+10
+
+>
+
+13
+
+>
+
+RES515
+
+WH-BN
+
+RIN
+
+NG ooonoo00
+
+heated windshield
+
+e
+
+SWITCH
+
+CMC20 VT
+
+€0210- 9
+
+CMC20 VT
+
+LOW WASHER
+
+FLUID LEVEL
+
+A
+
+LOW WASHER.
+
+FLUID WARNING
+
+INDICATOR
+
+N
+
+1) Low fluid level
+
+1
+
+2
+
+2) Normal level
+
+151-69
+
+NVD(JUE
+
+S131
+
+GD124
+
+BK-VT
+
+GO0109
+
+10-35
+
+e
+
+e e e e

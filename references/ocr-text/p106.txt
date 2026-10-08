@@ -1,0 +1,245 @@
+oo C--------=Z
+
+AUXILIARY
+
+JUNCTION
+
+F19,F20, F21
+
+2.2L
+
+BOX (AJB;]
+
+11-1
+
+15130
+
+15134
+
+W
+
+CDC21
+
+GY-BN
+
+DISTRIBUTION
+
+13-14
+
+<]
+
+Hot in Start or Run.
+
+[
+
+R
+
+[
+
+[
+
+[
+
+[
+
+C9027 -1
+
+Soooooo
+
+TACHOGRAPH
+
+F19
+
+CB119
+
+BN-WH
+
+C300 -)ZZ
+
+CB119
+
+BN-WH
+
+CB119
+
+BN-WH
+
+C9068A _ |«
+
+SA
+
+coooo
+
+g
+
+g
+
+‘heated windshield
+
+‘heated mirror
+
+Jeated mncs
+
+s
+
+F20
+
+CB120
+
+YE-VT
+
+5288
+
+CB120
+
+YE-VT
+
+POWER
+
+SA
+
+— B> DISTRIBUTION
+
+-
+
+e e e
+
+- --------------—-—-—-----=2
+
+AUXILIARY
+
+JUNCTION
+
+e
+
+_ JeEeen
+
+‘heated windshield
+
+oo
+
+BOX (AJB)
+
+R
+
+11-1
+
+151-30
+
+HEATED
+
+151-34
+
+CB120
+
+YE-VT
+
+'WINDSHIELD
+
+Y
+
+-
+
+R
+
+cocoe
+
+RELAY
+
+56-2
+
+R
+
+HEATED
+
+CB120
+
+YE-VT
+
+'WINDSHIELD
+
+— 1
+
+S —
+
+LH
+
+=
+
+RELAY
+
+e
+
+YA
+
+56-2
+
+R
+
+Sooooooooc
+
+Socosooo
+
+et
+
+Direct Current/Altemating Current (DC/AC) inverter
+
+Sooocoog
+
+DIRECT CURR !
+
+CB120
+
+YE-VT
+
+C3501 '
+
+ALTERNATING CURRENT
+
+| | C3664
+
+(DC/AC) INVERTER.
+
+e e e
+
+e e e
+
+Camper Conversions
+
+P O O e m oo
+
+CB121
+
+BU-GY
+
+C213
+
+Not used
+
+[ —
+
+RN
+
+Emergency Services
+
+s
+
+F21
+
+CB121
+
+BU-GY
+
+DISTRIBUTION
+
+{3>
+
+10A
+
+R
+
+[ ——
+
+[ —
+
+Lococosoocccaoad

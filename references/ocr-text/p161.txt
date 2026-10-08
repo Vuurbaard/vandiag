@@ -1,0 +1,197 @@
+F38,F39
+
+2.0L
+
+RS EE
+
+TNCHO
+
+1819¥5 151-65
+
+CE612
+
+GY-VT
+
+DIS'I"R.IEUTION
+
+13-68
+
+Hot in Start or Run.
+
+S—————-—cco-o-cme———o-———coccoooo
+
+BATTERY
+
+JUNCTION
+
+Soooo0
+
+Ss110
+
+HIGH SPEED
+
+?1?{(5 151-65
+
+F38
+
+CBB38
+
+GY-BU
+
+CBB38
+
+GY-BU
+
+10A
+
+-k
+
+332
+
+333
+
+———
+
+twin fans
+
+S EOOOCoOOOaCOooEoo00000000
+
+B
+
+COOLING
+
+CBB38
+
+GY-BU
+
+FAN
+
+RELAY
+
+333
+
+[—
+
+.
+
+S
+
+P
+
+CBB38
+
+GY-BU
+
+CONDITIONING
+
+(A/C) CLUTCH
+
+=L
+
+54-19
+
+—=
+
+LOW SPEED
+
+CBB38
+
+GY-BU
+
+[
+
+332
+
+333
+
+e
+
+=coosooog
+
+AIR CONDITIONING (A/C)
+
+C0134- 16
+
+<
+
+CBB38 GY-BU
+
+$153
+
+CBB38
+
+GY-BU
+
+Co1110,
+
+COMPRE!
+
+<
+
+<
+
+CONTROL SOLENOID
+
+1
+
+Locooccod
+
+5
+
+Soo—ooooos
+
+ELECTRIC HEATED
+
+CBB38
+
+GY-BU
+
+C01162
+
+THERMOSTAT
+
+242
+
+Lo
+
+—-------=
+
+F39
+
+CBB3% VI-WH
+
+S109
+
+CBB3% VI-WH
+
+C01273C '
+
+g{lb%w PLUG
+
+242
+
+10A
+
+8
+
+P
+
+B
+
+NOx
+
+CBB39 VI-wH  CO14- 15
+
+CBB39 VI-WH
+
+C04373A
+
+MODULE
+
+e ——————————a
+
+1
+
+Looonoood
+
+243

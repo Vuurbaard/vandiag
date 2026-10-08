@@ -1,0 +1,163 @@
+G201 ,G202
+
+2.2L
+
+SYNC
+
+S e e e e e e e e e e e e e e e
+
+GLOBAL POSITIONING
+
+GD116
+
+BK-VT
+
+C2398
+
+SYSTEM
+
+T M MODULE (GPSM)
+
+30-7
+
+cooooood
+
+S
+
+e e e e e
+
+Sooooooo
+
+C263
+
+GD116
+
+BK-VT
+
+53
+
+SWITCH
+
+Sooooood
+
+46-6
+
+R
+
+' multi-function
+
+60-6
+
+! display
+
+‘multi-fanction
+
+e e
+
+display
+
+'
+
+GD116
+
+BK-VT
+
+C2123
+
+MODULE (FCDIM)
+
+130-3
+
+11
+
+GD116
+
+BK-VT
+
+S
+
+-
+
+Cooooooe
+
+e
+
+SO EOEOns
+
+GD116
+
+BK-VT
+
+C220
+
+5222 @,
+
+10
+
+EI__'iISTER (@PC)
+
+without
+
+multi-fonction
+
+display
+
+e e e e e
+
+AUDIO
+
+GD116
+
+BK-VT
+
+C240A
+
+FRONT
+
+<
+
+'
+
+15
+
+Be
+
+MO'DU_%L(ACLD
+
+130.
+
+e
+
+DATA LINK
+
+CONNECTOR
+
+GD116
+
+BK-VT
+
+C251
+
+(DLO)
+
+14-1
+
+GD167
+
+BK-BU
+
+<
+
+Cooooooo
+
+—
+
+!
+
+=
+
+(135210—114 151-18
+
+-
+
+e 151

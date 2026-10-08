@@ -1,0 +1,165 @@
+LEFT HAND DRIVE
+
+2.0L
+
+A e e e e e e e e e e e
+
+09027
+
+Coooooo—cc
+
+TACHOGRAPH
+
+VDB06 GY-OG
+
+VDB06 GY-OG
+
+-1
+
+1415 | AL >
+
+>
+
+<
+
+MS CAN +
+
+VDB07 VT-OG
+
+L
+
+“_15<: VDB07 _VT-O0G
+
+MS CAN -
+
+14
+
+Lococoonoooo
+
+o
+
+47
+
+C0300
+
+A
+
+teeees
+
+JRP
+
+49
+
+0311
+
+Py ————————
+
+RADIO
+
+00913
+
+VDB06 GY-OG
+
+C090261
+
+FREQUENCY (RF)
+
+H $932
+
+MS CAN+
+
+4
+
+117-33
+
+1182
+
+$933
+
+'y
+
+VDB07 _VI-OG
+
+4
+
+MS CAN -
+
+Leoomocooon
+
+co311
+
+A
+
+b eemns
+
+trailer tow
+
+[
+
+—
+
+g
+
+$300
+
+VDB06 _GY-OG
+
+Sap
+
+cossa | |
+
+MS CAN+
+
+230
+
+HO
+
+$301
+
+'
+
+VDB07 VT-0G
+
+2N
+
+L
+
+MS CAN -
+
+“10
+
+24
+
+Leoooomooos
+
+=
+
+-
+
+a
+
+=4
+
+CONTROL MODULE
+
+AR CONDHQIENNG (HVAC)
+
+54-14
+
+C03548C
+
+R ———
+
+i —
+
+MS CAN+
+
+MS CAN -
+
+SJ%%DULE
+
+[ ———
+
+ST ooo--==
+
+g

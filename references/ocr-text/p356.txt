@@ -1,0 +1,165 @@
+.
+
+HEA’
+
+VENTILATION
+
+2.0L
+
+AIR. CONDITIONING (HVAC)
+
+CONTROL MODULE
+
+151-78  151-82
+
+FOOTWELL
+
+VENT
+
+CH202
+
+BU-GN
+
+DOO!
+
+PANEL COIL 1
+
+L C02357A
+
+C0236,
+
+ACTUATOR
+
+17
+
+151-78 151-82
+
+'
+
+CH201
+
+BN-BU
+
+$223
+
+PANEL COMMON
+
+1y
+
+7"
+
+14
+
+R
+
+CH203
+
+GN-BN
+
+PANEL COIL 2
+
+[N
+
+CH204
+
+GY-0G
+
+PANEL COLL 3
+
+18
+
+t
+
+|
+
+CH205
+
+BN-WH
+
+PANEL COIL 4
+
+ICN
+
+e
+
+8
+
+CH233
+
+VT-BN
+
+02092
+
+Elg\gPERATURE
+
+TEMP COLL 4
+
+ACTUATOR
+
+19
+
+6
+
+15178 151-82
+
+]
+
+CH234
+
+YE-GN
+
+TEMP COLL 3
+
+e
+
+CH235
+
+BU
+
+TEMP COIL 2
+
+20
+
+CH236
+
+WH
+
+TEMP COIL 1
+
+———on
+
+AIR INLET
+
+CH208
+
+GN-0G
+
+———
+
+0289,
+
+ACTUATOR
+
+RECIRCULATION OUT 2
+
+5
+
+15178 151-82
+
+CH207
+
+BU-GY
+
+RECIRCULATION OUT 1
+
+1.
+
+5 €
+
+S
+
+e e e
+
+right hand
+
+drive

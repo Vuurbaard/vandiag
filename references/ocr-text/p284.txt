@@ -1,0 +1,151 @@
+WITHOUT:
+
+ADAPTIVE CRUISE CONTROL
+
+2.2L
+
+TER. AND
+
+gI.US
+
+ILLUMINATION
+
+713 D—&
+
+1
+
+4
+
+L C2366
+
+LHLOWER
+
+1) On/Off
+
+2) Reset/Cancel
+
+340
+
+732
+
+Yy
+
+3) Set +
+
+g; M onos
+
+151-23
+
+e
+
+215
+
+B
+
+prEisy
+
+|/2
+
+E 147
+
+362
+
+e
+
+R
+
+FEEEEEETEEsEE s s e s s e s e
+
+¥
+
+R4
+
+£
+
+52
+
+C2366
+
+2
+
+@ 52010
+
+15
+
+16
+
+10
+
+C218B
+
+A4
+
+P
+
+==
+
+Scoo
+
+55
+
+ey ———
+
+=cc
+
+5o
+
+%1-22 151-23(3
+
+(o]
+
+Sod[Bocccoood Bococon
+
+P Y VSRR
+
+Eod
+
+Y
+
+¥
+
+3
+
+C218A
+
+STEERING COLUMN
+
+e ———
+
+Y p———
+
+CONTR(
+
+CRUISE
+
+CRUISE
+
+CRUISE
+
+MODULE (SCCM)
+
+SIG1
+
+GND
+
+SIG2
+
+151-22
+
+@ 5226
+
+S
+
+P
+
+—=d
+
+-
+
+G206
+
+10-9

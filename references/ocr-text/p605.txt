@@ -1,0 +1,187 @@
+Hot in Start
+
+PARKING AID CAMERA
+
+2.2L
+
+———c
+
+Ey———
+
+JUNCTION
+
+F29
+
+'
+
+BE;{ (AIB)
+
+10A
+
+1320
+
+Looo
+
+cocoo
+
+D
+
+without: lane departure wamning
+
+LT
+
+CB129
+
+WH-VT D
+
+BisTRBUTION
+
+13-20
+
+s
+
+2
+
+-
+
+R
+
+@ S22
+
+-
+
+| lane departure waming
+
+28 *V €300
+
+2
+
+C9058
+
+IMAGE
+
+PROCESSING
+
+VPWR
+
+MODULE B (IPMB)
+
+15136
+
+MS CAN+
+
+\C9058
+
+VDB06__ GY-
+
+'COMMUNICATIONS
+
+MS CAN -
+
+N
+
+14-6
+
+na
+
+VDB07 _ VI-OG D
+
+PARKING AID
+
+rear doors
+
+ardoors
+
+rear doors
+
+sardoors_ _ _ __
+
+(l:SI-AJ 151-45
+
++ WH
+
+LT
+
+WH
+
+LT,
+
+C406
+
+T
+
+VMP24 WH
+
+CQ!xS
+
+VMP24 BK
+
+1 €422
+
+VMP24 BK
+
+| C495
+
+C-W:
+
+VMP24 WH
+
+c4357 ]
+
+LIN
+
+M=
+
+N
+
+i
+
+N
+
+SMP22
+
+YE-VT
+
+SMP22
+
+BE.
+
+SMP22
+
+BE
+
+.
+
+SMP22
+
+YE-VT
+
+POWER
+
+—
+
+—
+
+POWER
+
+' YEVT
+
+GND
+
+| YEVT
+
+[EDEE
+
+R
+
+Locosonooonoc
+
+v
+
+C9058
+
+.
+
+G300
+
+10-11

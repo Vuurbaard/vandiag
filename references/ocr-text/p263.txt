@@ -1,0 +1,219 @@
+SCooooooooo0ooS
+
+POWERTRAIN
+
+CONTROL
+
+2.0L
+
+150 517
+
+REDUCTANT
+
+INJECTOR.
+
+151-74
+
+ C0175B
+
+VE351
+
+VT-0G
+
+C01134
+
+VE351
+
+VT-0G
+
+co1618
+
+=
+
+C01618
+
+<
+
+<
+
+E' 72
+
+23
+
+1
+
+2
+
+VE350  GY
+
+VE350
+
+GY
+
+SIGRTN
+
+'S
+
+L
+
+7
+
+24
+
+EXHAUST GAS
+
+SENSOR 1
+
+15174
+
+N CO0175E
+
+VE722
+
+BN
+
+CO1711
+
+EGT1
+
+<
+
+41
+
+1
+
+@. (:01711
+
+RE722
+
+BU-OG
+
+SIGRTN
+
+N
+
+early production
+
+P S ——
+
+g
+
+EXHAUST GAS
+
+‘manual transmission
+
+e ————
+
+SENSOR 3
+
+manual transmission
+
+e
+
+15174
+
+‘manual transmission
+
+Py
+
+€0133
+
+N
+
+VE771
+
+BN-VT
+
+VET71
+
+BN-VT
+
+! C01931
+
+co1713
+
+| Co1713
+
+T Co1031 |
+
+EGT3
+
+<
+
+>
+
+42
+
+RN
+
+1
+
+)
+
+2
+
+12
+
+P
+
+‘manual transmission
+
+‘manual
+
+P ——
+
+GY-0G !
+
+[k
+
+pa
+
+RE771
+
+GY»WH_
+
+RE771
+
+GY-WH
+
+SIGRTN
+
+17
+
+16
+
+bocoooccooos
+
+e e e e e
+
+e e e e e e
+
+EXHAUST GAS
+
+SENSOR 2
+
+151-74
+
+VE723
+
+GN-VT
+
+co1756 , [ 7| | co1756
+
+EGT2
+
+o
+
+56
+
+[ | Bl | G
+
+RE723
+
+WH-BU
+
+|
+
+SIGRTN
+
+Looooooocosaoad

@@ -1,0 +1,277 @@
+-
+
+e e e
+
+SIDE AIRBAGS
+
+W
+
+2.2L
+
+A
+
++ Do not af
+
+to diagnose or troubleshoot
+
+! Supplems
+
+Restraint
+
+! consulting the We
+
+Sysfem ity without
+
+| troubleshooting could
+
+Chuse the supplementl
+
+| restraints to deploy inadvertently,
+
+| causing injury.
+
+[,
+
+[
+
+[
+
+-
+
+—c-coccoooooooocooooooD
+
+E%?\TR.OL
+
+MODULE (RCM)
+
+151-30 151-34
+
+C.
+
+310B
+
+CR103
+
+GN-BU
+
+CBJllA
+
+DRIVER
+
+DRVR_SIDE_AIR_FEED
+
+<
+
+SIDE
+
+GY-YE
+
+DRVR_SIDE_AIR_RTN
+
+) B
+
+39
+
+CR106
+
+VI.GY
+
+5361605
+
+PASSENGER
+
+PASS_SIDE_AIR_FEED
+
+<
+
+SIDE AIRBAG
+
+')37
+
+151-32 15133
+
+RR106
+
+YE-OG
+
+I
+
+15148
+
+PASS_SIDE_AIR_RTN
+
+38
+
+right hand drive
+
+sght hand dive
+
+Ea——
+
+A
+
+C310A
+
+C300
+
+'
+
+c3n
+
+CR109
+
+BN-BU
+
+'
+
+'
+
+CR109
+
+BN-BU
+
+|
+
+CR111
+
+BN-WH
+
+|
+
+o C9018
+
+DRIVER SIDE
+
+DRVR SIDE_CANOPY_FEED
+
+4
+
+T
+
+0
+
+T
+
+<
+
+AIR CURTAIN
+
+2
+
+'
+
+10
+
+'
+
+10
+
+'
+
+|
+
+RR111
+
+YE-VT
+
+|
+
+'
+
+1,
+
+151-24 15125
+
+l RR109
+
+BU-GN
+
+N
+
+RR109
+
+BU-GN
+
+]
+
+) B
+
+DRVR SIDE_CANOPY_RTN
+
+21
+
+1
+
+1
+
+[
+
+8]
+
+2
+
+I
+
+right hand drive
+
+right hand drive
+
+[
+
+[
+
+-
+
+c311
+
+C300
+
+CRI111
+
+CRI111
+
+CR109
+
+BN-BU
+
+o Co019
+
+PASSENGER SIDE
+
+PASS SIDE_CANOPY_FEED
+
+23
+
+RR111
+
+VT
+
+10
+
+10
+
+RR111
+
+RR109
+
+BU-GN
+
+1
+
+15124 15125
+
+PASS SIDE_CABOPY_RTN
+
+) B8
+
+24
+
+1
+
+11
+
+[
+
+e O VP
+
+Lo

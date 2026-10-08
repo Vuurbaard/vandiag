@@ -1,0 +1,153 @@
+F28,F29
+
+2.0L
+
+Sooooooooo
+
+Y
+
+BAT
+
+BOX IOEN
+
+11-15 151-65
+
+DISTRIBUTION
+
+8105
+
+Sooooooe
+
+POSITIVE CRANKCASE
+
+CBB36
+
+BU-BN
+
+F28
+
+CBB28 GY-VT
+
+Ci134
+
+CBB28 GN-RD
+
+Co1833
+
+'VENTILATION (PCV)
+
+1368 | KA >
+
+VALVE HEATER ELEMENT
+
+12
+
+2
+
+B ocoooon
+
+245
+
+Hot in Start or Run
+
+s
+
+F29
+
+CBB2S WH-VT
+
+m
+
+CBB2S GY-RD
+
+C01812
+
+WATER PUMP
+
+245
+
+15A
+
+19
+
+Hoooooo0
+
+R
+
+DISTRIBUTION
+
+=ecooo===
+
+CBB37
+
+WH
+
+$106
+
+C0144- 18
+
+CBB37
+
+WH
+
+C04470
+
+%EDUCIANT
+
+13-68
+
+—~
+
+247
+
+18
+
+Lo
+
+Hot in Start or Run
+
+Co134- 17
+
+§151
+
+oo
+
+CBB37
+
+WH
+
+CBB37
+
+WH
+
+CBB37
+
+WH
+
+Cl)lfBl
+
+—~
+
+[
+
+Sooooooo
+
+EXHAUST
+
+CBB37
+
+WH
+
+co1793 |
+
+RECIRCULATION (EGR)
+
+COOLER
+
+S
+
+S —
+
+'VALVE SOLENOID
+
+24

@@ -1,0 +1,123 @@
+WITHOUT:
+
+2.0L
+
+FUEL FIRED BOOSTER HEATER
+
+MANUAL CLIMATE
+
+CONTROL SYSTEM
+
+54-10
+
+y
+
+=
+
+@
+
+S
+
+=
+
+|~
+
+Sooooooocoooo00ooco0o0o00
+
+VENTI AtI0N AND
+
+8239
+
+CH430 VI-OG
+
+00235731
+
+AIR CONDITIONING (HVAC)
+
+<
+
+'POSITION 4 (HIGH)
+
+CONTROL MODUL
+
+151-78 151-82
+
+CH429 _ GY-BN
+
+2
+
+'POSITION 3 (MEDIUM HIGH)
+
+8
+
+8
+
+e
+
+CH428
+
+GN-WH
+
+POSITION 2 (MEDIUM LOW)
+
+CH427
+
+BN
+
+POSITION 1 (LOW)
+
+2
+
+—
+
+GND
+
+A
+
+N e
+
+A
+
+R IR
+
+Py
+
+A €0293
+
+............. o ——-—=---=
+
+L — -
+
+C02357B
+
+BLOWER
+
+=
+
+MOTOR.
+
+RESISTOR
+
+151-78 151-82
+
+38
+
+o210
+
+=
+
+33
+
+0210
+
+e
+
+=
+
+G0203
+
+<
+
+=
+
+10-40

@@ -1,0 +1,259 @@
+BATTERY JUNCTION
+
+—
+
+M
+
+N
+
+2.2L
+
+BOX (BJB)
+
+p——
+
+O
+
+C1035C C1035B
+
+o[l
+
+R1
+
+R15
+
+F8
+
+F18
+
+F30
+
+— 5
+
+|3:|:[]I4[|5
+
+éllﬁlft[p
+
+— 5
+
+R6
+
+R16
+
+F21
+
+R10 |
+
+F1
+
+[ F1
+
+[F3 ]
+
+& %'4 DR:
+
+|3:|:[]I4[|5
+
+3
+
+|3:|:|:|I4[|5
+
+s
+
+F2
+
+F12
+
+F34
+
+=
+
+—
+
+1
+
+F3
+
+F13
+
+F35
+
+1
+
+pgo
+
+2
+
+R3
+
+R7
+
+J[ F1e
+
+| [F2 ] [m6 |
+
+2
+
+R17
+
+(o4
+
+|
+
+R11
+
+33
+
+F5
+
+[ F1s
+
+NEEEN
+
+& 0+0s
+
+é]z[]lﬂjs
+
+50
+
+é]zﬂlﬂjs
+
+—
+
+F6
+
+][ F16
+
+IREEIEN
+
+—=
+
+1
+
+14
+
+ol
+
+1
+
+F7
+
+|[ F17
+
+| [F26 | [z |
+
+R12
+
+R14
+
+30
+
+, R [z
+
+2
+
+R18
+
+c
+
+3
+
+s
+
+s
+
+|3:|‘EI4|:|5
+
+él 0405
+
+Us
+
+=5
+
+pee
+
+m ] [P0
+
+1
+
+1
+
+=
+
+25
+
+25
+
+Relay
+
+Relay
+
+Relay
+
+R1
+
+Ienition relay
+
+R7
+
+Not used
+
+R13
+
+Not used
+
+RS
+
+Not used
+
+R14
+
+Econetic coolant valve relay
+
+Starter relay (Early production)
+
+Rear window wiper relay
+
+RO
+
+Starter relay (Late production)
+
+RI15
+
+Low speed cooling fan relay
+
+R16
+
+Not used
+
+R4
+
+Windshield wiper motor relay
+
+R10
+
+Air Conditioning (A/C) clutch relay
+
+Not used
+
+RI11
+
+R17
+
+Powertrain Control Module (PCM) relay
+
+Glow plug relay
+
+RIS
+
+High speed cooling
+
+R6
+
+Not used
+
+R12
+
+Fuel pump relay
+
+fan relay

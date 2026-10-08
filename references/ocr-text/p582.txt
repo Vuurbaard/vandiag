@@ -1,0 +1,171 @@
+WITHOUT:
+
+2.0L
+
+MULTI-FUNCTION DISPLAY
+
+- _--—-—-—-—-——-
+
+AUDIO
+
+FRONT
+
+CONTROL
+
+MODULE (ACM)
+
+151-79  151-83
+
+AUDIO UNIT
+
+ANTENNA
+
+AMPLIFIER.
+
+151-116
+
+C0219- 1
+
+C0240A
+
+CME13
+
+YE-OG
+
+CME13
+
+YE-OG
+
+C09021
+
+ANTENNA PWR.
+
+AMFM
+
+coaxial cable
+
+73
+
+SHIELD
+
+SHIELD
+
+T
+
+2T
+
+Co0219
+
+MICROPHONE
+
+MiC+
+
+VMM13
+
+YE-GN
+
+VMM13 YE-GN
+
+C091221
+
+1-114
+
+N C0240A
+
+—
+
+<
+
+MIC+
+
+'
+
+'19:7
+
+BU
+
+RMM13 _BK
+
+MIC -
+
+RMM13
+
+<
+
+MIC -
+
+7
+
+119
+
+-2
+
+right hand drive
+
+DME45
+
+BK
+
+DME45
+
+PH
+
+DME45
+
+[
+
+16
+
+e
+
+AUDIO
+
+INPUT
+
+VME435
+
+BU
+
+SOCKET
+
+STINPUT 2L+
+
+4
+
+1y,
+
+C02362l
+
+<
+
+STINPUT 2L+
+
+151-79 151-83
+
+17
+
+4
+
+RME45
+
+YE-GN
+
+STINPUT 2L-
+
+STINPUT 2L-
+
+N
+
+VME46
+
+BU-GN
+
+STINPUT 2R+
+
+ST INPUT 2R+
+
+18
+
+g
+
+—coooocooooooonod

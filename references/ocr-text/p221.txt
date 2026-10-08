@@ -1,0 +1,199 @@
+Hot at
+
+all times
+
+Start/Stop Bus
+
+2.0L
+
+F15
+
+F13
+
+MODULE (BCM)
+
+§
+
+10A
+
+;
+
+15A
+
+VDB06 GY-OG
+
+MO}
+
+13.92
+
+13-102
+
+{7 > 1415 1407
+
+COMMUNICATIONS
+
+NETW(
+
+Lo
+
+B3
+
+-,
+
+‘VDBO07
+
+VT-0G
+
+19
+
+C02280A
+
+< K 1415 1417
+
+2
+
+5
+
+o
+
+)
+
+® 5244
+
+VDB_29 GN-BU
+
+{Ta> 19 10
+
+m
+
+VDB30
+
+WH-GN
+
+— B 149 1410
+
+13
+
+24
+
+23
+
+2
+
+16
+
+™
+
+e ey
+
+n
+
+meeccesccssccscccsccescceeaeoa®]
+
+@
+
+[
+
+N
+
+e
+
+o
+
+cecead
+
+154 9 C02431
+
+GATEWAY
+
+MODULE A
+
+15177 151-81
+
+VBATT
+
+VPWR
+
+MS CAN+
+
+MS CAN -
+
+HS3CAN+
+
+HS3 CAN -
+
+]
+
+GND
+
+HS2 CAN -
+
+HS2 CAN+
+
+HS1CAN -
+
+HS1CAN +
+
+-
+
+=
+
+e
+
+¥
+
+=
+
+b d
+
+MO}
+
+14
+
+17
+
+18
+
+19
+
+20
+
+C02431
+
+COMMUNICATIONS
+
+NETW(
+
+|
+
+VDB04 WH-BU
+
+C D 1411
+
+'VDBOS
+
+WH
+
+_@ 1411
+
+2
+
+=
+
+MO}
+
+CO%&CAT{ONS
+
+VDB25
+
+S2.00 14-13
+
+GY-BU
+
+VD%S
+
+@ 14-13
+
+1038 1030
+
+1038 1030

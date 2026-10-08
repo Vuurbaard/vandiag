@@ -1,0 +1,171 @@
+Hotat
+
+all times
+
+2.0L
+
+-
+
+P
+
+BODY
+
+CONTROL
+
+F18
+
+MODULE (BCM)
+
+11-17
+
+STARTING SYSTEM
+
+13-72
+
+START
+
+START
+
+O O o S s o e o oy oy e
+
+N pppaa
+
+204 -—
+
+==
+
+=
+
+=
+
+R4
+
+€02280G
+
+14
+
+12
+
+C02280A
+
+a
+
+P
+
+==E]
+
+S=ococ
+
+BATTERY
+
+JUNCTION
+
+F1
+
+BOX (BIB)
+
+11-15
+
+4 ) coxso
+
+8 13-85
+
+————=To
+
+S—————c
+
+IGNITION
+
+SWITCH
+
+dod booooa
+
+13-72
+
+o
+
+g
+
+A~00139
+
+16 ~4VC()139
+
+&
+
+boo
+
+Y C0250
+
+=
+
+s221
+
+20 e C0268
+
+R
+
+R ——
+
+=
+
+51 Y co210
+
+Not used
+
+o
+
+without
+
+multi-function
+
+display
+
+[
+
+e
+
+C0240A
+
+P
+
+--
+
+-
+
+6 < C0175B
+
+oy
+
+AUDIO
+
+Ey——
+
+e ——
+
+POWERTRAIN
+
+EpEyE
+
+FRONT
+
+START
+
+SMCS
+
+CONTROL
+
+START
+
+MODULE (PCM)
+
+MODULE (ACM)
+
+4
+
+0-13
+
+Y S Y,
+
+R R S
+
+g g g

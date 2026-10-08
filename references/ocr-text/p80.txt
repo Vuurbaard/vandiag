@@ -1,0 +1,173 @@
+AUXILIARY JUNCTION BOX (AJB)
+
+2.0L
+
+Fuse
+
+Amps
+
+Circuit protected
+
+F50
+
+5
+
+Rear washer relay
+
+Autolamp and ain sensor
+
+F51
+
+2
+
+>
+
+Windshield
+
+motor - LHD
+
+Ausiliary w
+
+indati
+
+eld wiper motor - RED
+
+F52
+
+25
+
+Windshield wis
+
+motor - RHD
+
+Auxiliary w
+
+eld wiper motor - LHD
+
+F53
+
+40
+
+Rear air suspension relay
+
+F54
+
+15
+
+Vehicle Dynamics Module (VDM)
+
+F55
+
+40
+
+Anti-lock Brake System (ABS) module
+
+F56
+
+Not used
+
+F57
+
+30
+
+Front seat control switch
+
+F58
+
+Not used
+
+F39
+
+30
+
+Starter relay
+
+F60
+
+15
+
+Trailer module
+
+F61
+
+15
+
+Driver door latch - LHD
+
+Passenger door latch -
+
+Sliding door contact plate LH
+
+F62
+
+15
+
+Rear door latch
+
+Driver door latch - RHD
+
+Passenger door latch - LHD
+
+Sliding door contact plate RH.
+
+F63
+
+15
+
+Driver door latch - LHD
+
+Passenger door latch -
+
+Sliding door contact plate LH
+
+F64
+
+15
+
+Rear door
+
+Passenger
+
+Driver
+
+Sliding door contact plate RH.
+
+F65
+
+20
+
+Fuel pump control module
+
+F66
+
+40
+
+Fuel filter heater/water-in-fuel sensor
+
+F67
+
+Not used
+
+F68
+
+Not used
+
+F69
+
+Tachograph
+
+F70
+
+Not used
+
+F1
+
+40
+
+Direct Current/Alternating Current (DC/AC) inverter
+
+72
+
+30
+
+Trailer socket

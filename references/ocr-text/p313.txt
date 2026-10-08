@@ -1,0 +1,95 @@
+e
+
+ANTI-LOCK.
+
+BRAKE SYSTEM
+
+2.0L
+
+(ABS) MODULE
+
+151-68
+
+C03665 - 1
+
+C0135
+
+‘VMCO05
+
+VI-OG
+
+VSO
+
+>
+
+Not used
+
+12
+
+‘WEAR OUT
+
+BRAKE PAD
+
+SWITCH
+
+21
+
+.
+
+2
+
+RO
+
+23
+
+2
+
+C0145
+
+=
+
+cocoooooocooacaod
+
+=Zl=
+
+=
+
+P 5123
+
+@ S131
+
+(R
+
+¥
+
+C0423
+
+1
+
+10 35
+
+f
+
+C04427
+
+01687
+
+A
+
+P
+
+REAR BRAKE
+
+FRONT BRAKE
+
+PAD WEAR
+
+PAD WEAR
+
+SENSORLH
+
+SENSORLH
+
+151-104
+
+151-68

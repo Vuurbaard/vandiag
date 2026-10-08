@@ -1,0 +1,147 @@
+[
+
+[ —
+
+[
+
+2.0L
+
+A
+
+Do not at
+
+to diagnose or troubleshoot
+
+'
+
+! S
+
+Restraint System circuitry without
+
+shg
+
+the We
+
+oper
+
+| trouble
+
+ooting
+
+ing could cause the suppemental
+
+15193 151.95
+
+1 restraints to deploy inadvertently,
+
+! causing injury.
+
+e e e
+
+e g
+
+side airbags
+
+e e e e e e e e e e e e e e
+
+VR217
+
+GY-YE
+
+C0310B
+
+<
+
+RR131
+
+VI-GY
+
+DRVR_SIDE
+
+1A
+
+e
+
+C03248
+
+3
+
+IM_SN_RIN™
+
+DRIVER SIDE
+
+151—3‘9) 151-90
+
+VR218
+
+45
+
+RR132
+
+BU.WH
+
+C03249
+
+-aa!
+
+PASASENCTGER SIDE
+
+SEN
+
+151
+
+:ggRIS 1-90
+
+o
+
+VR213
+
+BK
+
+€0192
+
+VR213
+
+VT-GN
+
+CO310A
+
+1
+
+17
+
+'
+
+B
+
+RR129
+
+BK
+
+RR129
+
+YE-GY
+
+'
+
+<
+
+FRT CR
+
+18
+
+SN_RIN™
+
+]
+
+A
+
+Sy
+
+2 ‘NCOI-MS
+
+151-68
+
+R
+
+ISR

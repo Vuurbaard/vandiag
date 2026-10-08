@@ -1,0 +1,159 @@
+Hot in Start
+
+241
+
+or Run
+
+2.0L
+
+4
+
+E'\L_ECTRDNIC
+
+CONTROLS
+
+o
+
+Hotat
+
+Hot at
+
+all times
+
+all times
+
+Scccoooo
+
+Ey——
+
+[ p———
+
+Eera———
+
+BATTERY
+
+JUNCTION
+
+BOX (BIB)
+
+F21
+
+F22
+
+F39
+
+F38
+
+11-15
+
+40A
+
+40A
+
+10A
+
+10A
+
+13-67
+
+13-67
+
+13-70
+
+13-70
+
+loooo
+
+P
+
+e
+
+CCOOOoOoooooDDaoDO00C 00aoooooo0nsood boocoooaos
+
+@ S110
+
+k Co134
+
+S109
+
+CONTROLS
+
+————{aa > 243
+
+@ S153
+
+=
+
+b=
+
+o
+
+S
+
+9 C01273B
+
+A co1162
+
+8 + C01273C
+
+GLOW PLUG
+
+ELECTRIC HEATED
+
+pR—
+
+[
+
+-
+
+MODULE
+
+THERMOSTAT
+
+VBATT
+
+VBATT
+
+151-66
+
+151-73
+
+Y cotie
+
+==
+
+GND
+
+9 V001273C
+
+%
+
+2
+
+Tyt
+
+POWERTRAIN
+
+CO175E
+
+CONTROL
+
+GD120
+
+BK-GN
+
+MODULE (PCM)
+
+GO0105
+
+151-72
+
+$101
+
+L
+
+-
+
+10-32
+
+Soooooe

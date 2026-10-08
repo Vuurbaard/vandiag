@@ -1,0 +1,327 @@
+AUXILIARY JUNCTION BOX (AJB)
+
+2.2L
+
+Fuse
+
+Amps
+
+Circuit protected
+
+Circuit protected
+
+F1
+
+10
+
+Restraints Control Module (RCM)
+
+F28
+
+20
+
+Adaptive front lighting module
+
+F2
+
+-
+
+Not used
+
+F29
+
+10
+
+ing Module B (IPMB)
+
+Iruage Process
+
+interior
+
+F3
+
+10
+
+Exterior mirrors
+
+Stee
+
+Column Control Module (SCCM)
+
+Image Processing Module A (IPMA)
+
+F4
+
+-
+
+Not used
+
+F30
+
+Not used
+
+F5
+
+20
+
+Auxiliary Heater Control
+
+F31
+
+Not used
+
+Module (AHCM)
+
+F6
+
+F32
+
+10
+
+Interior lamps
+
+Tachograph
+
+F7
+
+Not used
+
+F33
+
+Not used
+
+F8
+
+40
+
+F34
+
+20
+
+Rear window wiper relay
+
+Direct Current/ Altemating Current (DC/AC) inverter
+
+Rear window wiper motors
+
+Fo
+
+Not used
+
+F35
+
+Driver door window control switch
+
+F10
+
+30
+
+Front seat control switch
+
+Exterior mirror control switch
+
+F11
+
+Not used
+
+F36
+
+20
+
+Horn relay
+
+F37
+
+75
+
+SYNC module [APIM
+
+F12
+
+Not used
+
+F13
+
+Not used
+
+Global Positioning System Module (GPSM)
+
+F38
+
+Horn relay
+
+Rear window wiper relay
+
+F14
+
+Powertrain Control Module (PCM) relay
+
+Blower motor relay
+
+F15
+
+40
+
+Powertrain Control Module (PCM) relay
+
+F39
+
+75
+
+Auxiliary blower motor switch
+
+F16
+
+40
+
+Body Control Module (BCM) - F1, F2,
+
+Radio Frequency (RF) receiver
+
+Intrusion sensor
+
+F17
+
+Not used
+
+F40
+
+Blower motor relay
+
+F18
+
+Not used
+
+F41
+
+40
+
+Ausiliary blower motor relay
+
+F19
+
+Tachograph
+
+F42
+
+30
+
+Heated rear window relay
+
+F20
+
+Heated rear window relay
+
+F43
+
+30
+
+Trailer module
+
+Heated windshield element LH relay
+
+Trailer socket
+
+Heated windshield element RH relay
+
+Direct Cusrent/Alternating Current (DC/AC) inverter
+
+F44
+
+Auxiliary power point relay
+
+F21
+
+10
+
+Customer access
+
+F45
+
+Not used
+
+22
+
+15
+
+Body Control Module (BCM) - F4, F5
+
+F46
+
+30
+
+Driver door window control switch
+
+Passenger door window control switch
+
+F23
+
+75
+
+Fuel fired booster heater relay
+
+Auxiliary blower motor switch
+
+F47
+
+20
+
+Electric booster heater
+
+Ausiliary power point
+
+Blower motor switch
+
+Message center switch
+
+F48
+
+20
+
+Rear passenger power outlet socket
+
+F24
+
+Headlamp assemblies
+
+F49
+
+20
+
+Front power outlet socket
+
+F25
+
+75
+
+F50
+
+Auxiliary ignition relay 1
+
+Interior lamps
+
+F26
+
+Not used
+
+F31
+
+Ausiliary ignition relay 2
+
+F27
+
+20
+
+Heated front seat switch
+
+F52
+
+40
+
+Heated windshield element LH relay
+
+F53
+
+40
+
+Heated windshield element RH relay

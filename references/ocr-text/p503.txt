@@ -1,0 +1,97 @@
+MANUAL TRANSMISSION
+
+2.0L
+
+oo m e e o
+
+POWERTRAIN
+
+CONTROL
+
+12\1023':“‘: (PCM)
+
+VDBO04
+
+WH-BU
+
+HS1CAN+
+
+e
+
+N C0175B
+
+kel
+
+MODU
+
+60
+
+HS1CAN-
+
+'VDBOS
+
+WH
+
+1412
+
+iy
+
+61
+
+b
+
+|
+
+o134
+
+-1
+
+0133 -5
+
+REVERSE
+
+CET47
+
+BU
+
+CET47
+
+BU
+
+39
+
+-
+
+Y VPRSP
+
+=)
+
+1 h(2(]169
+
+REVERSING
+
+LAMP SWITCH
+
+151-75
+
+C0169
+
+a
+
+C0133
+
+a
+
+34
+
+Co134
+
+@ s118
+
+=
+
+Go104
+
+=
+
+10-32

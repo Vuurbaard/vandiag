@@ -1,0 +1,157 @@
+e
+
+BODY
+
+POWERTRAIN
+
+CONTROL
+
+CONTROL
+
+2.2L
+
+MODULE (BCM)
+
+MODULE (PCM)
+
+1-
+
+SooooooooeE0
+
+CLUTCH
+
+€2280C
+
+$268
+
+CE903
+
+BU-OG
+
+C139
+
+CES03
+
+BU-OG
+
+C175B
+
+>
+
+<r
+
+CPP-BT
+
+SRtren
+
+52
+
+40
+
+36
+
+CE904
+
+GN-VT
+
+CPP-TT
+
+31
+
+21
+
+R
+
+C260
+
+[
+
+——— e
+
+%
+
+C257
+
+T T
+
+auto-start-stop
+
+2 q C2354
+
+CLUTCH PEDAL
+
+CLUTCH PEDAL
+
+POSITION (CPP)
+
+POSITION (CPP)
+
+BOTTOM OF
+
+TOP OF
+
+TRAVEL SWITCH
+
+TRAVEL SWITCH
+
+15130 151-34
+
+\
+
+15130 15134
+
+¥
+
+3
+
+C257
+
+C2354
+
+e
+
+n
+
+.
+
+-
+
+R
+
+.
+
+-
+
+e .
+
+early production
+
+o
+
+R
+
+g
+
+$208
+
+B
+
+late production
+
+e e e e e e e 2 X
+
+C260
+
+e e e e e e e e e o
+
+[
+
+@ 5270
+
+o
+
+boooccoosooooad
+
+G304
+
+=+ 10-16

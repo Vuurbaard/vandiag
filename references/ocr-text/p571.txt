@@ -1,0 +1,179 @@
+Hotat
+
+all times
+
+MULTI-FUNCTION DISPLAY
+
+2.2L
+
+Soco
+
+Socoooc
+
+BOD'
+
+F19
+
+M%DUT.%L(BCM)
+
+1-:
+
+1347
+
+co=
+
+S
+
+4
+
+C€2280D
+
+2
+
+@ 5229
+
+1
+
+c2123
+
+FRONT CONTROL/
+
+R ppmp
+
+DISPLAY INTERFACE
+
+BATT
+
+MODULE (FCDIM)
+
+151-16 15120
+
+VDB13
+
+BU-GY
+
+ICAN+
+
+N 2123
+
+MO
+
+COMMUNICATIONS
+
+VDB14
+
+VT-GY
+
+NE
+
+ICAN-
+
+™
+
+DN
+
+14-2
+
+v 5
+
+VMC49  VT-GY
+
+INSTRUMENT
+
+SELECT
+
+CLUSTER
+
+N
+
+60-6
+
+SYNC
+
+e
+
+RO
+
+R
+
+e
+
+Y=
+
+AUDIO
+
+FRONT
+
+VMNO7
+
+GY
+
+C263
+
+VMNO7
+
+GY
+
+CONTROL
+
+'NAV VOICE +
+
+e
+
+e
+
+C240A
+
+NAV VOICE +
+
+MODULE (ACM)
+
+151-16 151-20
+
+v 6
+
+RMNO7
+
+VT
+
+RMNO7
+
+VT
+
+NAV VOICE -
+
+e
+
+L
+
+'NAV VOICE -
+
+12
+
+GND
+
+Lo
+
+---r--
+
+e,
+
+o=
+
+==
+
+==
+
+1
+
+C2123
+
+GD116
+
+BK-VT
+
+G201
+
+222
+
+10-6

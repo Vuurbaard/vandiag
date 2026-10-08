@@ -1,0 +1,243 @@
+F25
+
+LATE PRODUCTION
+
+2.2L
+
+CLNO1
+
+GN-VT
+
+DISTRIBUTION
+
+1340 1341
+
+1342
+
+ST
+
+AUXILIARY
+
+JUNCTION
+
+BO:
+
+POWER
+
+11-1
+
+15130
+
+DISTRIBUTION
+
+15134
+
+POWER
+
+CLNO1
+
+GN-VT
+
+F25
+
+CB125
+
+WH-OG
+
+$2101
+
+CB125
+
+WH-0G
+
+DISTRIBUTION
+
+1337 | NQ >
+
+BW >
+
+75A
+
+13-38
+
+Hot at all times
+
+=
+
+with battery saver
+
+g
+
+—
+
+relay engaged
+
+B
+
+e
+
+56
+
+C300
+
+P
+
+c210
+
+i
+
+Sccoooo=
+
+GLOVE COMPARTMENT
+
+CB!
+
+25
+
+WHOG C254 , |
+
+| cBs wHos o |
+
+89-9
+
+1
+
+Bocosoos
+
+26
+
+[ex331
+
+€9076
+
+S g
+
+Double Cab in Van
+
+P
+
+-
+
+a
+
+e —————
+
+THIRD ROW
+
+k=l
+
+C9054A
+
+INTERIOR LAMP
+
+2 “‘”22 CB125 WH.OG
+
+89-13
+
+ccooh
+
+1
+
+e e
+
+e e mmmmmm—m—————————
+
+[ ———
+
+a
+
+CB125
+
+WH-OG
+
+C929A
+
+{RONT INTERIOR.
+
+89-9
+
+boccsoss
+
+without: Base
+
+[ || R
+
+[
+
+[ —
+
+[ —
+
+R
+
+=o=
+
+FRONT INTERIOR
+
+CB125
+
+WH-0G
+
+C931A
+
+5907 @,
+
+89-10
+
+oooooood
+
+illuminated vanity mirrors
+
+e
+
+o2
+
+=co55
+
+VANITY
+
+CB125
+
+WH-0G
+
+MIRROR
+
+—
+
+LAMPRH
+
+ooocooooc
+
+89-10
+
+B
+
+VANITY
+
+CB125
+
+WH-0G
+
+€907
+
+MIRROR.
+
+e
+
+89-10
+
+[ —
+
+e
+
+R ——
+
+[
+
+e
+
+e
+
+e
+
+[ —

@@ -1,0 +1,123 @@
+Hot at
+
+all times
+
+2.2L
+
+e
+
+Sooooo
+
+CONTROL
+
+F18
+
+MODULE (BCM)
+
+10A
+
+115
+
+1347
+
+===
+
+P
+
+C2280B
+
+POWERTRAIN
+
+MODULE (PCM)
+
+23-12
+
+ccooooocoocoo
+
+CCB15
+
+BN-GN
+
+CCB15
+
+BN-GN
+
+c139 ;37
+
+C175B L
+
+€
+
+12
+
+A
+
+3 [ C278
+
+S
+
+e
+
+BRAKE PEDAL
+
+POSITION (BPP)
+
+SWITCH
+
+1) Brake non-applied
+
+/.
+
+2) Brake applied
+
+15130 15134
+
+E—
+
+¥
+
+2 VC278
+
+e
+
+® s270
+
+G304
+
+= 10-16
+
+Ccoooooooo—ooo
+
+l(\:/l%DUI%L(B@/l)
+
+1-
+
+C139 - 41
+
+STOP LIGHT
+
+C€2280C
+
+CCB08
+
+VI-WH
+
+8286
+
+CCB08
+
+VI-WH
+
+CCB08
+
+VT-WH
+
+SWITCH
+
+>
+
+58
+
+L
+
+Y

@@ -1,0 +1,265 @@
+2.0L
+
+tachograph
+
+e e i e e e e e e e
+
+TACHOGRAPH
+
+C09027 - 2
+
+CLN17
+
+BN
+
+'
+
+60-16
+
+7113
+
+C090684
+
+[
+
+o2
+
+R
+
+e
+
+auxiliary climate control
+
+-
+
+=
+
+S
+
+AUXILIARY
+
+CLN17
+
+BN
+
+C0300- 58
+
+€09028 - 16
+
+CLN17
+
+BN
+
+C0937
+
+BLOWER
+
+>
+
+N
+
+>
+
+N
+
+MOTOR.
+
+8914
+
+24
+
+e
+
+SWITCH
+
+52-5
+
+52-6
+
+e e e e
+
+[
+
+C0340- A2
+
+right hand drive
+
+LoD
+
+hand drive
+
+Soooooon
+
+'
+
+1
+
+{R.OI\T DOOR
+
+CLN17
+
+BN
+
+C0339-1A2
+
+CLN17
+
+BK
+
+C0341 ,
+
+0505 ,
+
+SWITCHLH
+
+71-12 117-15
+
+e
+
+117-16
+
+.
+
+R —
+
+o
+
+C0339- A2
+
+right hand drive
+
+[
+
+right hand drive
+
+BisTRBUTION
+
+.
+
+C0268 - 15
+
+C0340- A2
+
+Soooooos
+
+CLN17
+
+<
+
+CLN17
+
+BN
+
+<
+
+CLN17
+
+BK
+
+C0632
+
+C0605
+
+{ROI\T DOOR
+
+13113 [HE >
+
+<
+
+<
+
+SWITCH RH
+
+268
+
+cooooood
+
+71-12
+
+117-15
+
+fpp——
+
+117-16
+
+CLN17
+
+BN
+
+C03665 -
+
+N
+
+Not used
+
+>
+
+HEADLAMP
+
+Seooooo5
+
+CLN17
+
+BN
+
+C0205
+
+SWITCH
+
+71-8
+
+85-8
+
+15
+
+e
+
+8%5 89-16
+
+multi-fonction.
+
+display
+
+-
+
+[
+
+BistRiBuTIoN
+
+'
+
+'
+
+C0263 - 12
+
+S=cococoo
+
+CLN17
+
+BN
+
+CLN17
+
+BN
+
+CLN17
+
+BN
+
+C02039
+
+FLASHER
+
+13113 [(HF >
+
+SWITCH
+
+§224
+
+[
+
+cocoaood
+
+719
+
+90-13

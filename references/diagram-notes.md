@@ -186,6 +186,48 @@ Also on C175B: pin 39 = ignition feed from BJB F7 (CBB07 GN-BU, p.104);
 pin 47 = START from the ignition switch via C210 pin 51 and C139 pin 16
 (CDC35 BU-WH, p.101/102).
 
+## Connector C311 — pin list collected from the diagram (2.2L)
+
+No face view of C311 exists in this PDF, so cavity positions are unknown; use
+the wire colours to recognise the connector. Collected in T-057. "If fitted"
+circuits may be absent on this van. The list is certainly incomplete.
+
+| Pin | Wire | Colour | Circuit | PDF page |
+| --- | --- | --- | --- | --- |
+| 1 | CLN43 | WH-BU | Interior light dimming (BCM), late production | 454 |
+| 6 | CPL39 | YE | Right sliding door ajar switch | 521 |
+| 12 | CLS37 | WH-BU | Rear fog lamp, right (if fitted) | 134 |
+| 13 | CLS10 | GN-BN | Rear lamp, right | 122 |
+| 15 | CLS09 | WH-OG | Rear lamp, right | 122 |
+| 16 | CLS27 | GN-OG | Rear lamp, right | 134 |
+| 17 | CLS53 | GY-VT | Rear lamp, right | 122 |
+| 22 | GD140 | BK-GN | Ground to G306 | 19, 406, 609 |
+| 24 | CB134 | VT-BN | Rear window wiper, right door (if fitted) | 112 |
+| 26 | CLN01 | GN-VT | Interior / luggage lamps, early production | 125 |
+| 28 | CB129 | WH-VT | Lane departure camera feed (if fitted) | 609 |
+| 41 | CBP05 | YE | Rain sensor feed (if fitted) | 406 |
+| **42** | VDB04 | **WH-BU** | **HS CAN+, towards the PCM** | 218 |
+| **43** | VDB05 | **WH** | **HS CAN−, towards the PCM** | 218 |
+| **44** | VDB04 | **WH-BU** | **HS CAN+, from the DLC side** | 217 |
+| **45** | VDB05 | **WH** | **HS CAN−, from the DLC side** | 217 |
+| 50 | VRW26 | BN-YE | Rain sensor LIN (if fitted) | 406 |
+| 52 | RMP06 | YE-OG | Front parking aid sensor ground (late production; pin 52 or 57 swaps with LMP06 on early) | 603, 604 |
+| 53 | VMP10 | WH-BU | Front parking aid sensor | 603, 604 |
+| 54 | VMP11 | BU-GN | Front parking aid sensor | 603, 604 |
+| 55 | VMP12 | BU-GY | Front parking aid sensor | 603, 604 |
+| 56 | VMP13 | BU-OG | Front parking aid sensor | 603, 604 |
+| 57 | LMP06 | VT-GY | Front parking aid sensor power (late production) | 603, 604 |
+
+- At least 57 cavities. Up to **five** white-blue wires: pins 1, 12 and 53
+  are single wires on other circuits; only 42 and 44 are CAN, each twisted
+  with a plain white wire (43, 45).
+- Correction: T-043 gave the right sliding door switch as pin 8; p.521 reads
+  pin 6.
+- The roof harness is reached through **C913** (pins 5, 6, 7, 10, 12 seen on
+  p.122, 406, 609) as well as C900 (p.125, 217).
+- OCR text of every page is kept in `references/ocr-text/` (tesseract,
+  220dpi, `--psm 11`; imperfect, results differ a little between runs).
+
 ## Fuse box layouts (Ford owner's manual, "Fuse Specification Chart - 2.2L Diesel")
 
 Source: Ford online owner's manual page linked from Sander's own notes

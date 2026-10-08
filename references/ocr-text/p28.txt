@@ -1,0 +1,133 @@
+G402, G403
+
+2.2L
+
+auiliary climate control
+
+e
+
+P ——
+
+.
+
+MOTOR
+
+Co0A
+
+ggo\\‘ig
+
+[
+
+MODULE
+
+52-1
+
+e |
+
+===cco=5
+
+GD150
+
+BK-WH
+
+C9054B
+
+89-6
+
+89-8
+
+cconoooe
+
+89-13 89-15
+
+Bus, Kombi
+
+R
+
+ey
+
+ST
+
+FOURTH ROW
+
+GD150
+
+BK-WH
+
+C9055B
+
+INTERIOR LAMP
+
+o
+
+89-8
+
+89-15
+
+$902
+
+e
+
+S
+
+e e
+
+2
+
+=
+
+--4F
+
+R
+
++ Bus (low roof), Kombi (low roof)
+
+C92:
+
+| Double Cab in Van
+
+Y C9060
+
+-
+
+R
+
+[
+
+Bus (low roof), Kombi (low roof)
+
+g ! early production - Double Cab in Van
+
+.
+
+8
+
+i}
+
+=1
+
+.
+
+all=
+
+6 q C9076
+
+2
+
+=
+
+Lo
+
+J -
+
+G402
+
+G403
+
+-
+
+-
+
+151-36
+
+151-36

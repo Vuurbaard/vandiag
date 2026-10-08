@@ -1,0 +1,225 @@
+AUXILIARY JUNCTION BOX (AJB)
+
+2.0L
+
+[
+
+]
+
+=
+
+ap =ty
+
+1
+
+=
+
+=
+
+5
+
+3
+
+=
+
+s
+
+3
+
+|
+
+=
+
+oo
+
+oo
+
+RIS
+
+RIS
+
+=
+
+ifs}
+
+=
+
+=
+
+RI10
+
+-
+
+[
+
+Dz
+
+=
+
+5
+
+3
+
+=
+
+5
+
+3
+
+=
+
+5
+
+3
+
+I |
+
+oo
+
+=
+
+oo
+
+od
+
+RI3
+
+RI6
+
+RIO
+
+=
+
+|
+
+B3
+
+.
+
+RIL
+
+g
+
+O
+
+=
+
+z
+
+5
+
+3
+
+=
+
+N
+
+oo
+
+F71
+
+R4
+
+[
+
+Dz
+
+=0
+
+:
+
+5
+
+3
+
+=
+
+5
+
+3
+
+R12
+
+R14
+
+12
+
+oo
+
+oa
+
+RI7
+
+RS
+
+LT <
+
+[ JTH 1o
+
+Relay
+
+Relay
+
+R1
+
+Hom relay
+
+RI10
+
+Blower motor relay
+
+Heated rear window relay
+
+R11
+
+External locking relay
+
+Auxiliary blower motor relay
+
+RI12
+
+Fold misror module relay
+
+R4
+
+Auxiliary power point relay
+
+R13
+
+Run/start relay
+
+Power point relay
+
+R14
+
+Fuel pump relay
+
+Heated windshield element LH relay
+
+RIS
+
+Not used
+
+R7
+
+R16
+
+Not used
+
+Heated windshield element RH relay
+
+Rear washer relay
+
+R17
+
+Front wiper relay
+
+Fuel fired booster heater relay
+
+R18
+
+Not used
+
+R19
+
+Not used

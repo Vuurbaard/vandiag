@@ -1,0 +1,215 @@
+ANTI-LOCK.
+
+2.0L
+
+BRAKE SYSTEM
+
+(ABS) MODULE
+
+151-68
+
+SCoooOOooOCCCoooooSoooo0000000
+
+FRONT WHEEL
+
+SPEED SENSOR.
+
+i
+
+RCA17
+
+BU
+
+S1122
+
+RCA17
+
+YE
+
+C0135
+
+, C0150
+
+LF SENSORLO
+
+S1121
+
+[==]
+
+VCA03
+
+BK
+
+VCA03
+
+VI-WH
+
+19
+
+e
+
+LF SENSOR HI
+
+FRONT WHEEL
+
+SPEED SENSOR.
+
+Sies
+
+RCA19
+
+BU
+
+S133
+
+RCAI19
+
+VT
+
+ C0160
+
+G
+
+RF SENSORLO
+
+'
+
+)
+
+S134
+
+[==]
+
+VCAOS
+
+BK
+
+VCAO0S
+
+GY-VT
+
+|
+
+&
+
+1
+
+16
+
+<7
+
+RF SENSOR HI
+
+REAR
+
+SPEED SENSOR.
+
+ll_gll-lt’)«i
+
+C0440
+
+RCA18
+
+BU
+
+00i23
+
+RCA18
+
+BN-GN
+
+COljf
+
+RCA18
+
+BN-GN
+
+€
+
+LR SENSORLO
+
+VCA04
+
+BK
+
+VCA04 BU-OG
+
+VCA04
+
+BU-OG
+
+18
+
+==
+
+X1o
+
+'
+
+LR SENSOR HI
+
+11
+
+€
+
+31
+
+REAR W
+
+SPEED SENSOR.
+
+151-104
+
+, Co426
+
+RCA20
+
+BU
+
+RCA20
+
+BN
+
+RCA20
+
+BN
+
+<
+
+RR SENSORLO
+
+2
+
+-
+
+€
+
+8
+
+29
+
+<
+
+'
+
+VCAO6  BK
+
+VCA06  WH-OG
+
+|
+
+VCA06
+
+WH-0G
+
+==
+
+o
+
+e
+
+RR SENSOR HI
+
+1
+
+A I A L

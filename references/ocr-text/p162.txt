@@ -1,0 +1,147 @@
+F65, F66
+
+2.0L
+
+SO OCOOOOOC e C OO
+
+AUXILIARY
+
+11-11
+
+15193
+
+1-97
+
+FUEL PUMP
+
+POWERTRAIN
+
+CONTROL
+
+24-11
+
+MODULE (PCM)
+
+24-11
+
+BistRBUTIoN
+
+Scosooo0
+
+SB117
+
+RD
+
+CE226
+
+YE-VT
+
+CE226
+
+YE-VT
+
+CO175E
+
+C0139-\32
+
+>
+
+C0]34;9
+
+<
+
+1386 D1 >
+
+1
+
+2
+
+32
+
+ooocoocod
+
+Hot at
+
+all times
+
+BistRBuTIon
+
+SB133
+
+RD
+
+13-66
+
+DM
+
+Hot at
+
+all times
+
+CE608
+
+VI-GN
+
+CONTROL
+
+MODULE
+
+24-12
+
+e ———
+
+F65
+
+CB165
+
+WH-0G
+
+00145;13
+
+004000;1
+
+CB165
+
+WH-0G
+
+C0433 "
+
+>
+
+>
+
+20A
+
+R
+
+FUEL FILTER
+
+WATER-IN-FUEL
+
+SENSOR.
+
+24-11
+
+=ccooooo
+
+F66
+
+CB166 BU-WH
+
+00145;17
+
+CB166 BU-WH
+
+C04350
+
+>
+
+<
+
+40A
+
+4
+
+coccoood
+
+P ey

@@ -1,0 +1,235 @@
+oo ---------%
+
+AUXILIARY
+
+JUNCTION
+
+F22,F23
+
+2.2L
+
+BOX (AJB]
+
+11-1
+
+151-30
+
+W
+
+CDC21
+
+GY-BN
+
+DISTRIBUTION
+
+13-14
+
+<&
+
+Hot in Start or Run.
+
+F22
+
+CB122
+
+GN-OG
+
+DISTRIBUTION
+
+15A
+
+13-52
+
+e
+
+e
+
+fuel fired
+
+I}UNCTIONY
+
+[,
+
+[ —
+
+EEe e
+
+e
+
+cocoo
+
+FUEL FIRED
+
+BOX (AJB)
+
+11-1
+
+151-30
+
+F23
+
+CB123
+
+BN-YE
+
+S271
+
+CB123
+
+BN-YE
+
+! BOOSTER
+
+1-34
+
+32
+
+, HEATER RELAY
+
+75A
+
+1 54
+
+[
+
+oo
+
+AR ——
+
+R
+
+-
+
+e
+
+[ —
+
+auxiliary climate control
+
+S e e e e ccmcccccccccccccccccccccccccccmcmc——————————————
+
+late production: high roof
+
+=
+
+SeeEooon
+
+AUXILIARY
+
+2
+
+CB123  BN-YE
+
+C300 ;59
+
+C9028 ;l‘l
+
+CB123
+
+BN-YE
+
+L coss 1 coar |1
+
+MOTOR.
+
+BLOWER
+
+17 1
+
+10
+
+SWITCH
+
+[
+
+522
+
+e
+
+R
+
+e
+
+&7
+
+17
+
+€210
+
+[P)?STR.IBUTION
+
+13-18
+
+o s
+
+electric booster heater
+
+-
+
+S EEESEn
+
+ELECTRIC
+
+$227
+
+CB123
+
+BN-YE
+
+C2603C
+
+b
+
+coo
+
+54-8
+
+-
+
+[
+
+[
+
+[
+
+passenger airbag
+
+o=
+
+g
+
+MESSAGE
+
+CB123
+
+BN-YE
+
+C253
+
+SWITCH
+
+coo
+
+466 60-6
+
+g
+
+-
+
+oo
+
+CB123
+
+BN-YE
+
+C271B
+
+?}-CS)WER. MOTOR SWITCH
+
+<
+
+e g
+
+15
+
+cococood

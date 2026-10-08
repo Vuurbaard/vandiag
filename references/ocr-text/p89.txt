@@ -1,0 +1,119 @@
+CHARGING SYSTEM
+
+2.2L
+
+122 [0 ——
+
+Hot at
+
+all times
+
+@
+
+2
+
+1 q C1035B
+
+~coolEoococ
+
+BATTERY
+
+JUNCTION
+
+BOX (BIB)
+
+113
+
+—e—c
+
+B,
+
+1 Y clossc
+
+STARTER
+
+=oog
+
+MOTOR
+
+20-1
+
+boooooo
+
+CONTROL
+
+POWERTRAIN
+
+23-17
+
+MODULE (PCM)
+
+ey
+
+VDBO04
+
+WH-BU
+
+CI75B
+
+HSCAN+
+
+1 kClOlA
+
+10
+
+145
+
+'VDBO5
+
+WH
+
+B+
+
+RO
+
+HSCAN -
+
+1
+
+-
+
+C102B
+
+Sl
+
+>
+
+Not used
+
+<1
+
+>
+
+111
+
+g
+
+q
+
+LI
+
+VDC42
+
+GN
+
+CI75E
+
+I
+
+>
+
+1
+
+30
+
+4 GENMON
+
+Y R R PEga
+
+B

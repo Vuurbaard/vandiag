@@ -1,0 +1,165 @@
+Start/Stop Bus,
+
+o=o
+
+Sy
+
+BODY
+
+2.0L
+
+CONTROL
+
+F32
+
+MODULE (BCM)
+
+10A
+
+11-17
+
+13-103
+
+-
+
+2 T €02280C
+
+@
+
+=
+
+=
+
+>
+
+2
+
+=
+
+RADIO
+
+39‘VC0311
+
+FREQUENCY
+
+151-1%
+
+7 VOODOO
+
+SBP32
+
+VT-RD
+
+09026
+
+Socooccoooooa
+
+BODY
+
+VBATT
+
+CONTROL
+
+MODULE (BCM)
+
+-
+
+VDB06
+
+GY-OG
+
+MS CAN+
+
+14-16
+
+1418
+
+VDB07
+
+VI-0G
+
+MS CAN -
+
+} <
+
+C0311- 21
+
+C0900 - 9
+
+, 022808
+
+VPL56
+
+BU-GY
+
+00263-1 7
+
+VPL56
+
+BU-GY
+
+kN
+
+VPL36
+
+BU-GY
+
+K-LINE
+
+<
+
+>
+
+SIGNAL
+
+726
+
+GROUND
+
+@ 5909
+
+11
+
+C0900
+
+R
+
+- -
+
+ C02280G
+
+VDB04 WH-BU
+
+® 5923
+
+| rear parking aid
+
+HS1CAN+
+
+™
+
+.
+
+-
+
+'
+
+10
+
+‘VDBO05
+
+WH
+
+14-11
+
+HS1CAN-
+
+O
+
+—~—] {
+
+e
+
+G0405
+
+10-63

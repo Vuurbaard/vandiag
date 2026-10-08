@@ -1,0 +1,81 @@
+F20,F34
+
+2.0L
+
+BODY
+
+EEEEE
+
+e
+
+CONTROL
+
+MODULE (BCM)
+
+11-17
+
+15177
+
+Hot at
+
+151-81
+
+all times
+
+13-99
+
+F34
+
+30A
+
+RUN/SYTART
+
+(Non-serviceable)
+
+——
+
+E——
+
+foococa
+
+Booood
+
+TACHOGRAPH
+
+Hot in Start or Rua
+
+60-16
+
+F20
+
+| C02280A CBP20
+
+YE-VT
+
+0210 -\23
+
+C0300 »\23
+
+€09027 R 1
+
+CBP20
+
+YE-VT _ C09068A
+
+>-
+
+>
+
+>
+
+>
+
+5A
+
+5
+
+e
+
+13-101
+
+e

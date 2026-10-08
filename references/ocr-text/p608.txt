@@ -1,0 +1,187 @@
+LANE DEPARTURE WARNING
+
+2.2L
+
+Hot at
+
+g{m in Start
+
+all times.
+
+[N [ ————
+
+\UXILIARY
+
+——codEc——ccco-o—o—-—ccooo—————cooocoo—ccoo—o————ccoooo
+
+BODY
+
+JUNCTION
+
+CONTROL
+
+F29
+
+BOX (AJB)
+
+F18
+
+MODULE (BCM)
+
+K
+
+10A
+
+11-1
+
+10A
+
+1347
+
+13-20
+
+LIN 1 SWM
+
+R
+
+e ——
+
+—m——
+
+R
+
+[
+
+[ —
+
+[
+
+ceeee
+
+eeeeees
+
+eeee=s
+
+€2280D
+
+35- r C2280D
+
+2
+
+SBP18
+
+YE-RD
+
+@ S272
+
+P
+
+-
+
+‘ ‘ c210
+
+2
+
+-a
+
+csees
+
+ccaee
+
+1 ~C2414
+
+STEERING
+
+--
+
+EE——
+
+EE———
+
+coo
+
+COLUMN
+
+VBATT
+
+g{ODUlE (sccM
+
+1-22
+
+2414
+
+'VDNOS
+
+YE-GY
+
+LIN1SWM
+
+™
+
+@ sS216
+
+v 11
+
+LIN1SWM
+
+'VDNO5S
+
+YE-GY
+
+e
+
+| SENSOR LANE DEPARTURE WARNING
+
+CCCODO000O00000000C0C0000000000000]
+
+Q
+
+VDB04 WH-BU
+
+HSCAN+
+
+'VDBOS
+
+143
+
+GND
+
+HSCAN-
+
+—cocoooopooe
+
+e
+
+I
+
+L i
+
+10
+
+14
+
+C2414
+
+8
+
+o
+
+=
+
+o
+
+8
+
+@
+
+GD163
+
+BK
+
+S219
+
+G205
+
+=
+
+10-8

@@ -1,0 +1,163 @@
+ADAPTIVE CRUISE CONTROL
+
+2.2L
+
+TER. AND
+
+gI.US
+
+ILLUMINATION
+
+713 D—&
+
+1
+
+4
+
+L C2366
+
+STEERING WHEEL
+
+SWITCH
+
+LHLOWER
+
+1) On/Off
+
+1540
+
+732
+
+2) Reset/Cancel
+
+Yy
+
+3) Set+
+
+—1
+
+4) Set -
+
+5) Asld On/Off
+
+215
+
+6) Distance -
+
+158
+
+e
+
+7) Distance +
+
+15123
+
+13
+
+147
+
+prEisy
+
+143
+
+e
+
+R
+
+FEEEEEETEEsEE s s e s s e s e
+
+¥
+
+£
+
+52
+
+C2366
+
+2
+
+@ 52010
+
+15
+
+16
+
+A
+
+10
+
+C218B
+
+A4
+
+P
+
+==
+
+Scoo
+
+55
+
+ey ———
+
+=cc
+
+5o
+
+%1-22 151-23(3
+
+(o]
+
+Sod[Bocccoood Bococon
+
+P Y VSRR
+
+Eod
+
+Y
+
+¥
+
+3
+
+C218A
+
+E (kS
+
+e ———
+
+Y p———
+
+S](;E\E‘FR%S COLUMN
+
+all =
+
+CRUISE
+
+CRUISE
+
+CRUISE
+
+&ODULE (sccmvy
+
+SIG1
+
+GND
+
+SIG2
+
+15122
+
+@ 5226
+
+he
+
+ccoooo
+
+S
+
+-
+
+G206
+
+10-9

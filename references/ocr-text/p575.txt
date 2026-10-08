@@ -1,0 +1,195 @@
+SYNC
+
+Hot at
+
+2.2L
+
+all times
+
+===
+
+Secooa
+
+AUXILIARY
+
+JUNCTION
+
+F37
+
+BOX (AJB)
+
+75A
+
+111
+
+13-22
+
+e
+
+=
+
+70
+
+c210
+
+C263
+
+SB137
+
+GY-RD
+
+SB137
+
+GY-RD
+
+$200
+
+1 ~C2333
+
+1 § C2398
+
+‘GLOBAL POSITIONING
+
+TSt
+
+NC
+
+TEM MODULE (GPSM)
+
+VBATT
+
+I’
+
+VBATT
+
+151-16 151-20
+
+et
+
+5
+
+&
+
+o VDB06 GY-OG
+
+C2398
+
+MS CAN+
+
+UNIVERSAL
+
+2
+
+i
+
+T
+
+GY
+
+<
+
+146
+
+y
+
+USB
+
+gUS (USB)
+
+G (l’ VDB07 _ VI-OG
+
+<
+
+MS CAN -
+
+3
+
+151-16 151-20
+
+VDBO04
+
+WH-BU
+
+HSCAN+
+
+lC2383
+
+3
+
+COMONcATIONS
+
+NETWORK
+
+'VDBO3
+
+WH
+
+144
+
+HSCAN-
+
+-
+
+54
+
+Dt
+
+VDB13
+
+BU-GY
+
+ICAN+
+
+MODULE
+
+16
+
+COMMUNICATIONS
+
+e
+
+VDB14
+
+VI-GY
+
+142
+
+NE
+
+ICAN-
+
+VCDQE
+
+17
+
+Dt
+
+B
+
+PWR
+
+GND
+
+P e 1----'
+
+==
+
+37
+
+38
+
+C2383
+
+1 VCZGB
+
+@ 5222
+
+@ S201
+
+G201
+
+G200
+
+10-5
+
+10-6

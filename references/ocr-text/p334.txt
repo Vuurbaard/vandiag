@@ -1,0 +1,235 @@
+Hot in Start
+
+PASSENGER AIRBAG
+
+2.0L
+
+Yy
+
+e p———
+
+BODY
+
+CONTROL
+
+MODULE (BCM)
+
+[
+
+-
+
+-
+
+13-101
+
+11-17
+
+1+ Wi
+
+1 Do not at
+
+to diagnose or troubleshoot
+
+Lo
+
+EEee——
+
+'S
+
+femerts
+
+Restraint System circuitry without
+
+| consulting the We
+
+| troubleshooting coul
+
+1d cause the supplemental
+
+C02280A
+
+1 testraints to deploy inadvertently,
+
+H causing injury.
+
+e e e e e e
+
+R
+
+- - -
+
+! multi-fonction
+
+! display
+
+-
+
+2 ¥ oot
+
+I
+
+e e e = T
+
+RESTRAINTS
+
+CONTROL
+
+MODULE
+
+15193 15195
+
+multi-function.
+
++Cl)253
+
+display
+
+550
+
+MESSAGE
+
+PR
+
+CENTER
+
+SWITCH
+
+C0264
+
+60-15
+
+PADON
+
+L C03104
+
+CR114
+
+YE-OG
+
+00310
+
+CR114
+
+YE-OG
+
+0253,
+
+IND +
+
+INDICATOR.
+
+<
+
+2713
+
+CR116
+
+GN-WH
+
+CR116
+
+GN-WH
+
+PAD OFF INDICATOR.
+
+i IND -
+
+20
+
+P
+
+C0253
+
+PASS%GF_R
+
+DEACTIVATION
+
+AD) SWITCH
+
+151-77 151-81
+
+=
+
+PASS ROW
+
+CR225
+
+CR225
+
+YE
+
+C02099
+
+CH
+
+FFTRDL
+
+26
+
+4
+
+—
+
+—— s
+
+| multi-function
+
+@ 5206
+
+i dsplay
+
+RR224
+
+GY-BU
+
+RR224
+
+&
+
+ACS RETURN
+
+GY-%L'
+
+vy 14
+
+30
+
+C0263
+
+e
+
+e
+
+-
+
+-
+
+PASSROW
+
+"
+
+CR224
+
+GN
+
+CR224
+
+GN
+
+N
+
+@ 5222
+
+:S\IR.BAG CONTROL
+
+25
+
+=
+
+G0201
+
+CooCCCcOoOoooocoonoa000000
+
+10-38
+
+10-39

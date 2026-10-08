@@ -1,0 +1,235 @@
+Start/Stop Bus
+
+MULTI-FUNCTION DISPLAY
+
+2.0L
+
+[Ep—
+
+[Ep——
+
+BODY
+
+F32
+
+CONTROL
+
+10A
+
+MODULE (BCM)
+
+-
+
+13-103
+
+—oadl=
+
+C02280A
+
+o
+
+Y cozes
+
+@ 5207
+
+o
+
+|~
+
+1
+
+A
+
+L C02123A
+
+Soocccccooooo—dbcooooooooocooooo o0
+
+FRONT CONTROL/
+
+VBATT
+
+DISPLAY INTERFACE
+
+MODULE (FCDIM)
+
+15179 151-83
+
+e
+
+MESSAGE
+
+lCOZIZBA
+
+VMC49
+
+VI-GY
+
+C0253
+
+'
+
+SWITCH
+
+SELECT
+
+™
+
+SELECT
+
+'
+
+60-15
+
+Ccooooocccooo
+
+HS3CAN+
+
+VDB29
+
+GN-BU
+
+HS3CAN -
+
+VDB30
+
+WH-GN l
+
+T
+
+% ; 14-10 %?%CAHONS
+
+rear view camera
+
+Pt
+
+e
+
+F-=-a
+
+navigation
+
+:COllZSB !
+
+VME19
+
+WH.GN [ GN ! havigation
+
+'VIDEO +
+
+'
+
+T
+
+1458
+
+1459
+
+PARKING AID
+
+RMI.IQ
+
+BN
+
+VT
+
+| BU
+
+'
+
+[
+
+VIDEO -
+
+12
+
+"
+
+'
+
+R
+
+R
+
+[ ——
+
+[
+
+RN
+
+[
+
+[ —
+
+[
+
+[ —
+
+EE——
+
+AUDIO
+
+VMNO07
+
+GY
+
+NAV+
+
+CO240A
+
+<
+
+NAV+
+
+MODULE (ACM)
+
+RMNO7
+
+VT
+
+151-79 151-83
+
+GND
+
+GND
+
+NAV -
+
+NAV-
+
+boooqao
+
+cooooo
+
+Sooccccocooaod
+
+12
+
+cocooooo0o00
+
+===
+
+¥
+
+L e
+
+€0263- 1
+
+$222
+
+GD216  BK-VT
+
+BK-VT
+
+GD216
+
+BK-VT
+
+GD216  BK-VT
+
+>
+
+G0201
+
+5206
+
+10-39

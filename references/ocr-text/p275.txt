@@ -1,0 +1,57 @@
+P ——
+
+POWERTRAIN
+
+2.0L
+
+MODULE (PCM)
+
+air conditioning
+
+e e e e ccm i cmcm e cccccmccmmmmmmmmmmmmmmm
+
+N C0175B
+
+RH433
+
+BU-GY
+
+SIGRTN
+
+™
+
+29
+
+1 I C01260
+
+AIR CONDITIONING
+
+ne
+
+VT-0G
+
+TRANSDUCER
+
+(A/C) PRESSURE
+
+ACPT
+
+V§433
+
+151-66
+
+10
+
+C01260
+
+LH315
+
+WH-GN
+
+J
+
+48
+
+e e e
+
+bocoooooococoosooooon

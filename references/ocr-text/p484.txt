@@ -1,0 +1,169 @@
+Hotat
+
+all times
+
+2.0L
+
+e
+
+EEE——
+
+AUXILIARY
+
+JUNCTION
+
+F18
+
+BOX (AJB)
+
+10A
+
+11-11
+
+13-86
+
+codboooaod
+
+CONTROL
+
+MODULE (PCM)
+
+24-20
+
+=]
+
+CCB15
+
+BN-GN
+
+0139 ;37
+
+CCB15
+
+BN-GN
+
+COl']SB‘
+
+BPS
+
+>-
+
+2
+
+C0278
+
+A
+
+eecesscacsssd
+
+BRAKE PED:
+
+POSITION (BPP)
+
+SWITCH
+
+1) Brake non-applied
+
+/.
+
+2) Brake applied
+
+15193 15197
+
+¥
+
+3
+
+278
+
+J—
+
+——— e —
+
+-
+
+R
+
+"
+
+&
+
+a
+
+@ 5288
+
+@ 5286
+
+=
+
+=4
+
+8
+
+=
+
+I3
+
+&
+
+a
+
+G0307
+
+G0304
+
+S---cocooooooog
+
+10-52
+
+= 1049
+
+SIODULE @eM)
+
+S
+
+L
+
+11-17
+
+left hand drive
+
+right hand drive
+
+C0268 - 14
+
+C0139 - 41
+
+C02280A
+
+CCBO8
+
+VT-WH
+
+$260
+
+CCB08
+
+VI-WH
+
+CCBO08
+
+VT-WH
+
+BOO FEED
+
+———
+
+>
+
+—€
+
+BPP
+
+1
+
+22
+
+e
+
+oo oOOCOo00s

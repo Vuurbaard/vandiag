@@ -1,0 +1,201 @@
+SVO AUXILIARY FUSE PANEL
+
+2.2L
+
+BiE
+
+===
+
+R7
+
+=
+
+2
+
+R6
+
+=
+
+=
+
+R4
+
+3
+
+oo
+
+g
+
+g
+
+3
+
+5
+
+=
+
+1
+
+3
+
+5
+
+=
+
+1
+
+3
+
+5
+
+=
+
+s
+
+2
+
+=
+
+2
+
+R1
+
+=
+
+0ooo
+
+1 4
+
+2
+
+ug
+
+3
+
+5
+
+=
+
+0
+
+=
+
+1
+
+o
+
+=
+
+Relay
+
+Fuse
+
+Amps
+
+Circuit protected
+
+R1
+
+Beacon relay
+
+F1
+
+Beacon switch
+
+‘Water heater switch
+
+Auxiliary switch 1
+
+Ignition relay
+
+Auxiliary switch 2
+
+Water heater relay - auxiliary heater
+
+F2
+
+20
+
+Not used
+
+Auxiliary relay 2 - utility package
+
+F3
+
+20
+
+R4
+
+Beacon relay
+
+Work lamp relay
+
+F4
+
+20
+
+Ignition relay
+
+Tum signal relay LH - roof mounted tum signals
+
+F5
+
+15
+
+Water heater relay
+
+Auxiliary relay 1 - utility package
+
+Ausiliary relay
+
+sy
+
+R6
+
+F6
+
+15
+
+Work lamp relay
+
+Tum signal relay RH
+
+F7
+
+15
+
+Turn signal relay LE.
+
+R7
+
+Interior lamp relay
+
+Turn signal relay RH
+
+Auxiliary relay
+
+F8
+
+10
+
+Interior lamp relay
+
+F9
+
+20
+
+2 way radio
+
+F10
+
+Not used
+
+F11
+
+15
+
+Not used
+
+F12
+
+Not used

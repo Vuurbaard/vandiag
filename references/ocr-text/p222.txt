@@ -1,0 +1,55 @@
+WITHOUT MULTI-FUNCTION DISPLAY
+
+2.0L
+
+Not used
+
+Not used
+
+4
+
+1\ 02122
+
+2
+
+INSTRUMENT
+
+=
+
+=
+
+Z=
+
+CLUSTER (IPC)
+
+COnMONcATIONS
+
+NETW
+
+$236
+
+Y=y
+
+VDB%Q
+
+GN-BU
+
+VDB%Q GN-BU
+
+| HS3CAN+
+
+14-8 A >
+
+COZZOé
+
+§237
+
+'VDB30
+
+WH-GN
+
+VDB30 WH-GN
+
+HS3CAN-
+
+boooooocooood

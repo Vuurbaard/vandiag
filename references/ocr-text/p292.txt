@@ -1,0 +1,195 @@
+ADAPTIVE CRUISE
+
+2.0L
+
+WITHOUT STOP AND START
+
+Hot in Start or Run
+
+oy
+
+y———
+
+;
+
+ﬁ‘NCTlON
+
+F44
+
+BOX (AJB)
+
+10A
+
+11-11
+
+13.75
+
+(P
+
+i
+
+CDC78 BK
+
+CDC78 VT-BN.
+
+$253
+
+C02513
+
+BK
+
+C0192‘v 1
+
+<
+
+>
+
+| Co2s13
+
+B
+
+C01582
+
+1
+
+PROXIMITY WARNING
+
+VPWR
+
+RADAR UNIT
+
+151-68
+
+\COISBI
+
+VDB25 BK
+
+HS2CAN+
+
+> 1413
+
+MODU
+
+COMM
+
+VDB26 BK
+
+NI
+
+%}]‘{CATIO,\'S
+
+HS2CAN -
+
+< 1413
+
+AUTO-DIMMING
+
+INTERIOR
+
+MIRROR.
+
+124-10
+
+C0192
+
+€0311
+
+cccoo
+
+VMF04 _BK
+
+VMF04 BN-BU
+
+VMF04 BN-BU
+
+Cl)zl 3
+
+VMEF04 BN-BU
+
+C09012x
+
+CAN+
+
+'
+
+>
+
+CAN+
+
+9
+
+'
+
+1
+
+31
+
+VMFO05 BK
+
+VMF05 GY-BU
+
+'
+
+VMF05 GY-BU
+
+'
+
+VMF05_GY-BU
+
+'
+
+CAN -
+
+>
+
+>
+
+N
+
+>-
+
+CAN -
+
+138
+
+m‘:
+
+45
+
+2
+
+4
+
+cooooooooot
+
+GND
+
+I
+
+4
+
+C01582
+
+anti-theft alarm system
+
+[
+
+S185
+
+GD124
+
+BK
+
+GD124 BK
+
+GD124 BK-VT
+
+Slil
+
+GD124 BK-VT
+
+G0109
+
+R
+
+10-35

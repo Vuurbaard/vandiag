@@ -1,0 +1,307 @@
+AUXILIARY JUNCTION BOX (AJB)
+
+2.0L
+
+Fuse
+
+Amps
+
+Circuit protected
+
+Fuse
+
+Amps
+
+Circuit protected
+
+F1
+
+60
+
+Front wiper relay
+
+F28
+
+Not used
+
+F2
+
+40
+
+Blower motor relay
+
+F29
+
+Ausiliary blower motor relay
+
+F3
+
+Not used
+
+F30
+
+20
+
+Rear passenger power outlet socket
+
+F4
+
+Heated rear window relay
+
+F31
+
+30
+
+Heated rear window element
+
+F5
+
+Trailer module
+
+F32
+
+Run/start relay
+
+F6
+
+Auxiliary power point relay
+
+F33
+
+Fuel pump relay
+
+F7
+
+Power poiat relay
+
+Fi4
+
+Heated windshield element LH relay
+
+F8
+
+20
+
+Horn relay
+
+F35
+
+Heated windshield element RH relay
+
+F9
+
+15
+
+Rear washer relay
+
+F36
+
+50
+
+Body Control Module (BCM)
+
+F10
+
+10
+
+Hom relay
+
+Blower motor relay
+
+F37
+
+50
+
+Body Control Module (BCM) - F1
+
+Power poiat relay
+
+Auxiliary power point relay
+
+F38
+
+Not used
+
+Front wiper relay
+
+F11
+
+Not used
+
+F39
+
+20
+
+Heated front seat switch
+
+F40
+
+F12
+
+Not used
+
+Glow plug module
+
+Powertrain Control Module (PCM)
+
+F13
+
+20
+
+Auxiliary power point
+
+F41
+
+Fuel fired booster heater relay
+
+Fl4
+
+20
+
+Front power outlet socket
+
+F42
+
+Headlamp assembly LH
+
+F15
+
+50
+
+Low voltage Direct Current/Direct
+
+Headlamp assembly RH
+
+Current
+
+'DC) converter
+
+Headlamp switch
+
+Body Control Module (BCM) - F12, F13, F32, F33
+
+F43
+
+Transmission Control Module (TCM)
+
+F16
+
+25
+
+Transmission auxiliary oil pump
+
+(ABS) module
+
+Antifock Brake System
+
+Fa4
+
+10
+
+Low voltage Direct Current/Direct Current (DC/DC) converter
+
+F17
+
+Fuel pump relay
+
+Vehicle Dynamics Module (VDM)
+
+Powertrain Control Module (PCM) power relay
+
+Proximity warnins
+
+Auxiliary blower motor switch
+
+F18
+
+10
+
+Brake Pedal Position (BPP) switch
+
+Rear parking id camera
+
+F19
+
+15
+
+External locking relay
+
+F45
+
+20
+
+Adaptive front lighting module
+
+F20
+
+Fuel fired booster heater
+
+F46
+
+Auxiliary blower motor relay
+
+control m
+
+Heated windshield element LH relay
+
+Heated windshield element RH relay
+
+F21
+
+15
+
+Transmission Control Module (TCM)
+
+Heated rear window relay
+
+2
+
+25
+
+Transmission auxiliary oil pump
+
+F47
+
+Anti-lock Brake System (ABS) module
+
+F23
+
+Not used
+
+F48
+
+10
+
+Customer access
+
+F24
+
+10
+
+Exterior mirror LH
+
+F49
+
+20
+
+Rear window wiper motor
+
+Exterior mirror RH
+
+F25
+
+75
+
+Driver door latch
+
+F26
+
+.
+
+7
+
+Passenger door latch
+
+F27
+
+Not used

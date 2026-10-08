@@ -1,0 +1,159 @@
+Hot at all times
+
+Hot in Start or Run.
+
+2.0L
+
+Ey———
+
+Py y——————————
+
+Py ——————
+
+JUNCTION
+
+BOX (AJB)
+
+22
+
+F43
+
+11-
+
+25A
+
+13-87
+
+13.74
+
+b
+
+.
+
+a
+
+o
+
+S
+
+0139
+
+=
+
+&
+
+@ S104
+
+18
+
+Co134
+
+[ p——
+
+=]
+
+o
+
+TRANSMISSION
+
+]
+
+CONTROL
+
+01792
+
+MODULE (TCM)
+
+g
+
+TRANSMISSION
+
+- -
+
+VBATT
+
+VPWR
+
+Al
+
+OIL PUMP
+
+151-76
+
+0134
+
+C01822
+
+AUX TRANS FLUID
+
+>
+
+\001792
+
+VYTI11
+
+VI-GY
+
+VYTI11
+
+VT-GY
+
+<€
+
+AUX TRANS FLUID
+
+PRESS CONTROL
+
+"4
+
+10
+
+17
+
+i
+
+PRESS CONTROL
+
+'
+
+'
+
+AUX TRANS FL!
+
+N
+
+VYT12 YE-GN
+
+VYT12 YE-GN
+
+AUX TRANS FLI
+
+PRESS MONITOR
+
+5
+
+1
+
+52
+
+PRESS MONITOR
+
+GND
+
+T
+
+S
+
+6
+
+€01792
+
+=
+
+@ 5150
+
+=
+
+Go111
+
+10-36

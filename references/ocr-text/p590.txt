@@ -1,0 +1,145 @@
+MULTI-FUNCTION DISPLAY
+
+2.0L
+
+REAR SPEAKERS
+
+Scccooooooooooooooog
+
+AUDIO
+
+FRONT
+
+CONTROL
+
+MODULE (ACM)
+
+151-79 151-83
+
+C0264
+
+0300
+
+C0240A
+
+VME1S
+
+GN-BU
+
+o
+
+002:0
+
+009:05
+
+VME1S
+
+GN-BU
+
+09452 L
+
+DLE
+
+LM SPKR+
+
+e
+
+13
+
+'
+
+53
+
+GY-BU
+
+|
+
+'
+
+N
+
+'iSl
+
+GY-BU
+
+151-116
+
+LM SPKR-
+
+RME15
+
+RME15
+
+20
+
+14
+
+V54
+
+752
+
+9
+
+MIDDLE
+
+RM SPKR+
+
+N C0240B
+
+VMI.|6 VI-GY
+
+VM:.]G VI.GY
+
+C09453‘
+
+'
+
+V4
+
+55
+
+D
+
+)
+
+T
+
+'
+
+151-116
+
+RM SPKR-
+
+S
+
+RME16 YE-GY
+
+l 15::
+
+.
+
+RME16
+
+YE-GY
+
+]
+
+&
+
+3
+
+>
+
+17
+
+16
+
+56
+
+7ss
+
+)
+
+Eeccommomoocoomaoond
+
+3

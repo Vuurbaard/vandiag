@@ -1,0 +1,159 @@
+[E—
+
+[
+
+[
+
+to diagnose or troubleshoot
+
+RESTRAINTS
+
+2.2L
+
+! Supplﬂnmhr
+
+Restraint S
+
+stem circuitry without
+
+CONTROL
+
+| consulting
+
+sulting the W
+
+oper
+
+ital
+
+MODULE (RCM)
+
+| troubleshooting could cause the supp!
+
+151-30 15134
+
+1 festraints to deploy inadvertently,
+
+1 causing injury
+
+e e e e e o
+
+SoCooooooooooocoooooooooo0g
+
+side airbags
+
+e
+
+VR217
+
+GY-YE
+
+C310B
+
+DRVR_SIDE
+
+<r
+
+44
+
+RR131
+
+VI-GY
+
+DRVR_SIDE
+
+43
+
+IM SN_RIN™
+
+By
+
+2
+
+C3248
+
+DRIVER SIDE
+
+SENSOR.
+
+151-26
+
+VR218
+
+YE-OG
+
+PASS SIDE
+
+45
+
+RR132
+
+BU-WH
+
+<
+
+PASS SIDE
+
+46
+
+- o
+
+1C3249
+
+PASSENGER SIDE
+
+SENSOR.
+
+15127
+
+e e
+
+VR213
+
+VT-GN
+
+C192
+
+VR213
+
+VT-GN
+
+C310A
+
+FRT CR
+
+SN_FEED
+
+1n
+
+17
+
+RR129
+
+YE-GY
+
+RR129
+
+YE-GY
+
+FRT CR.
+
+2
+
+C1465
+
+18
+
+SN_RIN
+
+A
+
+Spp——
+
+IMPACT SEVERITY
+
+1515
+
+U —
+
+R ——

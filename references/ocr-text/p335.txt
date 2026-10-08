@@ -1,0 +1,279 @@
+e e e e
+
+SIDE AIRBAGS
+
+' W
+
+1 Do not att
+
+2.0L
+
+! Suppleme
+
+Restraint Sy
+
+t o diagnose of troubleshoot
+
+ysem clacuitey without
+
+! consulting the Workshop
+
+| troubleshooting could cause the supplemental
+
+| estraints to deploy inadvertently,
+
+1 causing injury
+
+[
+
+e e e e
+
+Scooooc—cocooo-ooooocooo
+
+RESTRAINTS
+
+CONTROL
+
+MODULE (RCM)
+
+15193 151.95
+
+0310B
+
+CR1035
+
+GN-BU
+
+C0341A
+
+DRIVER
+
+DRVR_SIDE_AIR_FEED
+
+SIDE
+
+~
+
+AIRBAG
+
+RR105
+
+GY-YE
+
+) B
+
+151-112
+
+DRVR_SIDE_AIR_RTN
+
+39
+
+CR106
+
+VI.GY
+
+C03660B
+
+PASSENGER
+
+PASS_SIDE_AIR_FEED
+
+ne
+
+<
+
+SIDE AIRBAG
+
+37
+
+151-114
+
+RR106
+
+YE-OG
+
+N
+
+PASS_SIDE_AIR_ RTN
+
+hiy
+
+38
+
+O
+
+right hand drive
+
+right hand drive
+
+[ a——
+
+A
+
+C0310A
+
+€0300
+
+'
+
+C0311
+
+CR109
+
+BN-BU
+
+CR109
+
+BN-BU
+
+|
+
+CR111
+
+BN-WH
+
+o
+
+C09018
+
+DRIVER SIDE
+
+DRVR SIDE_CANOPY_FEED
+
+e
+
+AR
+
+AIN
+
+2
+
+10
+
+10
+
+1y
+
+<
+
+151-87 151-88
+
+RR109
+
+BU-GN
+
+RR109
+
+BU-.GN
+
+RR111
+
+YE-VT
+
+) B
+
+DRVR SIDE_CANOPY_RTN
+
+21
+
+11
+
+1
+
+[ —
+
+[
+
+right hand drive
+
+right hand drive
+
+ja——
+
+-
+
+€311
+
+'
+
+C0300 |
+
+'
+
+qQ CRI11
+
+BN-WH
+
+N
+
+CRI111
+
+BN-WH
+
+'
+
+CR109
+
+BN-BU
+
+L
+
+C09019
+
+PASSENGER SIDE
+
+PASS SIDE_CANOPY_FEED
+
+4
+
+v
+
+YE-VT
+
+N
+
+10
+
+10
+
+RR111
+
+YE-VT
+
+'
+
+'
+
+RR109
+
+BU-GN
+
+'
+
+|51 87 151 88
+
+PASS SIDE_CABOPY_RTN
+
+X RRI111
+
+L
+
+|
+
+1B
+
+'
+
+u O
+
+1
+
+1
+
+[
+
+Cooooooocooootooonconnod
+
+'
+
+Lo

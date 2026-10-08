@@ -1,0 +1,205 @@
+G308
+
+T e
+
+AUXILIARY
+
+2.2L
+
+Climate tontrol
+
+JUNCTION
+
+e
+
+o O o o o o 5 ) N o o S S N S S S I S S D
+
+BOX (AJB)
+
+———
+
+1-1
+
+AUXILIARY
+
+D241
+
+BK-BU
+
+BLOWER
+
+MOTOR
+
+Sp——
+
+RELAY
+
+521
+
+SO O S e O OO SO
+
+fuel fired
+
+‘booster heater
+
+e e -
+
+e B O e e e S S S e O S s e e e e
+
+~ocooc
+
+FUEL FIRED
+
+GD241
+
+BK-BU
+
+BOOSTER
+
+HEATER
+
+p——
+
+RELAY
+
+543
+
+e
+
+O P RO
+
+e
+
+AU
+
+GD241
+
+BK-BU
+
+IGNITION RELAY 2
+
+8274
+
+13-14
+
+p———
+
+I
+
+AUXILIARY
+
+GD241
+
+BK-BU
+
+IGNITION RELAY
+
+13-14
+
+2
+
+et o—scccccoooo———ccco—o—ccc—ooo
+
+=
+
+S=—---—cco--—oocccoo-—o——==o
+
+BATTERY
+
+JUNCTION
+
+5 VC139
+
+.
+
+BOX (BIB)
+
+GD241
+
+BK-BU
+
+IGNITION
+
+13
+
+2
+
++ RELAY
+
+=
+
+2
+
+1136
+
+without:
+
+[ ——
+
+Econetic
+
+Econetic
+
+R
+
+e o
+
+PR
+
+WINDSHIELD
+
+L.
+
+1 WIPER
+
+GD241
+
+BK-BU
+
+MOTOR
+
+3 S117 @
+
+RELAY
+
+~oocod
+
+1 81
+
+o
+
+e
+
+e
+
+Coooooos
+
+Ct
+
+AN
+
+GD241
+
+BK-BU
+
+C1912
+
+-1
+
+GD129
+
+BK-YE
+
+C1913
+
+<
+
+2
+
+E\_’PASS VALVE
+
+<
+
+e e e e e e e e e e e e e e e e e e e e e m— e e e e e m e e e e m e e m e e e e e mmmmmmmmmm————— e
+
+?5310-833 151-35

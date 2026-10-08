@@ -1,0 +1,175 @@
+Hotat
+
+Hot in Start
+
+all times
+
+2.2L
+
+-
+
+Seccoo=
+
+BODY
+
+Scccoooo5
+
+IGNITION
+
+CONTROL
+
+W,
+
+F13
+
+MODULE (BCM)
+
+13-10 13-11
+
+15A
+
+1332
+
+Lecocccsoos
+
+Lo
+
+cooooco
+
+€250
+
+3
+
+I €2280D
+
+'VDB06
+
+GY-0G
+
+COMMUNICATIONS
+
+[ e
+
+NE
+
+o
+
+VDB07
+
+VT-0G
+
+< K 146
+
+S
+
+multi-function
+
+display
+
+e
+
+ggﬁmmmnorzs
+
+8224
+
+NETW(
+
+VDB13
+
+BU-GY
+
+P
+
+VDB14
+
+VT-GY
+
+< B 142
+
+|
+
+R
+
+o o e m e m
+
+16
+
+1
+
+€251
+
+-
+
+an
+
+o
+
+DATA LINK
+
+CONNECTOR
+
+L(
+
+151-14 15118
+
+VBATT
+
+VPWR
+
+MS CAN+
+
+MS CAN -
+
+ICAN+
+
+ICAN-
+
+GND
+
+HS CAN -
+
+HSCAN~+
+
+e e LR Er I E IR r
+
+TTTTTIIT
+
+Y
+
+¥
+
+~N
+
+b d
+
+M
+
+14
+
+€251
+
+COMMUNICATIONS
+
+NETW(
+
+P
+
+VDB04  WH-BU
+
+C > 143
+
+'VDBO03
+
+WH
+
+—~D_| 142
+
+G202
+
+G201
+
+=
+
+10-6
+
+= 10-6

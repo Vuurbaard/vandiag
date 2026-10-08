@@ -1279,3 +1279,27 @@ Sequential IDs: `T-001`, `T-002`, …
   - If both pairs can be back-probed here with C175B unplugged, the readings split the suspect stretch (T-047): both about 120 Ω means the break is after this connector; one about 120 Ω and one in kilo-ohms means the break is in the roof loop (C900, S904/S905) or in this connector's own terminals.
 - Evidence files/photos: `evidence/photos/2026-10-08-main-harness-branch-point.png`, `evidence/photos/2026-10-08-grey-connector-a-pillar-foot.png`; marked image for the follow-up: `evidence/photos/marked-grey-connector-can-pair-candidates.jpg`
 - Next action: back-probe each white and white-blue pair at the grey connector and measure the resistance across each pair.
+
+## T-057 — C311 pin list collected from the diagram; the grey connector's wire colours fit it
+
+- Date/time: 2026-10-08
+- Performed by: Sander (observation), Claude (diagram search)
+- Goal: The reporter found a white wire with a blue stripe at the grey connector (T-056) with no plain white wire next to it, and asked for a C311 pinout to check against.
+- Source: `Ford-Transit-Custom-1-2012-2020-–-Wiring-Diagrams.pdf`, all printed "2.2L": PDF pages 19, 112, 122, 125, 134, 217, 218, 406, 454, 521, 603, 604, 609, found by a fresh OCR pass over all 637 pages (text now kept in `references/ocr-text/`)
+- Vehicle state: key out; all three PCM connectors unplugged (T-055)
+- Tool and mode: N/A (visual, diagram read)
+- Connector state: nothing unplugged in the cabin
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result:
+  - Reporter: at the grey connector the wire is white and blue on the same wire, and it has no plain white wire beside it, unlike at the glovebox connector.
+  - Diagram: 23 pins of C311 identified with wire colours; full table in `references/diagram-notes.md`. The CAN pairs are on four consecutive pins: 42 (white-blue), 43 (white), 44 (white-blue), 45 (white). Three more white-blue wires are single wires on other circuits: pin 1 (interior light dimming), pin 12 (rear fog lamp, right), pin 53 (front parking aid sensor).
+  - The diagram has no face view of C311, so where each pin sits in the housing is not known.
+- Interpretation:
+  - A white-blue wire without a white partner is expected on C311; it does not count against the grey connector being C311.
+  - Colours visible in the T-056 photo of the grey connector include white-orange, yellow, violet/brown, green and several white-blue. White-orange (pin 15), yellow (pins 6, 41) and violet-brown (pin 24) are on the C311 list. That supports the identification; a photo is a weak basis, so it remains unconfirmed.
+  - The surest marks of C311 are the right-hand rear lamp colours together (green-brown, white-orange, green-orange, grey-violet on pins 13, 15, 16, 17) and two twisted white-blue and white pairs.
+  - Correction to T-043: the right sliding door ajar switch is on C311 pin 6, not pin 8.
+- Evidence files/photos: none new.
+- Next action: check the grey connector against the colour list; find the two twisted white-blue and white pairs and measure across each.

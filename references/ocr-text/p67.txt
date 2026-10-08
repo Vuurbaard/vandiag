@@ -1,0 +1,171 @@
+AUXILIARY JUNCTION BOX (AJB)
+
+2.2L
+
+1 ™ [T |
+
+[ 1M M
+
+n
+
+C283B
+
+E . . I ST ‘E. E..
+
+R1
+
+R3
+
+R4
+
+RS
+
+R6
+
+R7
+
+2
+
+2
+
+2
+
+E
+
+3O
+
+s
+
+s
+
+él[jaDs —
+
+13:|[]4|]5 —
+
+&IEIJDS
+
+I8
+
+DS
+
+Di
+
+00
+
+00
+
+| ]
+
+|-
+
+|
+
+| —]
+
+c
+
+!
+
+ry
+
+!
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Ca
+
+RO
+
+R10
+
+R11
+
+R12
+
+R13
+
+F50
+
+2
+
+2
+
+2
+
+, 2
+
+o 0«0s
+
+|3:|EI4[]5
+
+&?4['5
+
+élﬁﬂ]s
+
+&154[“
+
+|-
+
+1
+
+-
+
+o
+
+[N = I I . |
+
+U J
+
+Relay
+
+Relay
+
+R1
+
+Not used
+
+Fuel fired booster heater relay
+
+R2
+
+Auxiliary power point relay
+
+Blower motor relay
+
+Not used
+
+R10
+
+Ausiliary blower motor relay
+
+R4
+
+Auxiliary ignition relay 2
+
+Rl
+
+Heated rear window relay
+
+Not used
+
+RI12
+
+Heated windshield element RH relay
+
+Auxiliary ignition relay 1
+
+R13
+
+Heated windshield element LH relay
+
+R7
+
+Hom relay

@@ -1,0 +1,197 @@
+SR S EEEEEEE e
+
+BODY
+
+CONTROL
+
+2.0L
+
+MODULE (BCM)
+
+11-17
+
+151-93
+
+151-97
+
+CPL84
+
+GN-BN
+
+UNLOCK CARGO/LIFTGATE
+
+| C02280C
+
+731
+
+KEYI(.)I;.I-SES ENTRY
+
+AND ALARM
+
+117-30
+
+N C02280E
+
+CPL45
+
+BN
+
+117-32
+
+LIFTGATE RELEASE SWITCH
+
+>
+
+1
+
+ C02280F
+
+CMC19
+
+GY-VT
+
+BRAKE FLUID SWITCH
+
+Vs
+
+aSlIKRUMHﬂT CLUSTER
+
+RMC19
+
+YE-GY
+
+BRAKE FLUID RETURN
+
+35
+
+<]
+
+CE607
+
+BN-YE
+
+C03665 - 5
+
+ENGINE RUN
+
+>
+
+N
+
+Not used
+
+D
+
+CRH04
+
+VI-GN
+
+HORN RELAY CONTROL
+
+HORN/CIGAR LIGHTER.
+
+720
+
+<]
+
+Co——ccooo
+
+ANTI-THEFT
+
+C02280E
+
+VDNO4  VT-WH
+
+S137
+
+VDNO4  VI-WH
+
+C0154
+
+ALARM HORN
+
+LIN4
+
+WITH INTEGRAL
+
+Y Y Y R
+
+'
+
+37
+
+2
+
+BATTERY
+
+Looooocod
+
+117-35
+
+VDN04  VI-WH
+
+|
+
+53
+
+€0300
+
+lifigate
+
+B e e e e e e e e m e e m e e e e e e e m e e e e e e mmm e e mmmmmmmmmmmmm—————————
+
+===ccooo
+
+‘VDNO4
+
+VT-WH
+
+C0935- 6
+
+VDN04 BK
+
+C0406
+
+VDN0O4 BK
+
+C0494
+
+VMP24  WH
+
+C04357
+
+PARKING AID
+
+1455 1456
+
+-
+
+e e e e
+
+e
+
+rear doors
+
+e
+
+VDN0O4 BK
+
+CN22‘- 6
+
+VDN04 BK
+
+C0495 N 6
+
+VMP24 WH
+
+C04357
+
+PARKING AID
+
+Boo
+
+o
+
+1455 1456
+
+g

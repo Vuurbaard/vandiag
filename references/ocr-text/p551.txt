@@ -1,0 +1,149 @@
+Hot at
+
+2.2L
+
+all times
+
+=0
+
+ccooooo
+
+AUXILIARY
+
+JUNCTION
+
+F39
+
+75A
+
+BOX (AJB)
+
+11-1
+
+13-23
+
+Leoco
+
+=o
+
+DISTRIBUTION
+
+13-
+
+39hvc3|1
+
+g
+
+€900
+
+b
+
+-
+
+@ 5908
+
+'
+
+Thatcham category 1 alarm
+
+'
+
+ey —————
+
+BODY
+
+Lo
+
+R
+
+CONTROL
+
+MODULE (BCM)
+
+K
+
+RADIO
+
+FREQUENCY
+
+(RF) RECEIVER
+
+151-49
+
+POWER
+
+C€9026
+
+€311 - 21
+
+C900
+
+-9
+
+| C2280C
+
+VPL56
+
+BU-GY
+
+>
+
+VPL36
+
+BU-GY
+
+<
+
+SIGNAL
+
+>
+
+LINORFR
+
+>
+
+>
+
+<r
+
+1
+
+<
+
+GROUND
+
+@ 5909
+
+€913
+
+2
+
+c31
+
+C2280D
+
+VDB04
+
+WHBU o
+
+HSCAN+
+
+V52
+
+>
+
+HS CAN
+
+>
+
+143
+
+-
+
+s
+
+- VDB0S WH !
+
+G306
+
+10-19

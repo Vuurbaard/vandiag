@@ -1,0 +1,69 @@
+SYNC
+
+2.0L
+
+S’
+
+MODULE [APIM]
+
+151-79 151-83
+
+Soooocoos
+
+AUDIO
+
+INPUT
+
+1975 stes
+
+SHIELD
+
+BU
+
+P
+
+STINPUT 2L+
+
+|, C02362
+
+\"_\E-ﬁ
+
+0023831
+
+STEREO 2L+
+
+na
+
+45
+
+RME45
+
+YE-GN
+
+STINPUT 2L-
+
+<
+
+<
+
+STEREO 2L-
+
+"3
+
+n
+
+BU-GN
+
+ST INPUT 2R+
+
+\".\rE-tG
+
+STEREO 2R+
+
+DME45
+
+.-
+
+" STEREO SHIELD
+
+g

@@ -1,0 +1,237 @@
+WITHOUT:
+
+2.2L
+
+MULTI-FUNCTION DISPLAY
+
+Hotat
+
+Hot in Run
+
+all times
+
+or Acc
+
+Hot in Start
+
+Sooos
+
+SooooCCooooooooo0os
+
+Soooooooo0
+
+BODY
+
+SoooooEos
+
+CONTROL
+
+MODULE (BCM)
+
+13-10 13-11
+
+F16
+
+20A
+
+F21
+
+15
+
+1347
+
+13-52
+
+T
+
+Bocoe
+
+oot
+
+C250
+
+¥
+
+=
+
+—
+
+64
+
+42
+
+€2280D
+
+P
+
+§223
+
+=
+
+~
+
+[yaypyepepapn
+
+cecenes
+
+C240A
+
+Py -
+
+—cocoo
+
+R
+
+R —
+
+AUDIO
+
+VBATT
+
+VPWR
+
+START
+
+CONTROL
+
+MODULE (ACM)
+
+151-16 151-20
+
+R C240A
+
+CMEOS
+
+GN-BU
+
+STARTING
+
+START
+
+<
+
+SYSTEM
+
+20-2 203
+
+CLN17
+
+BN
+
+CLUSTER
+
+ILLUM
+
+N
+
+a4
+
+14
+
+{ >
+
+Pi\_l\'El. ILLUMINATION
+
+AUDIO
+
+INPUT
+
+==
+
+VME4S
+
+BU
+
+C2362
+
+STINPUT 2L+
+
+<
+
+ST INPUT 2L+
+
+?501-16 1151-20
+
+17
+
+4
+
+'
+
+N
+
+RMEA45
+
+YE-GN
+
+<
+
+'
+
+ST INPUT 2L-
+
+>
+
+'
+
+ST INPUT 2L-
+
+BU-GN
+
+'
+
+ST INPUT 2R+
+
+VINEAG
+
+&
+
+ST INPUT 2R+
+
+18
+
+STEREO SHIELD
+
+DMEA45 s
+
+16
+
+GND
+
+GND
+
+L=
+
+SR
+
+I
+
+Py P
+
+=
+
+===
+
+13
+
+15
+
+C240A
+
+$222
+
+GD116
+
+BK-VT
+
+GD116
+
+BK-VT
+
+G200
+
+G201
+
+10-5
+
+10-6

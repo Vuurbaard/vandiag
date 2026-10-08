@@ -1,0 +1,189 @@
+SCCCCooo-oooCooooooooocoooooo
+
+BODY
+
+2.0L
+
+CONTROL
+
+MODULE
+
+11-17
+
+15177
+
+151-81 151-93
+
+151.97
+
+ C02280E
+
+CPL30
+
+BU-BN
+
+‘CABIN UNLOCK SWITCH
+
+V16
+
+N
+
+CPL28
+
+VT-BN
+
+CABIN RESET SWITCH
+
+Vs
+
+CPL29
+
+YE-GY
+
+CABIN SET SWITCH
+
+30
+
+REMOTE
+
+CPL26
+
+GN-VT
+
+KEYLESS ENTRY
+
+AJAR DRIVER SWITCH
+
+N
+
+33
+
+117-15
+
+117-16
+
+117-17
+
+117-18
+
+CPL31
+
+WH
+
+117-19
+
+11720
+
+AJAR PASSENGER SWITCH
+
+are:
+
+21
+
+N
+
+CPL43
+
+VI-GY
+
+'UNLOCK SWITCH
+
+CPL42
+
+GY-YE
+
+LOCK SWITCH
+
+N
+
+17
+
+'VDNO3
+
+GY-VT
+
+LIN3SPL1
+
+>
+
+, C02280F
+
+4
+
+g:zleRGD\IG SYSTEM
+
+'VPL56
+
+BU-GY
+
+K-LINE
+
+N C02280B
+
+726
+
+sight
+
+REMOTE
+
+CPL39
+
+CPL36
+
+GN
+
+KEYLESS ENTRY
+
+AJAR RIGHT SIDE DOOR SWITCH
+
+C02220E
+
+T
+
+=
+
+19
+
+'
+
+46
+
+11727
+
+117-33
+
+'
+
+'
+
+CPL36
+
+CPL39
+
+AJAR LEFT SIDE DOOR SWITCH
+
+i
+
+P ———
+
+46
+
+19
+
+sight hand drive
+
+C02280A
+
+CCB08
+
+VI-WH
+
+BOO FEED
+
+w SIGNAL/STOP/HAZARD LAMPS
+
+Coco
+
+soooo
+
+1

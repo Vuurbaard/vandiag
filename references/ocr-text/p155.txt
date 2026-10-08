@@ -1,0 +1,163 @@
+F1,F2,F3,F71
+
+SocoooooccosSo=
+
+HIGH CURRENT
+
+2.0L
+
+BATTERY
+
+JUNCTION
+
+11-19
+
+15193
+
+ey -
+
+dual battery
+
+151-97
+
+Hotat
+
+BistRibuion
+
+all times
+
+SDC04 RD
+
+CO3670A
+
+F1
+
+ C03670C
+
+SBFO1
+
+RD
+
+13-63
+
+<
+
+>
+
+1
+
+470A
+
+1
+
+Hotat
+
+all times
+
+BODY
+
+e
+
+CONTROL
+
+MODULE (BCM)
+
+11-17
+
+151-93
+
+15197
+
+Ty
+
+C03670D
+
+SBF02
+
+YE
+
+>
+
+C02280H
+
+100A
+
+1
+
+1
+
+13-72
+
+S —
+
+POW
+
+e ————
+
+AUXILIARY
+
+DISTRIBUTION
+
+JUNCTION
+
+BOX (AJB)
+
+SDC02 __RD
+
+C03670B ,
+
+13-63
+
+<
+
+il-{l 151-93
+
+1
+
+Hot at
+
+all times
+
+SBF03
+
+BU
+
+F71
+
+SB171
+
+VT-RD
+
+ CO3670E
+
+>
+
+40A
+
+1
+
+40A
+
+[ ———
+
+C03664
+
+DIRECT CURRENT)
+
+=
+
+ALTERNATING CURRENT
+
+(DC/AC) INVERTER
+
+-9
+
+S
+
+C03501
+
+13-65
+
+o=l
+
+e

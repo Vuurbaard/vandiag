@@ -1,0 +1,153 @@
+oo ---------==
+
+AUXILIARY
+
+F50, F51
+
+JUNCTION
+
+BOX (AJB)
+
+2.2L
+
+11-1
+
+151-30
+
+15134
+
+A!DE!\I‘_IL?RY IGNITION
+
+BistRBUTIon
+
+CDC32 BN-YE
+
+GD241
+
+BK-BU
+
+S274
+
+GD241
+
+BK-BU
+
+1312 (GG >
+
+L
+
+G308
+
+-
+
+10-21
+
+I(;lrm:nsm
+
+CDC21
+
+GY-BN
+
+8§273
+
+CDC21
+
+GY-BN
+
+13-15
+
+x>
+
+CDC21
+
+GY-BN
+
+13-16
+
+2
+
+BistRBuTion
+
+CDC21
+
+GY-BN
+
+{aac>
+
+13-18
+
+CDC21
+
+GY-BN
+
+{rr >
+
+1320
+
+F50
+
+60A
+
+BistRiburion
+
+SBF09
+
+RD
+
+B3 [T >
+
+Hot at
+
+all times
+
+F51
+
+60A
+
+@
+
+CDC22_VI-O0G
+
+AlD\:.\[[?L;RY IGNITION
+
+{00 1319
+
+BsTRBUTION
+
+CDC22
+
+VT-0G
+
+CDC22  VT-OG
+
+279
+
+{rp > 1321
+
+BistRiBuion
+
+CDC32 BN-YE
+
+1
+
+2
+
+GD241
+
+BK-BU
+
+274
+
+GD241
+
+BK-BU
+
+1312 [HH >
+
+G308
+
+10-21
+
+got in Start
+
+Sooooccccoooooocooon

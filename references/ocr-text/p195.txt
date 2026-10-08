@@ -1,0 +1,207 @@
+F32,F33
+
+2.0L
+
+e
+
+BODY
+
+CONTROL
+
+MODULE (BCM)
+
+11-17
+
+151-77
+
+Start/Stop Bus
+
+151-81 15193
+
+15197
+
+13-102
+
+FI
+
+Sccooooo
+
+F32
+
+, Co2280C
+
+SBP32
+
+VT-RD
+
+Co311 -\39
+
+00900-\7
+
+SBP32
+
+VT-RD
+
+C09026
+
+FREQUENCY (RF)
+
+40-5
+
+117-33
+
+10A
+
+cocoasoo
+
+multi-function.
+
+[
+
+[
+
+[
+
+[ —
+
+——
+
+Coooooos
+
+FRONT CONTROL/
+
+, C02280A
+
+SBP32
+
+VT-RD
+
+C0264 R 6
+
+5207
+
+SBP32
+
+VT-RD
+
+C02123A,
+
+DISPLAY INTERFACE
+
+>
+
+MODULE (FCDIM)
+
+cocococoos
+
+111255_7 130-18
+
+ScocooooD
+
+NC
+
+SBP32
+
+VT-RD
+
+02383
+
+MODULE [APIM]
+
+40-5
+
+130-24
+
+e
+
+SYNC without navigation
+
+s
+
+e e
+
+S
+
+GLOBAL POSITIONING
+
+SBP32
+
+VT-RD
+
+C02398
+
+SYSTEM MODULE (GPSM)
+
+40-5
+
+130-24
+
+cooooood
+
+e e
+
+SCcoooon
+
+MESSAGE
+
+SBP32
+
+VT-RD
+
+C0253
+
+SWITCH
+
+[
+
+40-5
+
+60-15
+
+e
+
+T
+
+‘multi-fanction
+
+i S,
+
+ScooooooD
+
+AUDIO
+
+F33
+
+SBP33
+
+RD
+
+€0265- 7
+
+'
+
+SBP33
+
+RD
+
+FRONT
+
+C0240A
+
+CONTROL
+
+MODULE (ACM)
+
+20A
+
+.,
+
+oo
+
+40-5
+
+130-13
+
+conoocococoosoosoos
+
+130-19

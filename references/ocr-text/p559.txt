@@ -1,0 +1,309 @@
+LEFT HAND DRIVE
+
+TURN SIGNAL
+
+STOP/ HAZARD LAMPS
+
+2.2L
+
+Hotat
+
+all times
+
+%04
+
+e
+
+[p——
+
+HEATED WINDOW
+
+JUNCTION
+
+AUXILIARY
+
+B
+
+F35
+
+SA
+
+BOX (AJB)
+
+111
+
+-
+
+566 [ e
+
+13.
+
+-22
+
+2
+
+P
+
+e
+
+CPM20
+
+BK
+
+C6\26
+
+¥
+
+“a
+
+“
+
+C626
+
+2
+
+7
+
+e e
+
+CPM21
+
+BK
+
+== =] EXTERIOR.
+
+A6
+
+C339
+
+7
+
+|
+
+MIRROR.
+
+i 15143
+
+P
+
+CPM23
+
+BK
+
+CIok
+
+e R SR
+
+Sd
+
+RN
+
+————
+
+@ S508
+
+B8
+
+B9 |
+
+BlO‘ yCJ-lO
+
+“«
+
+=1
+
+w
+
+a
+
+Pl
+
+C340 - B11
+
+=
+
+P
+
+GD240
+
+BK
+
+)
+
+$603
+
+P
+
+6 kC527
+
+=
+
+<]
+
+EXTERIOR
+
+=
+
+M
+
+MIRROR
+
+B8
+
+A
+
+B9
+
+~
+
+BIOA~C339
+
+CONTROL
+
+el
+
+————
+
+G307
+
+SWITCH
+
+TURN SIGNAL
+
+10-20
+
+151-42
+
+STOP/ HAZARD LAMPS
+
+90-3
+
+HEATED WINDOW
+
+=
+
+o
+
+g
+
+- C527 L,
+
+C527
+
+CPM20
+
+BK
+
+=
+
+U
+
+HE1
+
+Cs21
+
+CPM16
+
+BK
+
+meee
+
+>
+
+¥
+
+CPM21
+
+BK
+
+C521
+
+$505
+
+)
+
+e P P
+
+~ = 71| EXTERIOR
+
+CPM17
+
+BK
+
+MIRROR
+
+@ 5504
+
+il
+
+:)sﬁ CPM23
+
+BK
+
+CPM23
+
+BK
+
+olo,
+
+FOLD
+
+P T
+
+e
+
+$503
+
+8 VCSZT
+
+C52
+
+521
+
+Bl1
+
+C339
+
+POWER MIRRORS
+
+GD134 BK .C339 (Bll
+
+122
+
+BK
+
+C339 -\AT
+
+CPM22
+
+GY-BN
+
+$505
+
+$504
+
+=
+
+>
+
+> 1242
+
+3
+
+=
+
+S}
+
+a
+
+=
+
+<
+
+G302
+
+G302
+
+10-13
+
+10-13

@@ -1,0 +1,201 @@
+BODY CONTROL MODULE (BCM)
+
+2.2L
+
+Fuse
+
+Amps
+
+Circuits protected
+
+Fuse
+
+Amps
+
+Circuits protected
+
+F1
+
+15
+
+Passenger door latch
+
+F12
+
+20
+
+Anti-theft alarm horn with
+
+Sliding door contact plate LH
+
+integral battery
+
+Anti-theft alarm horn LH
+
+§liding door contact plate R
+
+or late
+
+Anti-theft alarm horn RH
+
+F13
+
+15
+
+15
+
+Driver door latch
+
+Data Link Connector (DLC)
+
+Passenger door latch
+
+Glove compartment
+
+Sliding door contact plate LH
+
+Auxiliary power point relay
+
+Luggage compartment 3
+
+§iding door contactplte REL
+
+or lat
+
+Interior
+
+Liftgate latch
+
+Tiluminated vanity mirror lamps
+
+Footwell lamps
+
+15
+
+Ignition switch
+
+Auxiliary battery relay
+
+Fl14
+
+25
+
+Headlamp assemblies
+
+Rear lamp assemblies
+
+F4
+
+Exterior mirrors
+
+Module
+
+Parking Assist Control
+
+F15
+
+25
+
+Headlamp assembly LH
+
+Rear lamp assembly LH
+
+F5
+
+Autolamp and rain sensor
+
+License plate lamps
+
+Trailer module
+
+F6
+
+15
+
+Windshield washer pump
+
+Illumination lamps
+
+F16
+
+20
+
+Audio front Control Module (ACM)
+
+F7
+
+75
+
+Exterior mirrors
+
+F17
+
+75
+
+Instrument Panel Cluster (IPC)
+
+F8
+
+15
+
+Front fog lamps
+
+Blower motor switch
+
+F18
+
+10
+
+Headlamp switch
+
+Fo
+
+10
+
+Headlamp assembly RH
+
+rake Pedal Position (BPP) switch
+
+Steering Column Control Module (SCCM)
+
+F10
+
+10
+
+Headlamp assembly LH
+
+F19
+
+Front Control Display Interface
+
+Module (FCI
+
+F11
+
+25
+
+assembly RH
+
+Message center switch
+
+]
+
+assembly
+
+Rear lamp assembly
+
+F20
+
+Passive Aati-theft System
+
+Aut
+
+g
+
+(PATS) transceiver
+
+interior mirror
+
+F21
+
+Audio front Control Module (ACM)

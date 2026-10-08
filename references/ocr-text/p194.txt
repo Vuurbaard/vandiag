@@ -1,0 +1,159 @@
+F12,F13
+
+2.0L
+
+BODY
+
+EEEEE
+
+CONTROL
+
+MODULE (BCM)
+
+Start/Stop Bus
+
+11-17
+
+15177
+
+151-81
+
+13-86
+
+[ —
+
+Scocoooooo
+
+HEATING,
+
+F12
+
+SBP12
+
+GN-RD
+
+$230
+
+SBP12
+
+GN-RD
+
+VENTILATION
+
+ C02280A
+
+C02357A
+
+<
+
+AIR CONDITIONING (HVAC)
+
+75A
+
+10
+
+32
+
+Socooccs
+
+CONTROL MO}
+
+404 5414
+
+multi-function
+
+e
+
+C0263- 6
+
+SBP12
+
+GN-]
+
+<
+
+Not used
+
+R
+
+FE -
+
+|
+
+Scooooo0n
+
+F13
+
+8244
+
+INSTRI
+
+SBP13
+
+GY-RD
+
+SBP13
+
+GY-RD
+
+C0220
+
+P
+
+NEL
+
+A
+
+CLUSTER (IPC)
+
+75A
+
+EE———
+
+=eooooos
+
+TEERIN(
+
+SBP13
+
+GY-RD
+
+COr
+
+f COLUMN
+
+C02414,
+
+MODULE (SCCM)
+
+N4
+
+31-10 40-4
+
+13-103
+
+Booo
+
+81-10 859
+
+90-12 146-1
+
+e
+
+GATEWAY
+
+MODULE A
+
+SBP13
+
+GY-RD
+
+coal,
+
+24
+
+l‘i—‘; 40-4
+
+[y
+
+e —

@@ -1,0 +1,163 @@
+- ----------=<
+
+F47,F48. F49
+
+JUNCTION
+
+AUXILIARY
+
+EARLY PRODUCTION
+
+2.2L
+
+11-1
+
+151-30
+
+AUXILIARY
+
+POINT
+
+RELAY
+
+442
+
+BistRiBuTioN
+
+CLNO1
+
+GN-VT
+
+GD137
+
+BK-WH
+
+13-32
+
+1
+
+G303
+
+Hot at all times
+
+-
+
+10-14
+
+with batery saver
+
+relay engaged
+
+BistRiBuTion
+
+SB144
+
+GN-RD
+
+1324 >
+
+Hot at
+
+all times
+
+-
+
+=1
+
+F47
+
+€210 - 35
+
+C2031
+
+oo
+
+AUXILIARY
+
+CB147
+
+GN-BU
+
+CB147
+
+GN-BU
+
+<
+
+POWER
+
+<
+
+POINT
+
+20A
+
+e
+
+444
+
+rear passenger power outlet socket
+
+e e
+
+Sooooooo
+
+F48
+
+CB148
+
+GY-YE
+
+c311 - 31
+
+CB148
+
+GY-YE
+
+C979
+
+et
+
+MASSENGER
+
+OUTLET
+
+20A
+
+S
+
+SOCKET
+
+444
+
+e e e e
+
+F49
+
+o
+
+FRONT POWER.
+
+CB149
+
+VI-GY
+
+€210 - 27 cpuse  VIGY
+
+C2033
+
+OUTLET
+
+€
+
+2
+
+SOCKET
+
+20A
+
+Ceccoooo
+
+444
+
+L eoooocooooccoooaocoe

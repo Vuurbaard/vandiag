@@ -1,0 +1,103 @@
+Start/Stop Bus
+
+2.0L
+
+==
+
+—=c
+
+-
+
+BODY
+
+F13
+
+CONTROL
+
+7.5A
+
+MODULE (BCM)
+
+13-102
+
+11-17
+
+R
+
+C02280A
+
+@ 5244
+
+0220
+
+[ ——
+
+S ———
+
+INSTRUMENT
+
+VBATT
+
+CLUSTER
+
+151-78 151-82
+
+0220
+
+‘VDB29
+
+GN-BU
+
+HS3CAN+
+
+5
+
+B30 _WH-G!
+
+HS3CAN-
+
+149 1410 %g’%cAﬂONS
+
+|
+
+e
+
+automatic transmission
+
+R
+
+SELECTOR LEVER
+
+e
+
+CET52
+
+02810
+
+ASSEMBLY
+
+EETECT
+
+PDSNO
+
+-1
+
+e Cconns
+
+..
+
+--q---
+
+12
+
+€0220
+
+=
+
+@ 5222
+
+=
+
+S||=
+
+038" 1039

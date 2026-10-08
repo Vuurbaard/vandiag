@@ -1,0 +1,85 @@
+POWERTRAIN
+
+CONTROL
+
+2.0L
+
+MODULE (PCM)
+
+24-16 24-17
+
+AMBIENT AIR
+
+(AAT) SENSOR.
+
+151-69
+
+VE750
+
+GN-BU
+
+C0139
+
+VE750
+
+GN-BU
+
+C0132
+
+AAT
+
+N C0175B
+
+C0132
+
+52
+
+130
+
+2
+
+BN-VT
+
+RE335
+
+BN-VT
+
+SIGRTN
+
+e
+
+<€
+
+35
+
+27
+
+OPS
+
+LC!Jl7SE
+
+VET74
+
+YE-BU
+
+49
+
+1 licum}
+
+Locccooonocooc
+
+ENGINE
+
+OIL PRESSURE
+
+(EOP) SWITCH
+
+1) Low pressure
+
+2
+
+2) Normal level
+
+151-74
+
+-

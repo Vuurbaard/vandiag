@@ -1,0 +1,141 @@
+AUTOLAMPS
+
+2.2L
+
+ﬁmmsun
+
+—
+
+s
+
+BODY
+
+CONTROL
+
+MODULE (BCM)
+
+F5
+
+115
+
+13-52
+
+-
+
+e
+
+LIN 8 RSM
+
+g ———
+
+T c2som
+
+Y c2s0c
+
+=
+
+P
+
+® S265
+
+R
+
+2
+
+41
+
+Yo
+
+=
+
+I
+
+“
+
+2
+
+C1655
+
+Sooc BooEooo05
+
+LIN
+
+e
+
+.
+
+12
+
+10
+
+b d
+
+€913
+
+bocooocconoood
+
+WINDSHIELD
+
+MOTOR
+
+@ 5909
+
+813
+
+P
+
+=
+
+-
+
+e e e
+
+S
+
+€919
+
+"~ 77! lane departure warning
+
+A
+
+P e e e mmmmmmmm -
+
+R«
+
+a~
+
+S
+
+e
+
+R
+
+Z
+
+=
+
+[ -
+
+co14
+
+Ab........-..-..-...-..-..-1‘#..-..-..-...-..-..-.....
+
+af
+
+I
+
+AUTOLAMP
+
+GND
+
+VPWR
+
+LIN
+
+RAIN SENSOR.
+
+151-50
+
+G306
+
+= 10-19

@@ -1,0 +1,159 @@
+THATCHAM CATEGORY 1 ALARM
+
+Hot at
+
+2.2L
+
+Hot at
+
+all times
+
+all times
+
+Sooooooooooooooo o000
+
+T e ey ey e e e
+
+0D’
+
+[Ep—
+
+————c=o
+
+AUXILIARY
+
+CONTROL
+
+JUNCTION
+
+F12
+
+MODULE (BCM)
+
+F39
+
+BOX (AJB)
+
+11-5
+
+7.5A
+
+11-1
+
+%%2 13-37
+
+13-23
+
+LIN2IMS
+
+LIN2BBS
+
+Py
+
+P
+
+B
+
+[P,
+
+P
+
+49
+
+€2280C
+
+29 P VCZZROB
+
+47
+
+€2280C
+
+DISTRIBUTION
+
+13-23
+
+=
+
+=4
+
+[
+
+82
+
+51
+
+c3
+
+BQH
+
+£ 3
+
+5
+
+€900
+
+4
+
+€913
+
+=]
+
+2
+
+gz
+
+a
+
+=l
+
+D 5508
+
+=
+
+A
+
+4 9800
+
+hC154
+
+Po--
+
+INTRUSION
+
+SENSOR.
+
+151-49
+
+ALARM HORN
+
+WITH INTEGRAL
+
+151-6
+
+1 ‘VCOXOO
+
+H
+
+1 yClSd
+
+@ 5909
+
+7
+
+Co13
+
+B
+
+=
+
+22
+
+(o331
+
+G306
+
+10-19
+
+G108
+
+10-3

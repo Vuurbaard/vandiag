@@ -1,0 +1,95 @@
+WITHOUT:
+
+FUEL FIRED BOOSTER HEATER
+
+2.2L
+
+CONT;{OL SYSTE{{E
+
+54-1
+
+e
+
+S CCooooocco—oooo—ococooooo
+
+BLOWER MOTOR SWITCH
+
+151-16 151-20
+
+8237
+
+CH430
+
+VI-O0G
+
+C271A L
+
+<
+
+POSITION 4 (HIGH)
+
+CH429
+
+GY-EN
+
+POSITION 3 (MEDIUM HIGH)
+
+|~
+
+CH428
+
+GN-WH
+
+POSITION 2 (MEDIUM LOW)
+
+CH427
+
+BN
+
+e ——
+
+POSITION 1 (LOW)
+
+4
+
+3
+
+1
+
+|
+
+A
+
+Yoo L
+
+PRpRpRpRY, e
+
+N
+
+2 A €293
+
+S ooooCcoaooC e m oo D oo oo
+
+C2T1A
+
+L — o —o——aw-
+
+=]
+
+BLOWER
+
+5 B
+
+38 b c210
+
+o
+
+33 A c210
+
+=
+
+G203
+
+-
+
+10-7

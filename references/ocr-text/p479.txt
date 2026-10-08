@@ -1,0 +1,147 @@
+Hot in Start or Run
+
+2.0L
+
+Start/Stop Bus
+
+e
+
+L L L L L L L L L L L L L L LT T T —————=
+
+BODY
+
+CONTROL
+
+F36
+
+F13
+
+MODULE (BCM)
+
+15A
+
+7.5A
+
+11-17
+
+13-101
+
+13-102
+
+HS1CAN-
+
+HS1CAN+
+
+Loooos
+
+scocoo
+
+gy
+
+ccoo
+
+e —
+
+SEEEET e
+
+¥
+
+15
+
+8 I C02280A
+
+9 ~P---10
+
+C02280G
+
+5244
+
+U 0
+
+—_—
+
+C02414
+
+A
+
+mmmmmmmnn
+
+a~
+
+Ep——
+
+Ep———
+
+Scccoo==c
+
+VPWR
+
+VBATT
+
+S'[(')EERD(\]IS COLUMN
+
+MODULE (SCCM)
+
+K
+
+14-11
+
+e S e e A T S S O B S O O e e e
+
+i MULTIFUNCTION SWITCH
+
+R |
+
+C02414
+
+HS2CAN+
+
+VDB235
+
+GN-OG
+
+V4
+
+VDB26  GY-BU
+
+HS2CAN -
+
+e
+
+14-14
+
+5
+
+GND
+
+GND
+
+R,
+
+Eoos
+
+Secccaes
+
+===
+
+¥
+
+10
+
+14
+
+C02414
+
+=
+
+=
+
+@ S219
+
+“
+
+=2
+
+G0205
+
+10-41

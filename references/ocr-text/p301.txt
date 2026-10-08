@@ -1,0 +1,177 @@
+=
+
+EY=T=r=yae=
+
+IBOW(\:/TOLTAGE
+
+2.0L
+
+DIRECT CURRENT (DC/DC)
+
+CONVERTER.
+
+151-93 15195
+
+Hot at all times
+
+CDC77_GY-YE
+
+PWROUT1
+
+>
+
+)002513
+
+3
+
+S Y SN PR
+
+BODY
+
+Soooooooo
+
+CONTROL
+
+MODULE (BCM)
+
+-
+
+Start/Stop Bus.
+
+N C02280G
+
+717
+
+[ —
+
+Seooooooo
+
+-
+
+F12
+
+$230
+
+AY
+
+A
+
+ C02280A
+
+SBP12
+
+GN-RD
+
+SBP12
+
+GN-RD
+
+C02357A
+
+AIR COND!
+
+>
+
+32
+
+<
+
+r?llgr\'me (HVAC)
+
+75A
+
+10
+
+cccooos
+
+CO'{‘I;I'ROL MODULE
+
+multi-fanction.
+
+display
+
+e e
+
+SBP12
+
+GN-RD
+
+€0263
+
+Not used
+
+e e m e
+
+Ssooooon
+
+INSTRUMENT
+
+F13
+
+SBP13
+
+GY-RD
+
+S244
+
+SBP13
+
+GY-RD
+
+C0220
+
+75A
+
+oo
+
+%gSTER @pC)
+
+STEERIN
+
+SBP13
+
+GY-RD
+
+co1d
+
+C
+
+o 0'1(_; COLUMN
+
+7
+
+MODULE
+
+40-5
+
+coccccoos
+
+85-9
+
+31-10 81-10
+
+90-12
+
+146-1
+
+e
+
+GATEWAY
+
+SBP13
+
+GY-RD
+
+02431
+
+MODULE A
+
+(GWM)
+
+24
+
+Y
+
+148
+
+Loomoorcocoooomscoe
