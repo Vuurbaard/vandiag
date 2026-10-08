@@ -1256,3 +1256,26 @@ Sequential IDs: `T-001`, `T-002`, …
   - All three must be plugged in and locked again before the key is next turned on.
 - Evidence files/photos: none.
 - Next action: find C311 along the far-side bundle and photograph it.
+
+## T-056 — Far-side bundle traced: a grey lever connector at the A-pillar foot, candidate for C311
+
+- Date/time: 2026-10-08 (exact time not recorded)
+- Performed by: Sander (tracing and photos), Claude (photo read)
+- Goal: Find C311 by following the bundle on the far side of the glovebox inline connector (next action from T-054).
+- Source: PDF page 217, printed "2.2L" (C311 pins 42/43 and 44/45, wires VDB04 white-blue and VDB05 white)
+- Vehicle state: key out, battery connected; all three PCM connectors unplugged (T-055)
+- Tool and mode: N/A (visual)
+- Connector state: nothing unplugged in the cabin
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: a second large connector with two white and white-blue pairs.
+- Actual result:
+  - Reporter: the bundle in brown paper tape joins one arm of a Y. The thick loom runs across the dash to the driver's side. The other arm splits again: one branch disappears behind metal in the lower A-pillar, direction unknown; the other branch ends at the connector in the photo.
+  - Photo (Claude's reading): a connector with a **grey lever housing and a black terminal block**, low at the A-pillar foot near the floor, wires entering from above and leaving below. Behind it a large round rubber grommet with a taped loom passing through the body.
+  - In the wire entry, a white wire and a white wire with a blue stripe appear to enter next to each other in **two places** (left edge and right edge of the block). Seen from one angle in a small photo; not certain. No label or cavity numbers visible.
+  - No moisture, deposits or damage visible.
+- Interpretation:
+  - Two white and white-blue pairs is what p.217 predicts for C311 and for no other connector on this stretch. **Candidate for C311, not confirmed.** The T-045 printout lists C311 as black; this housing is grey with a black block, on a different model, so the colour neither confirms nor excludes it.
+  - If both pairs can be back-probed here with C175B unplugged, the readings split the suspect stretch (T-047): both about 120 Ω means the break is after this connector; one about 120 Ω and one in kilo-ohms means the break is in the roof loop (C900, S904/S905) or in this connector's own terminals.
+- Evidence files/photos: `evidence/photos/2026-10-08-main-harness-branch-point.png`, `evidence/photos/2026-10-08-grey-connector-a-pillar-foot.png`; marked image for the follow-up: `evidence/photos/marked-grey-connector-can-pair-candidates.jpg`
+- Next action: back-probe each white and white-blue pair at the grey connector and measure the resistance across each pair.
