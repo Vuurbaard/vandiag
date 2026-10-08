@@ -1175,3 +1175,23 @@ Sequential IDs: `T-001`, `T-002`, …
   - Practical consequence: when measuring at any connector on the suspect stretch, wiggle the connector and its looms and watch for the reading to jump.
 - Evidence files/photos: none saved (screenshot of a third-party forum page).
 - Next action: unchanged from T-050.
+
+## T-052 — CAN pair at the inline connector behind the glovebox (probably C210): about 0.13 kΩ, sometimes jumping to 0.20
+
+- Date/time: 2026-10-08 (exact time not recorded)
+- Performed by: Sander
+- Goal: Check that the HS CAN pair is on the healthy (diagnostic-socket) side of the break at this connector, and prove the back-probe method (next action from T-047/T-051).
+- Source: `Ford-Transit-Custom-1-2012-2020-–-Wiring-Diagrams.pdf`, PDF page 217, printed "2.2L" (C210 pins 68/67, wires VDB04 white-blue and VDB05 white)
+- Vehicle state: key out, battery connected (as instructed; not restated). Time since key-out not recorded.
+- Tool and mode: AstroAI AM33D, 20 kΩ range (as instructed; not restated), thin pin probes
+- Connector state: inline connector plugged in, back-probed from the wire side. C175B unplugged was the instruction; **not restated by the reporter**.
+- Reference/ground point: N/A (across the pair)
+- Probe points: the plain white wire and the white wire with a blue stripe marked in `evidence/photos/marked-inline-connector-can-pair-backprobe.jpg`
+- Expected result: about 0.12 kΩ if this point is on the diagnostic-socket side of the break.
+- Actual result: **0.13**, jumping to **0.20** "sometimes". Whether the jumps coincide with wiggling the connector, and whether the two wires are twisted further up the loom, was not reported.
+- Interpretation:
+  - On the 20 kΩ range one digit is 10 Ω, so 0.13 means roughly 125 to 135 Ω. That is one end resistor: this point is connected to the same part of the network as the diagnostic socket (120 Ω there, T-006). It also confirms these two wires are the HS CAN pair and that back-probing works.
+  - This is what T-048 predicted for C210. The break is further along the bus, towards C311, provided C175B was unplugged during the reading. With C175B plugged in the reading would not distinguish the two sides.
+  - The jumps to 0.20 are unexplained. Candidates: a probe losing contact for a moment, a module on the bus waking up and transmitting, or an intermittent joint somewhere between this point and the end resistor. The last one would matter. Needs a repeat on the 200 Ω range with hands off, then while wiggling.
+- Evidence files/photos: none new.
+- Next action: repeat on the 200 Ω range, hands off and then wiggling; confirm C175B was unplugged; then follow the far-side bundle to find C311.
