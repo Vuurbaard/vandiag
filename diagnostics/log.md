@@ -1429,3 +1429,24 @@ Sequential IDs: `T-001`, `T-002`, …
   - If this holds, the fault is not in the PCM, its supply, or a corroded terminal, but a harness that is not plugged in. The link to the battery change (T-005) would then be timing only; depends on when the headliner came out.
 - Evidence files/photos: `evidence/photos/2026-10-13-windscreen-module-connectors.png`, `evidence/photos/2026-10-13-windscreen-module-label-BK2T-19H406-AE.png`, `evidence/photos/marked-windscreen-module-unplugged-connector.jpg`
 - Next action: find the roof harness and the connector where it joins the body harness (C900): is the harness still in the van, is C900 plugged in, and where is the mate of the unplugged grey connector. Photograph both. Also report when the headliner was removed.
+
+## T-064 — The roof harness was glued to the headliner and came out of the van with it
+
+- Date/time: 2026-10-13
+- Performed by: Sander (statement)
+- Goal: Establish the state of the roof harness (next action from T-063).
+- Source: PDF page 217, printed "2.2L" (C900 pins 4/10 and 12/6, S904/S905)
+- Vehicle state: key out; PCM connectors plugged in (T-061)
+- Tool and mode: N/A
+- Connector state: **roof harness not in the van**, so C900 is unplugged on the body-harness side, and the camera's grey connector (probably C919) has no mate (T-063).
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result: reporter: the roof harness was glued to the headliner, so it was taken out together with the headliner. When this was done was not stated.
+- Interpretation:
+  - Per p.217 the HS CAN bus goes up through C900 pins 4/10, through S904/S905 in the roof harness, and back down through C900 pins 12/6. **With the roof harness out, the bus is open at C900.** Everything after it (restraints module, PCM, ABS) is cut off from the diagnostic socket and from the BCM and instrument cluster.
+  - This accounts for the measurements without any damaged part: 120 Ω at the diagnostic socket (T-006) and at C210 (T-053), 19 kΩ at C175B (T-042), 19.83 kΩ between the two CAN+ wires at C311 (T-062), and the PCM, ABS and restraints modules missing from the scan (T-007). A PCM that cannot talk to the BCM and cluster also fits the no-crank (T-001).
+  - **Most probable root cause. Not yet proven:** proof is the bus closing again when the roof harness is plugged back in at C900, followed by the PCM answering and the engine cranking.
+  - The battery change (T-005) would then be a coincidence in time, if the headliner came out in the same period. Timing still to be confirmed.
+- Evidence files/photos: none new.
+- Next action: plug the roof harness back in at C900 (it can lie loose in the van), then repeat T-062 at C311 before turning the key.
