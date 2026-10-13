@@ -1326,3 +1326,22 @@ Sequential IDs: `T-001`, `T-002`, …
   - Without a face view, three things can settle it on the van: cavity numbers moulded into the housing, the twist of the pairs in the loom, and the measurement itself (the pair from the diagnostic-socket side reads about 120 Ω).
 - Evidence files/photos: `evidence/photos/marked-grey-connector-corner-vs-can-group.jpg`
 - Next action: look for moulded cavity numbers on the grey connector; find four white-blue / white wires in a row; measure across each pair.
+
+## T-059 — Right-hand white-blue wire at the grey connector has a plain white wire beside it
+
+- Date/time: 2026-10-13
+- Performed by: Sander
+- Goal: Check which of the two marked places at the grey connector can be a CAN pair (follow-up to T-058).
+- Source: PDF pages 217 and 218, printed "2.2L" (C311 pins 42 to 45)
+- Vehicle state: key out; all three PCM connectors unplugged (T-055)
+- Tool and mode: N/A (visual)
+- Connector state: nothing unplugged in the cabin
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: a white-blue wire with a plain white wire next to it, twice, on four cavities in a row.
+- Actual result: reporter: "pair R" of `evidence/photos/marked-grey-connector-can-pair-candidates.jpg` does have a white wire next to the white-blue one. The left-hand white-blue wire is in a corner cavity (T-058). Whether a second white-blue and white pair sits directly beside pair R was not reported.
+- Interpretation:
+  - Pair R fits one of the two CAN pairs of C311 (42/43 or 44/45). The left-hand corner wire fits pin 1 and is set aside.
+  - The diagram puts both CAN pairs on four neighbouring cavities, so the second pair should be directly beside pair R. Which pair is the diagnostic-socket side and which the PCM side is not known without cavity numbers; the readings will show it (about 120 Ω on the socket side).
+- Evidence files/photos: none new.
+- Next action: measure across pair R; find the second white-blue and white pair beside it and measure across that as well.
