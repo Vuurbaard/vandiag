@@ -1364,3 +1364,22 @@ Sequential IDs: `T-001`, `T-002`, …
   - Which of the two pairs is 42/43 (towards the PCM) and which is 44/45 (from the diagnostic-socket side) is not known. The readings will show it.
 - Evidence files/photos: none new; region B in `evidence/photos/marked-grey-connector-corner-vs-can-group.jpg`.
 - Next action: back-probe and measure across each of the two pairs, hands off and while wiggling.
+
+## T-061 — Connector state: all three PCM connectors plugged in again
+
+- Date/time: reported 2026-10-13; date of reconnection not recorded (after T-057, 2026-10-08)
+- Performed by: Sander
+- Goal: Keep the connector state current; T-055 recorded all three PCM connectors as unplugged.
+- Source: N/A
+- Vehicle state: key out, battery connected
+- Tool and mode: N/A
+- Connector state: **C175B, C175T and C175E plugged in again**, done because of rain and a longer break in the work. Whether each is fully locked was not stated.
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result: as above, stated by the reporter.
+- Interpretation:
+  - The state of T-055 no longer applies. Any resistance reading across a CAN pair taken from now on has the PCM connected and must be read with that in mind.
+  - A continuity check through the roof loop at C311 (white-blue to white-blue, white to white, across the two pairs) does not depend on the PCM connector state and can be done as things are.
+- Evidence files/photos: none.
+- Next action: at C311, key out, measure first white-blue to second white-blue and first white to second white on the Ω 200 range.
