@@ -154,6 +154,10 @@ p.298 refers to this sheet as 14-5. Found by OCR search for wire name VDB04
 - Measured T-042: C175B 10 to 11 on the harness side is about 19 kΩ, so this
   stretch is cut off from the DLC side (120 Ω there). Suspect stretch from
   the T-007 module list: between S922/S921 and S297/S296.
+- The camera (IPMA, fitted on this van: BK2T-19H406-AE, T-063) is a side
+  branch off S904/S905 through C919 pins 3/9 and C9039 pins 3/4 (p.217, 609).
+  S904/S905 are drawn on the roof-harness side of C900, so the bus is only
+  closed when the roof harness is plugged in at C900.
 - Locations of C311, C900, C192 on the van: not in this PDF or the BEMM, and
   not found online (T-043). Inferred from the other circuits they carry:
   - **C311** = main harness to right-hand body harness (also carries right

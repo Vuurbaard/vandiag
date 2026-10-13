@@ -1405,3 +1405,27 @@ Sequential IDs: `T-001`, `T-002`, …
   - Resistance measured with the battery connected and modules possibly awake, so the exact value is not reliable; the conclusion only needs "kilo-ohms, not ohms".
 - Evidence files/photos: none.
 - Next action: same check on the two white wires (CAN−, pins 45 and 43).
+
+## T-063 — Headliner has been removed; the windscreen camera module (BK2T-19H406-AE) is unplugged from the roof harness
+
+- Date/time: 2026-10-13
+- Performed by: Sander (statement and photos), Claude (photo and diagram read)
+- Goal: Answer the open question of T-043/T-062: does the van have the lane departure camera, and what state is the roof loop in.
+- Source: `Ford-Transit-Custom-1-2012-2020-–-Wiring-Diagrams.pdf`, printed "2.2L": PDF page 217 (network, C900, S904/S905, C919, C9039) and page 609 (Lane Departure Warning). Part number function: web search (Ford lists 19H406 parts as "Lane Departure System Camera Image Processing Module - Front").
+- Vehicle state: key out; PCM connectors plugged in (T-061)
+- Tool and mode: N/A (visual)
+- Connector state: see result
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result:
+  - Reporter: **the headliner has been removed, and the unit behind the mirror is no longer connected.** First said the van has no lane assist, then corrected: it probably does have a camera. When the headliner was removed was not stated.
+  - Photos: a metal-cased module on the windscreen behind the mirror, label **Ford BK2T-19H406-AE**. A small connector is plugged into the module; a short taped harness with a paper label (BK2T-14F2?8-AB, partly legible) runs from it to a **grey connector with a red lock that is not mated to anything**.
+- Interpretation:
+  - 19H406 is Ford's base number for the front camera image processing module. **The van has the IPMA, so the "lane departure warning" option box of p.217 applies to this van.**
+  - Per p.217 the bus runs C311 pin 44/45 → S922/S921 → **C900 pins 4/10** → S904/S905 → **C900 pins 12/6** → on to C311 42/43. The camera hangs on S904/S905 as a side branch through C919 pins 3/9 and C9039 pins 3/4. As drawn, S904/S905 are on the roof-harness side of C900.
+  - The unmated grey connector is probably C919 (inferred from the diagram, not read from the part). **As drawn, unplugging C919 alone only removes the camera's side branch; it does not open the bus.**
+  - What would open the bus is the roof harness itself being unplugged at C900 or taken out with the headliner: the through-connection S904/S905 goes with it. That would give exactly what was measured: CAN+ open between the two passes through C311 (T-062), PCM stretch cut off (T-042), and PCM, ABS and restraints missing from the scan (T-007). **Leading explanation now; not confirmed.** The state and whereabouts of the roof harness and C900 are not known.
+  - If this holds, the fault is not in the PCM, its supply, or a corroded terminal, but a harness that is not plugged in. The link to the battery change (T-005) would then be timing only; depends on when the headliner came out.
+- Evidence files/photos: `evidence/photos/2026-10-13-windscreen-module-connectors.png`, `evidence/photos/2026-10-13-windscreen-module-label-BK2T-19H406-AE.png`, `evidence/photos/marked-windscreen-module-unplugged-connector.jpg`
+- Next action: find the roof harness and the connector where it joins the body harness (C900): is the harness still in the van, is C900 plugged in, and where is the mate of the unplugged grey connector. Photograph both. Also report when the headliner was removed.
