@@ -1303,3 +1303,26 @@ Sequential IDs: `T-001`, `T-002`, …
   - Correction to T-043: the right sliding door ajar switch is on C311 pin 6, not pin 8.
 - Evidence files/photos: none new.
 - Next action: check the grey connector against the colour list; find the two twisted white-blue and white pairs and measure across each.
+
+## T-058 — No numbered face view of C311 found; the corner white-blue wire is probably pin 1, not CAN
+
+- Date/time: 2026-10-13
+- Performed by: Sander (observation), Claude (search, photo read)
+- Goal: The reporter sees that the left-most white-blue wire at the grey connector sits in a corner cavity, which could be pin 1, and asked for a pinout with cavity positions.
+- Source: `Ford-Transit-Custom-1-2012-2020-–-Wiring-Diagrams.pdf` (OCR text in `references/ocr-text/`), `benl_montagehandleiding-Transit-Custom.pdf`, `references/connectors/transit-2019MY-C311-location-printout.png`, web search
+- Vehicle state: key out; all three PCM connectors unplugged (T-055)
+- Tool and mode: N/A (visual, document search)
+- Connector state: nothing unplugged in the cabin
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: N/A
+- Actual result:
+  - Reporter: the white-blue wire at the left edge of the grey connector is in a corner cavity.
+  - Search: no face view with cavity numbers for C311 in the wiring diagram PDF, in the BEMM, or online. The only face view on hand is the unnumbered one on the 2019 large-Transit printout (T-045): two long outer columns of small cavities, a centre block of larger cavities, two pairs of cavities at each end. Different model; no numbers legible.
+  - Photo (Claude's re-reading of the T-056 photo): the corner wire at the left is white-blue; the wire beside it looks plain white or white-green. At the right-hand side several white and white-blue wires enter close together.
+- Interpretation:
+  - Pin 1 of C311 is a single white-blue wire (interior light dimming, PDF p.454). A white-blue wire in a corner cavity fits pin 1. **"Pair L" of T-056 is therefore probably not a CAN pair.** Not confirmed: the numbering direction is unknown.
+  - The CAN wires are on four cavities in a row, 42 to 45: white-blue, white, white-blue, white, as two twisted pairs. The right-hand group in the photo is the better place to look. Not confirmed from the photo.
+  - Without a face view, three things can settle it on the van: cavity numbers moulded into the housing, the twist of the pairs in the loom, and the measurement itself (the pair from the diagnostic-socket side reads about 120 Ω).
+- Evidence files/photos: `evidence/photos/marked-grey-connector-corner-vs-can-group.jpg`
+- Next action: look for moulded cavity numbers on the grey connector; find four white-blue / white wires in a row; measure across each pair.

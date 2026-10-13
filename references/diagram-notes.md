@@ -188,7 +188,8 @@ pin 47 = START from the ignition switch via C210 pin 51 and C139 pin 16
 
 ## Connector C311 — pin list collected from the diagram (2.2L)
 
-No face view of C311 exists in this PDF, so cavity positions are unknown; use
+No face view of C311 exists in this PDF, the BEMM or online (searched again in
+T-058), so cavity positions are unknown; use
 the wire colours to recognise the connector. Collected in T-057. "If fitted"
 circuits may be absent on this van. The list is certainly incomplete.
 
