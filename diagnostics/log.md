@@ -1383,3 +1383,25 @@ Sequential IDs: `T-001`, `T-002`, …
   - A continuity check through the roof loop at C311 (white-blue to white-blue, white to white, across the two pairs) does not depend on the PCM connector state and can be done as things are.
 - Evidence files/photos: none.
 - Next action: at C311, key out, measure first white-blue to second white-blue and first white to second white on the Ω 200 range.
+
+## T-062 — C311: the two white-blue wires read 19.83 kΩ to each other, not a few ohms
+
+- Date/time: 2026-10-13 (exact time not recorded)
+- Performed by: Sander
+- Goal: Check that the HS CAN+ wire is continuous through the roof loop, without unplugging the PCM (next action from T-061).
+- Source: `Ford-Transit-Custom-1-2012-2020-–-Wiring-Diagrams.pdf`, PDF pages 217 and 218, printed "2.2L" (C311 pins 44 and 42, wire VDB04 white-blue; C900 pins 4 and 12; splices S922, S904)
+- Vehicle state: key out, battery connected (as instructed; not restated). Time since key-out not recorded.
+- Tool and mode: AstroAI AM33D, Ω 200 range, then 20 kΩ range; thin pin probes
+- Connector state: grey connector (C311, T-060) plugged in, back-probed from the wire side. All three PCM connectors plugged in (T-061).
+- Reference/ground point: N/A (wire to wire)
+- Probe points: the first and the second white-blue wire of the four in a row (T-060)
+- Expected result: under a few ohms if the wire is continuous from C311 pin 44 up through the roof harness and back to pin 42.
+- Actual result: **0L on the 200 Ω range; 19.83 on the 20 kΩ range.** White to white not measured yet. Wiggle not reported.
+- Interpretation:
+  - A reading at all shows both probes had contact. About 20 kΩ is the order of size of a path through module inputs (compare 19 kΩ at C175B, T-042), not a copper wire.
+  - **HS CAN+ is not continuous between the two passes through C311.** Per p.217 that wire runs C311 pin 44 → S922 (parking aid module) → C900 pin 4 → S904 → C900 pin 12 → C311 pin 42. The break is on that stretch: a C311 terminal, C900, or the wire and splices between. This is the first direct measurement of the break; it agrees with where T-042 placed it from the module list.
+  - It rests on the two wires being pins 44 and 42, which comes from wire colour and position (T-060), not from cavity numbers.
+  - Open question from T-043, still unanswered: on p.217 the S904/S905 stretch sits inside the lane departure warning option box. Whether this van has that camera, and how the loop is closed on a van without it, is not known. If the loop is closed by a part in the roof harness, that part or C900 is where to look.
+  - Resistance measured with the battery connected and modules possibly awake, so the exact value is not reliable; the conclusion only needs "kilo-ohms, not ohms".
+- Evidence files/photos: none.
+- Next action: same check on the two white wires (CAN−, pins 45 and 43).
