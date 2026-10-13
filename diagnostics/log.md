@@ -1450,3 +1450,25 @@ Sequential IDs: `T-001`, `T-002`, …
   - The battery change (T-005) would then be a coincidence in time, if the headliner came out in the same period. Timing still to be confirmed.
 - Evidence files/photos: none new.
 - Next action: plug the roof harness back in at C900 (it can lie loose in the van), then repeat T-062 at C311 before turning the key.
+
+## T-065 — Grey connector at the camera plugged in: the van starts again
+
+- Date/time: 2026-10-13 (exact time not recorded)
+- Performed by: Sander
+- Goal: Close the HS CAN bus again (next action from T-064).
+- Source: PDF page 217, printed "2.2L" (C919, S904/S905, C900)
+- Vehicle state: battery connected; PCM connectors plugged in (T-061)
+- Tool and mode: none (start attempt)
+- Connector state: **the grey connector with the red lock at the windscreen camera module (taken to be C919, T-063) plugged in again.** What it was plugged into, and whether the roof harness and C900 were also reconnected, was not stated.
+- Reference/ground point: N/A
+- Probe points: N/A
+- Expected result: per T-063/T-064, C900 was expected to be the connector that matters; C919 alone was expected to restore only the camera.
+- Actual result: reporter: **"The van starts again! Everything seems to work again!"** No scan, no resistance reading and no list of warning lamps yet.
+- Interpretation:
+  - **The no-crank is gone after reconnecting one connector in the roof/camera wiring.** The fault was an open HS CAN bus in the roof loop, as measured in T-062. No part was replaced.
+  - Correction to T-063: that entry read p.217 as showing C919 to be a side branch whose disconnection does not open the bus. The result says otherwise for this van, or more than C919 was reconnected. Possible explanations: the joints S904/S905 physically sit in the short camera harness so that the bus passes through this grey connector, or the connector is not C919. Not resolved; the diagram shows the circuit, not where the joints physically are.
+  - Practical consequence: **this connector must stay plugged in and the camera harness must stay in the van**, headliner or not. Unplugging it stops the van from starting.
+  - The battery change (T-005) was not the cause. When the headliner and harness were removed relative to it is still not recorded.
+  - Not yet done for the definition of done in the README: a full scan after the repair, stored fault codes saved and then cleared, several key cycles, and securing the loose harness.
+- Evidence files/photos: none.
+- Next action: full FORScan scan with the engine running or key on; save the module list and all fault codes before clearing anything.
